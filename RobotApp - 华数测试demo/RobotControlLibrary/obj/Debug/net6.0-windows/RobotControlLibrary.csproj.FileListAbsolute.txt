@@ -1,0 +1,302 @@
+D:\研究生0\机器人\重庆机器人\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.deps.json
+D:\研究生0\机器人\重庆机器人\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\研究生0\机器人\重庆机器人\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\研究生0\机器人\重庆机器人\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.g.cs
+D:\研究生0\机器人\重庆机器人\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.cache
+D:\研究生0\机器人\重庆机器人\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.lref
+D:\研究生0\机器人\重庆机器人\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.baml
+D:\研究生0\机器人\重庆机器人\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.g.resources
+D:\研究生0\机器人\重庆机器人\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\研究生0\机器人\重庆机器人\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfoInputs.cache
+D:\研究生0\机器人\重庆机器人\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfo.cs
+D:\研究生0\机器人\重庆机器人\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CoreCompileInputs.cache
+D:\研究生0\机器人\重庆机器人\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\研究生0\机器人\重庆机器人\RobotControlLibrary\obj\Debug\net6.0-windows\refint\RobotControlLibrary.dll
+D:\研究生0\机器人\重庆机器人\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\研究生0\机器人\重庆机器人\RobotControlLibrary\obj\Debug\net6.0-windows\ref\RobotControlLibrary.dll
+D:\研究生0\机器人\重庆机器人\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.deps.json
+D:\研究生0\机器人\重庆机器人\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\研究生0\机器人\重庆机器人\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\研究生0\机器人\重庆机器人\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.cache
+D:\研究生0\机器人\重庆机器人\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.lref
+D:\研究生0\机器人\重庆机器人\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.baml
+D:\研究生0\机器人\重庆机器人\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.g.resources
+D:\研究生0\机器人\重庆机器人\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\研究生0\机器人\重庆机器人\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfoInputs.cache
+D:\研究生0\机器人\重庆机器人\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfo.cs
+D:\研究生0\机器人\重庆机器人\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CoreCompileInputs.cache
+D:\研究生0\机器人\重庆机器人\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\研究生0\机器人\重庆机器人\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\refint\RobotControlLibrary.dll
+D:\研究生0\机器人\重庆机器人\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\研究生0\机器人\重庆机器人\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\ref\RobotControlLibrary.dll
+D:\研究生0\机器人\重庆机器人\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.baml
+D:\研究生0\机器人\重庆机器人\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.dll
+D:\研究生0\机器人\重庆机器人\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.pdb
+D:\研究生0\机器人\重庆机器人\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.AssemblyReference.cache
+D:\研究生0\机器人\重庆机器人\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CopyComplete
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.deps.json
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.pdb
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.AssemblyReference.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.lref
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.g.resources
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfoInputs.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfo.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CopyComplete
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\refint\RobotControlLibrary.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.pdb
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\ref\RobotControlLibrary.dll
+D:\code\RobotApp\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.deps.json
+D:\code\RobotApp\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\code\RobotApp\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\code\RobotApp\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.dll
+D:\code\RobotApp\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.pdb
+D:\code\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.AssemblyReference.cache
+D:\code\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.g.cs
+D:\code\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.g.cs
+D:\code\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.cache
+D:\code\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.lref
+D:\code\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.baml
+D:\code\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.baml
+D:\code\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.g.resources
+D:\code\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfoInputs.cache
+D:\code\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfo.cs
+D:\code\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CoreCompileInputs.cache
+D:\code\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CopyComplete
+D:\code\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\code\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\refint\RobotControlLibrary.dll
+D:\code\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\code\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\ref\RobotControlLibrary.dll
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.deps.json
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.dll
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.pdb
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.AssemblyReference.cache
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.g.cs
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.g.cs
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.cache
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.lref
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.baml
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.baml
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.g.resources
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfoInputs.cache
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfo.cs
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CoreCompileInputs.cache
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CopyComplete
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\refint\RobotControlLibrary.dll
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\ref\RobotControlLibrary.dll
+G:\RobotApp\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.deps.json
+G:\RobotApp\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+G:\RobotApp\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+G:\RobotApp\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.dll
+G:\RobotApp\RobotApp\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.pdb
+G:\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.AssemblyReference.cache
+G:\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.g.cs
+G:\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.g.cs
+G:\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.cache
+G:\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.lref
+G:\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.baml
+G:\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.baml
+G:\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.g.resources
+G:\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfoInputs.cache
+G:\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfo.cs
+G:\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CoreCompileInputs.cache
+G:\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CopyComplete
+G:\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.dll
+G:\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\refint\RobotControlLibrary.dll
+G:\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.pdb
+G:\RobotApp\RobotApp\RobotControlLibrary\obj\Debug\net6.0-windows\ref\RobotControlLibrary.dll
+D:\code\RobotApp\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.deps.json
+D:\code\RobotApp\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\code\RobotApp\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\code\RobotApp\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.dll
+D:\code\RobotApp\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.pdb
+D:\code\RobotApp\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.AssemblyReference.cache
+D:\code\RobotApp\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.g.cs
+D:\code\RobotApp\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.g.cs
+D:\code\RobotApp\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.cache
+D:\code\RobotApp\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.lref
+D:\code\RobotApp\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.baml
+D:\code\RobotApp\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.baml
+D:\code\RobotApp\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.g.resources
+D:\code\RobotApp\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\RobotApp\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfoInputs.cache
+D:\code\RobotApp\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfo.cs
+D:\code\RobotApp\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CoreCompileInputs.cache
+D:\code\RobotApp\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CopyComplete
+D:\code\RobotApp\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\code\RobotApp\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\refint\RobotControlLibrary.dll
+D:\code\RobotApp\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\code\RobotApp\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\ref\RobotControlLibrary.dll
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.deps.json
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.dll
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.pdb
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.AssemblyReference.cache
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.g.cs
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.g.cs
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.cache
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.lref
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.baml
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.baml
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.g.resources
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfoInputs.cache
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfo.cs
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CoreCompileInputs.cache
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CopyComplete
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\refint\RobotControlLibrary.dll
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\ref\RobotControlLibrary.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.deps.json
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.pdb
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.AssemblyReference.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.lref
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.g.resources
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfoInputs.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfo.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CopyComplete
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\refint\RobotControlLibrary.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.pdb
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\ref\RobotControlLibrary.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.deps.json
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.pdb
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.AssemblyReference.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.lref
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.g.resources
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfoInputs.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfo.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CopyComplete
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\refint\RobotControlLibrary.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.pdb
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\ref\RobotControlLibrary.dll
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.deps.json
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.dll
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.pdb
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.AssemblyReference.cache
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.g.cs
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.g.cs
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.cache
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.lref
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.baml
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.baml
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.g.resources
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfoInputs.cache
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfo.cs
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CoreCompileInputs.cache
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CopyComplete
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.dll
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\refint\RobotControlLibrary.dll
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.pdb
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\ref\RobotControlLibrary.dll
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.deps.json
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.dll
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.pdb
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.AssemblyReference.cache
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.g.cs
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.g.cs
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.cache
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.lref
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.baml
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.baml
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.g.resources
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfoInputs.cache
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfo.cs
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CoreCompileInputs.cache
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CopyComplete
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\refint\RobotControlLibrary.dll
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\ref\RobotControlLibrary.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.deps.json
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.pdb
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.AssemblyReference.cache
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.cache
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.lref
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.baml
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.baml
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.g.resources
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfoInputs.cache
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfo.cs
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CoreCompileInputs.cache
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\refint\RobotControlLibrary.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\ref\RobotControlLibrary.dll
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.deps.json
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.dll
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.pdb
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.AssemblyReference.cache
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.g.cs
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.g.cs
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.cache
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.lref
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.baml
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.baml
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.g.resources
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfoInputs.cache
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfo.cs
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CoreCompileInputs.cache
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CopyComplete
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\refint\RobotControlLibrary.dll
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\ref\RobotControlLibrary.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotCon.C1540E36.Up2Date

@@ -1,0 +1,222 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\研究生0\\机器人\\重庆机器人\\RobotApp\\Robot_window\\Robot_window.csproj": {}
+  },
+  "projects": {
+    "D:\\研究生0\\机器人\\重庆机器人\\RobotApp\\RobotControlLibrary\\RobotControlLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp\\RobotControlLibrary\\RobotControlLibrary.csproj",
+        "projectName": "RobotControlLibrary",
+        "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp\\RobotControlLibrary\\RobotControlLibrary.csproj",
+        "packagesPath": "C:\\Users\\周玉江起飞了\\.nuget\\packages\\",
+        "outputPath": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp\\RobotControlLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\c_new_shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\周玉江起飞了\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\vcpkg1": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\研究生0\\机器人\\重庆机器人\\RobotApp\\RobotLibrary\\RobotLibrary.csproj": {
+                "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp\\RobotLibrary\\RobotLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\研究生0\\机器人\\重庆机器人\\RobotApp\\RobotLibrary\\RobotLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp\\RobotLibrary\\RobotLibrary.csproj",
+        "projectName": "RobotLibrary",
+        "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp\\RobotLibrary\\RobotLibrary.csproj",
+        "packagesPath": "C:\\Users\\周玉江起飞了\\.nuget\\packages\\",
+        "outputPath": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp\\RobotLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\c_new_shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\周玉江起飞了\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\vcpkg1": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\研究生0\\机器人\\重庆机器人\\RobotApp\\Robot_window\\Robot_window.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp\\Robot_window\\Robot_window.csproj",
+        "projectName": "Robot_window",
+        "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp\\Robot_window\\Robot_window.csproj",
+        "packagesPath": "C:\\Users\\周玉江起飞了\\.nuget\\packages\\",
+        "outputPath": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp\\Robot_window\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\c_new_shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\周玉江起飞了\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\vcpkg1": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\研究生0\\机器人\\重庆机器人\\RobotApp\\RobotControlLibrary\\RobotControlLibrary.csproj": {
+                "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp\\RobotControlLibrary\\RobotControlLibrary.csproj"
+              },
+              "D:\\研究生0\\机器人\\重庆机器人\\RobotApp\\RobotLibrary\\RobotLibrary.csproj": {
+                "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp\\RobotLibrary\\RobotLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "HelixToolkit": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            },
+            "HelixToolkit.Wpf": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            },
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

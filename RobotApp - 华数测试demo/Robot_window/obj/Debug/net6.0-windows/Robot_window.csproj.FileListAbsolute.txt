@@ -1,0 +1,782 @@
+D:\研究生0\机器人\重庆机器人\Robot_window\bin\Debug\net6.0-windows\Robot_window.exe
+D:\研究生0\机器人\重庆机器人\Robot_window\bin\Debug\net6.0-windows\Robot_window.deps.json
+D:\研究生0\机器人\重庆机器人\Robot_window\bin\Debug\net6.0-windows\Robot_window.runtimeconfig.json
+D:\研究生0\机器人\重庆机器人\Robot_window\bin\Debug\net6.0-windows\Robot_window.dll
+D:\研究生0\机器人\重庆机器人\Robot_window\bin\Debug\net6.0-windows\Robot_window.pdb
+D:\研究生0\机器人\重庆机器人\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.dll
+D:\研究生0\机器人\重庆机器人\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.Wpf.dll
+D:\研究生0\机器人\重庆机器人\Robot_window\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\研究生0\机器人\重庆机器人\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.dll
+D:\研究生0\机器人\重庆机器人\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.pdb
+D:\研究生0\机器人\重庆机器人\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.AssemblyReference.cache
+D:\研究生0\机器人\重庆机器人\Robot_window\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\研究生0\机器人\重庆机器人\Robot_window\obj\Debug\net6.0-windows\App.g.cs
+D:\研究生0\机器人\重庆机器人\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.cache
+D:\研究生0\机器人\重庆机器人\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.lref
+D:\研究生0\机器人\重庆机器人\Robot_window\obj\Debug\net6.0-windows\MainWindow.baml
+D:\研究生0\机器人\重庆机器人\Robot_window\obj\Debug\net6.0-windows\Robot_window.g.resources
+D:\研究生0\机器人\重庆机器人\Robot_window\obj\Debug\net6.0-windows\Robot_window.GeneratedMSBuildEditorConfig.editorconfig
+D:\研究生0\机器人\重庆机器人\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfoInputs.cache
+D:\研究生0\机器人\重庆机器人\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfo.cs
+D:\研究生0\机器人\重庆机器人\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CoreCompileInputs.cache
+D:\研究生0\机器人\重庆机器人\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CopyComplete
+D:\研究生0\机器人\重庆机器人\Robot_window\obj\Debug\net6.0-windows\Robot_window.dll
+D:\研究生0\机器人\重庆机器人\Robot_window\obj\Debug\net6.0-windows\refint\Robot_window.dll
+D:\研究生0\机器人\重庆机器人\Robot_window\obj\Debug\net6.0-windows\Robot_window.pdb
+D:\研究生0\机器人\重庆机器人\Robot_window\obj\Debug\net6.0-windows\Robot_window.genruntimeconfig.cache
+D:\研究生0\机器人\重庆机器人\Robot_window\obj\Debug\net6.0-windows\ref\Robot_window.dll
+D:\研究生0\机器人\重庆机器人\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\研究生0\机器人\重庆机器人\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\研究生0\机器人\重庆机器人\Robot_window\obj\Debug\net6.0-windows\StyleResources\RobotMoveContorlResource.baml
+D:\研究生0\机器人\重庆机器人\Robot_window\obj\Debug\net6.0-windows\App.baml
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.exe
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.deps.json
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.runtimeconfig.json
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.dll
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.pdb
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.dll
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.Wpf.dll
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.dll
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.pdb
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.AssemblyReference.cache
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\StyleResources\RobotMoveContorlResource.baml
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\App.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.cache
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.lref
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\App.baml
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\MainWindow.baml
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.g.resources
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.GeneratedMSBuildEditorConfig.editorconfig
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfoInputs.cache
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfo.cs
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CoreCompileInputs.cache
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CopyComplete
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.dll
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\refint\Robot_window.dll
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.pdb
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.genruntimeconfig.cache
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\ref\Robot_window.dll
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.baml
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.baml
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.baml
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\bin\Debug\net6.0-windows\System.IO.Ports.dll
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\Interop.Galil.dll
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.ResolveComReference.cache
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.baml
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.baml
+D:\研究生0\机器人\重庆机器人\RobotApp\Robot_window\obj\Debug\net6.0-windows\StyleResources\MenuStyle.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\refint\Robot_window.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.pdb
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.exe
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.deps.json
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.runtimeconfig.json
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.pdb
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.Wpf.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.pdb
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.AssemblyReference.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Interop.Galil.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.ResolveComReference.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\StyleResources\MenuStyle.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\StyleResources\RobotMoveContorlResource.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.lref
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\App.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.g.resources
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfoInputs.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfo.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CoreCompileInputs.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CopyComplete
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.genruntimeconfig.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ref\Robot_window.dll
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.AssemblyReference.cache
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.ResolveComReference.cache
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\StyleResources\MenuStyle.baml
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\StyleResources\RobotMoveContorlResource.baml
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.g.cs
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.g.cs
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.g.cs
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.g.cs
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.g.cs
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\App.g.cs
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.cache
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.lref
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.dll
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\refint\Robot_window.dll
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.pdb
+D:\code\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.exe
+D:\code\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.deps.json
+D:\code\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.runtimeconfig.json
+D:\code\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.dll
+D:\code\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.pdb
+D:\code\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.dll
+D:\code\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.Wpf.dll
+D:\code\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\code\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\System.IO.Ports.dll
+D:\code\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\code\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\code\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\code\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\code\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\code\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+D:\code\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+D:\code\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\code\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.dll
+D:\code\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\code\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.pdb
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Interop.Galil.dll
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\App.baml
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\MainWindow.baml
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.baml
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.baml
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.baml
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.baml
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.baml
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.g.resources
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfoInputs.cache
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfo.cs
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CoreCompileInputs.cache
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CopyComplete
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.genruntimeconfig.cache
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ref\Robot_window.dll
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.exe
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.deps.json
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.runtimeconfig.json
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.dll
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.pdb
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.dll
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.Wpf.dll
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\bin\Debug\net6.0-windows\System.IO.Ports.dll
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.dll
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.pdb
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.AssemblyReference.cache
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\Interop.Galil.dll
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.ResolveComReference.cache
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\StyleResources\MenuStyle.baml
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\StyleResources\RobotMoveContorlResource.baml
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.g.cs
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.g.cs
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.g.cs
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.g.cs
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.g.cs
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\App.g.cs
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.cache
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.lref
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\App.baml
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\MainWindow.baml
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.baml
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.baml
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.baml
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.baml
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.baml
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.g.resources
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.GeneratedMSBuildEditorConfig.editorconfig
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfoInputs.cache
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfo.cs
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CoreCompileInputs.cache
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CopyComplete
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.dll
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\refint\Robot_window.dll
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.pdb
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.genruntimeconfig.cache
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\ref\Robot_window.dll
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\SpeedSetWindow.g.cs
+D:\研究生0\机器人\重庆机器人\代码\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\SpeedSetWindow.baml
+G:\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.exe
+G:\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.deps.json
+G:\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.runtimeconfig.json
+G:\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.dll
+G:\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\Robot_window.pdb
+G:\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.dll
+G:\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.Wpf.dll
+G:\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\System.IO.Ports.dll
+G:\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+G:\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+G:\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+G:\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+G:\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+G:\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+G:\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+G:\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+G:\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.dll
+G:\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+G:\RobotApp\RobotApp\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.pdb
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.AssemblyReference.cache
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Interop.Galil.dll
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.ResolveComReference.cache
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\StyleResources\MenuStyle.baml
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\StyleResources\RobotMoveContorlResource.baml
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\MainWindow.g.cs
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.g.cs
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.g.cs
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.g.cs
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.g.cs
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\SpeedSetWindow.g.cs
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.g.cs
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\App.g.cs
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.cache
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.lref
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\App.baml
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\MainWindow.baml
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.baml
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.baml
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.baml
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.baml
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\SpeedSetWindow.baml
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.baml
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.g.resources
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.GeneratedMSBuildEditorConfig.editorconfig
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfoInputs.cache
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfo.cs
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CoreCompileInputs.cache
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CopyComplete
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.dll
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\refint\Robot_window.dll
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.pdb
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\Robot_window.genruntimeconfig.cache
+G:\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ref\Robot_window.dll
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\SpeedSetWindow.g.cs
+D:\code\RobotApp\RobotApp\Robot_window\obj\Debug\net6.0-windows\ViewModels\SpeedSetWindow.baml
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.exe
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.deps.json
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.runtimeconfig.json
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.dll
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.pdb
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.dll
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.Wpf.dll
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\System.IO.Ports.dll
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.dll
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.pdb
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.AssemblyReference.cache
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Interop.Galil.dll
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.ResolveComReference.cache
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\StyleResources\MenuStyle.baml
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\StyleResources\RobotMoveContorlResource.baml
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.g.cs
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.g.cs
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.g.cs
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.g.cs
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SpeedSetWindow.g.cs
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.g.cs
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\App.g.cs
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.cache
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.lref
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\App.baml
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\MainWindow.baml
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.baml
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.baml
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.baml
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.baml
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SpeedSetWindow.baml
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.baml
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.g.resources
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfoInputs.cache
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfo.cs
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CoreCompileInputs.cache
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CopyComplete
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.dll
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\refint\Robot_window.dll
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.pdb
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.genruntimeconfig.cache
+D:\code\RobotApp\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ref\Robot_window.dll
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.exe
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.deps.json
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.runtimeconfig.json
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.dll
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.pdb
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.dll
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.Wpf.dll
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\System.IO.Ports.dll
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.dll
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.pdb
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.AssemblyReference.cache
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Interop.Galil.dll
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.ResolveComReference.cache
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\StyleResources\MenuStyle.baml
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\StyleResources\RobotMoveContorlResource.baml
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.g.cs
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.g.cs
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.g.cs
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.g.cs
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SpeedSetWindow.g.cs
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.g.cs
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\App.g.cs
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.cache
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.lref
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\App.baml
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\MainWindow.baml
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.baml
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.baml
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.baml
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.baml
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SpeedSetWindow.baml
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.baml
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.g.resources
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.GeneratedMSBuildEditorConfig.editorconfig
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfoInputs.cache
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfo.cs
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CoreCompileInputs.cache
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CopyComplete
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.dll
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\refint\Robot_window.dll
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.pdb
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.genruntimeconfig.cache
+D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ref\Robot_window.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.exe
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.deps.json
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.runtimeconfig.json
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.pdb
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.Wpf.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.pdb
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.AssemblyReference.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Interop.Galil.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.ResolveComReference.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\StyleResources\MenuStyle.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\StyleResources\RobotMoveContorlResource.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SpeedSetWindow.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.lref
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\App.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SpeedSetWindow.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.g.resources
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfoInputs.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfo.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CoreCompileInputs.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CopyComplete
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\refint\Robot_window.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.pdb
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.genruntimeconfig.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo1.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ref\Robot_window.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.exe
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.deps.json
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.runtimeconfig.json
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.pdb
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.Wpf.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.pdb
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.AssemblyReference.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Interop.Galil.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.ResolveComReference.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\StyleResources\MenuStyle.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\StyleResources\RobotMoveContorlResource.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SpeedSetWindow.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.lref
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\App.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SpeedSetWindow.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.baml
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.g.resources
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfoInputs.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfo.cs
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CoreCompileInputs.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CopyComplete
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\refint\Robot_window.dll
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.pdb
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.genruntimeconfig.cache
+C:\Users\13110\Desktop\GraduateStudent\2183Robot\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ref\Robot_window.dll
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.exe
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.deps.json
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.runtimeconfig.json
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.dll
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.pdb
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.dll
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.Wpf.dll
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\System.IO.Ports.dll
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.dll
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.pdb
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.AssemblyReference.cache
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Interop.Galil.dll
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.ResolveComReference.cache
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\StyleResources\MenuStyle.baml
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\StyleResources\RobotMoveContorlResource.baml
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\MainWindow.g.cs
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.g.cs
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.g.cs
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.g.cs
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.g.cs
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SpeedSetWindow.g.cs
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.g.cs
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\App.g.cs
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.cache
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.lref
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\App.baml
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\MainWindow.baml
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.baml
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.baml
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.baml
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.baml
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SpeedSetWindow.baml
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.baml
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.g.resources
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.GeneratedMSBuildEditorConfig.editorconfig
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfoInputs.cache
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfo.cs
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CoreCompileInputs.cache
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CopyComplete
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.dll
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\refint\Robot_window.dll
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.pdb
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.genruntimeconfig.cache
+G:\机械臂界面\20140701\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ref\Robot_window.dll
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.exe
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.deps.json
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.runtimeconfig.json
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.dll
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.pdb
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.dll
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.Wpf.dll
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\System.IO.Ports.dll
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.dll
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.pdb
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.AssemblyReference.cache
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Interop.Galil.dll
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.ResolveComReference.cache
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\StyleResources\MenuStyle.baml
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\StyleResources\RobotMoveContorlResource.baml
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.g.cs
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.g.cs
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.g.cs
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.g.cs
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SpeedSetWindow.g.cs
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.g.cs
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\App.g.cs
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.cache
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.lref
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\App.baml
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\MainWindow.baml
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.baml
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.baml
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.baml
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.baml
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SpeedSetWindow.baml
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.baml
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.g.resources
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfoInputs.cache
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfo.cs
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CoreCompileInputs.cache
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CopyComplete
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.dll
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\refint\Robot_window.dll
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.pdb
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.genruntimeconfig.cache
+D:\code\RobotApp\RobotApp - 华数测试demo2.0\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ref\Robot_window.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.exe
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.deps.json
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.runtimeconfig.json
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.pdb
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.Wpf.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\System.IO.Ports.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.pdb
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.AssemblyReference.cache
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.ResolveComReference.cache
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\StyleResources\MenuStyle.baml
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\StyleResources\RobotMoveContorlResource.baml
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SpeedSetWindow.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\App.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.cache
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.lref
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\App.baml
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\MainWindow.baml
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.baml
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.baml
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.baml
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.baml
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SpeedSetWindow.baml
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.baml
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.g.resources
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.GeneratedMSBuildEditorConfig.editorconfig
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfoInputs.cache
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfo.cs
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CoreCompileInputs.cache
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\refint\Robot_window.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.pdb
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.genruntimeconfig.cache
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ref\Robot_window.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\FaLanMovepage.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\FaLanMovepage.baml
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\LinePathWindow.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\LinePathWindow.baml
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\RectAngleWindow.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\RectAngleWindow.baml
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.exe
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.deps.json
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.runtimeconfig.json
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.dll
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Robot_window.pdb
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.dll
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\HelixToolkit.Wpf.dll
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\System.IO.Ports.dll
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.dll
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\RobotLibrary.pdb
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.AssemblyReference.cache
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Interop.Galil.dll
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.ResolveComReference.cache
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\StyleResources\MenuStyle.baml
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\StyleResources\RobotMoveContorlResource.baml
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.g.cs
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\FaLanMovepage.g.cs
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.g.cs
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.g.cs
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\LinePathWindow.g.cs
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\RectAngleWindow.g.cs
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.g.cs
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SpeedSetWindow.g.cs
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.g.cs
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\App.g.cs
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.cache
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window_MarkupCompile.lref
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\App.baml
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\MainWindow.baml
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\CartesianMovePage.baml
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\FaLanMovepage.baml
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\UI_Page\JointMovePage.baml
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\GridPath.baml
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\LinePathWindow.baml
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\RectAngleWindow.baml
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\RotundityPathWindow.baml
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SpeedSetWindow.baml
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\SphericalPathWindow.baml
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.g.resources
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfoInputs.cache
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.AssemblyInfo.cs
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CoreCompileInputs.cache
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.csproj.CopyComplete
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.dll
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\refint\Robot_window.dll
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.pdb
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_window.genruntimeconfig.cache
+D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ref\Robot_window.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\PointToPathWindow.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\PointToPathWindow.baml
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Robot_wi.110845DB.Up2Date
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\Interop.Galil.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\Chart.g.cs
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\HarfBuzzSharp.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\OpenTK.Compute.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\OpenTK.Core.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\GLWpfControl.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\OpenTK.Graphics.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\OpenTK.Input.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\OpenTK.Mathematics.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\OpenTK.OpenAL.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\OpenTK.Windowing.Common.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\OpenTK.Windowing.Desktop.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\OpenTK.Windowing.GraphicsLibraryFramework.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\ScottPlot.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\ScottPlot.WPF.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\SkiaSharp.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\SkiaSharp.HarfBuzz.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\SkiaSharp.Views.Desktop.Common.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\SkiaSharp.Views.WPF.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libHarfBuzzSharp.so
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libHarfBuzzSharp.so
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libglfw.so.3.3
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libglfw.3.dylib
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\win-x64\native\glfw3.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\win-x86\native\glfw3.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\ViewModels\Chart.baml

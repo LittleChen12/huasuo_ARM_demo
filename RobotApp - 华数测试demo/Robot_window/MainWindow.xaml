@@ -1,0 +1,492 @@
+﻿<Window x:Class="Robot_window.MainWindow"
+        xmlns:helix="http://helix-toolkit.org/wpf"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:RCL="clr-namespace:RobotControlLibrary;assembly=RobotControlLibrary"
+        xmlns:local="clr-namespace:Robot_window"
+        d:DataContext="{d:DesignInstance Type=local:MainWindow}"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        Height="700"
+        Width="1400">
+
+
+
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.05*" />
+            <RowDefinition Height="0.995*" />
+        </Grid.RowDefinitions>
+        <Grid Margin="0,1,0,-1"
+              Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="290*" />
+                <ColumnDefinition Width="137*" />
+                <ColumnDefinition Width="716*" />
+                <ColumnDefinition Width="256*" />
+            </Grid.ColumnDefinitions>
+
+            <helix:HelixViewport3D x:Name="viewPort3d"
+                                   HorizontalAlignment="Left"
+                                   Grid.Column="2"
+                                   ZoomExtentsWhenLoaded="True"
+                                   BorderBrush="Gray"
+                                   BorderThickness="3"
+                                   ShowCoordinateSystem="True"
+                                   Width="554"
+                                   Margin="12,2,0,-2">
+                <helix:GridLinesVisual3D Width="1500"
+                                         Length="1500"
+                                         Thickness="0.5"
+                                         MinorDistance="6"
+                                         MajorDistance="7"
+                                         Fill="#FF34998F" />
+
+                <helix:DefaultLights />
+            </helix:HelixViewport3D>
+
+            <Rectangle Fill="#FFFBFBFB"
+                       Grid.Column="0"
+                       HorizontalAlignment="Left"
+                       Height="381"
+                       Stroke="Black"
+                       VerticalAlignment="Top"
+                       Width="218"
+                       StrokeThickness="0.5"
+                       Margin="0,0,0,0" />
+            <CheckBox Grid.Column="0"
+                      VerticalAlignment="Top"
+                      HorizontalAlignment="Left"
+                      IsChecked="{Binding Simulation}"
+                      Margin="220,0,0,0">
+
+                <TextBlock Text="仿真模式"
+                           FontSize="15"
+                           Width="280" />
+
+            </CheckBox>
+            <CheckBox Grid.Column="0"
+                      VerticalAlignment="Top"
+                      HorizontalAlignment="Left"
+                      IsChecked="{Binding SingleMove}"
+                      Margin="220,20,0,0">
+
+                <TextBlock Text="单点运动"
+                           FontSize="15"
+                           Width="280" />
+
+            </CheckBox>
+
+            <ContentControl x:Name="contentcon"
+                            Height="380"
+                            VerticalAlignment="Top" />
+
+
+            <Label Grid.Column="0"
+                   Height="30"
+                   Content="X"
+                   Width="24"
+                   VerticalAlignment="Top"
+                   HorizontalAlignment="Left" />
+            <Label x:Name="x"
+                   Grid.Column="0"
+                   Height="30"
+                   Content="0"
+                   Width="50"
+                   VerticalAlignment="Top"
+                   HorizontalAlignment="Left"
+                   Margin="20,0,0,0" />
+            <Label Grid.Column="0"
+                   Height="30"
+                   Content="Y"
+                   Width="24"
+                   VerticalAlignment="Top"
+                   HorizontalAlignment="Left"
+                   Margin="73,0,0,0" />
+            <Label x:Name="y"
+                   Grid.Column="0"
+                   Height="30"
+                   Content="0"
+                   Width="50"
+                   VerticalAlignment="Top"
+                   HorizontalAlignment="Left"
+                   Margin="93,0,0,0" />
+            <Label Grid.Column="0"
+                   Height="30"
+                   Content="Z"
+                   Width="24"
+                   VerticalAlignment="Top"
+                   HorizontalAlignment="Left"
+                   Margin="148,0,0,0" />
+            <Label x:Name="z"
+                   Grid.Column="0"
+                   Height="30"
+                   Content="0"
+                   Width="50"
+                   VerticalAlignment="Top"
+                   HorizontalAlignment="Left"
+                   Margin="168,0,0,0" />
+            <Label Grid.Column="0"
+                   Height="30"
+                   Content="A"
+                   Width="24"
+                   VerticalAlignment="Top"
+                   HorizontalAlignment="Left"
+                   Margin="0,26,0,0" />
+            <Label x:Name="A"
+                   Grid.Column="0"
+                   Height="30"
+                   Content="0"
+                   Width="50"
+                   VerticalAlignment="Top"
+                   HorizontalAlignment="Left"
+                   Margin="20,26,0,0" />
+            <Label Grid.Column="0"
+                   Height="30"
+                   Content="B"
+                   Width="24"
+                   VerticalAlignment="Top"
+                   HorizontalAlignment="Left"
+                   Margin="73,26,0,0" />
+            <Label x:Name="B"
+                   Grid.Column="0"
+                   Height="30"
+                   Content="0"
+                   Width="50"
+                   VerticalAlignment="Top"
+                   HorizontalAlignment="Left"
+                   Margin="93,26,0,0" />
+            <Label Grid.Column="0"
+                   Height="30"
+                   Content="C"
+                   Width="24"
+                   VerticalAlignment="Top"
+                   HorizontalAlignment="Left"
+                   Margin="148,26,0,0" />
+            <Label x:Name="c"
+                   Grid.Column="0"
+                   Height="30"
+                   Content="0"
+                   Width="50"
+                   VerticalAlignment="Top"
+                   HorizontalAlignment="Left"
+                   Margin="168,26,0,0" />
+            <Slider x:Name="speed"
+                    Width="150"
+                    Minimum="10"
+                    Maximum="99"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    LargeChange="10"
+                    ValueChanged="SpeedSetSilder"
+                    Margin="39,349,0,0"
+                    Grid.Column="0" />
+            <Label Height="30"
+                   Content="速度"
+                   Width="34"
+                   VerticalAlignment="Top"
+                   HorizontalAlignment="Left"
+                   Margin="5,344,0,0"
+                   Grid.Column="0" />
+            <Label x:Name="speedshow"
+                   Height="30"
+                   Content="Slow"
+                   Width="67"
+                   VerticalAlignment="Top"
+                   HorizontalAlignment="Left"
+                   Margin="188,344,0,0" />
+
+
+
+            <Rectangle Fill="#FFFBFBFB"
+                       Grid.Column="3"
+                       HorizontalAlignment="Right"
+                       Height="381"
+                       Stroke="Black"
+                       VerticalAlignment="Top"
+                       Width="218"
+                       StrokeThickness="0.5"
+                       Margin="0,0,0,0" />
+            <Label Grid.Column="3"
+                   Content="扫查曲线控制"
+                   VerticalAlignment="Top"
+                   FontSize="20"
+                   HorizontalAlignment="Right"
+                   Margin="0,5,50,0" />
+            <Button Grid.Column="3"
+                    Width="62"
+                    Height="50"
+                    HorizontalAlignment="Right"
+                    VerticalAlignment="Top"
+                    Margin="0,140,130,0"
+                    Click="CarPathPointsLocalSub"
+                    FontSize="20"
+                    Content="上一个" />
+            <Button Grid.Column="3"
+                    Width="62"
+                    Height="50"
+                    HorizontalAlignment="Right"
+                    VerticalAlignment="Top"
+                    Margin="0,140,30,0"
+                    Click="CarPathPointsLocalAdd"
+                    FontSize="20"
+                    Content="下一个" />
+            <Button Grid.Column="3"
+                    Width="62"
+                    Height="32"
+                    Content="连续"
+                    FontSize="20"
+                    VerticalAlignment="Top"
+                    HorizontalAlignment="Right"
+                    Margin="0,84,30,0"
+                    RenderTransformOrigin="0.523,0.49"
+                    Click="CarpathPointsContinous" />
+            <ListBox Grid.Column="3"
+                     Width="203"
+                     Height="200"
+                     x:Name="CartesianPositionList"
+                     HorizontalAlignment="Left"
+                     VerticalAlignment="Top"
+                     Margin="70,200,0,0"
+                     SelectionChanged="CartesianPositionList_SelectionChanged">
+
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="0.3*" />
+                                <ColumnDefinition Width="0.4*" />
+                                <ColumnDefinition  Width="0.3*" />
+                            </Grid.ColumnDefinitions>
+                            <TextBlock Grid.Column="0 "
+                                       Text="{Binding X,StringFormat={}{0:0.00}}"
+                                       Width="50" />
+                            <TextBlock Grid.Column="1"
+                                       Text="{Binding Y,StringFormat={}{0:0.00}}"
+                                       Width="50" />
+                            <TextBlock Grid.Column="2"
+                                       Text="{Binding Z,StringFormat={}{0:0.00}}"
+                                       Width="50" />
+                        </Grid>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <Button x:Name="servoflag"
+                    Grid.Column="3"
+                    Width="62"
+                    Height="32"
+                    Content="伺服开"
+                    Background="AliceBlue"
+                    FontSize="20"
+                    VerticalAlignment="Top"
+                    HorizontalAlignment="Right"
+                    Margin="0,84,130,0"
+                    RenderTransformOrigin="0.523,0.49"
+                    Click="servo" />
+            <Button Grid.Column="3"
+                    Width="77"
+                    Height="32"
+                    Content="保存曲线"
+                    FontSize="20"
+                    VerticalAlignment="Top"
+                    HorizontalAlignment="Right"
+                    Margin="0,40,115,0"
+                    RenderTransformOrigin="0.523,0.49"
+                    Click="Comtest" />
+            <Button Grid.Column="3"
+                    Width="77"
+                    Height="32"
+                    Content="加入点"
+                    FontSize="20"
+                    VerticalAlignment="Top"
+                    HorizontalAlignment="Right"
+                    Margin="0,40,15,0"
+                    RenderTransformOrigin="0.5,0.5"
+                    Click="AddPositions" />
+            <Button Grid.Column="2"
+                    Width="60"
+                    Height="32"
+                    Content="加载曲线"
+                    VerticalAlignment="Top"
+                    HorizontalAlignment="Right"
+                    Click="Loadtext"
+                    Grid.ColumnSpan="2"
+                    Margin="0,0,256,0" />
+            <TextBox x:Name="X_Point"
+                     Grid.Column="2"
+                     Width="77"
+                     Height="32"
+                     FontSize="20"
+                     VerticalAlignment="Top"
+                     HorizontalAlignment="Right"
+                     Margin="0,80,223,0"
+                     RenderTransformOrigin="0.5,0.5"
+                     Grid.ColumnSpan="2" />
+            <Slider x:Name="PlaneNormalX"
+                    Grid.Column="2"
+                    Minimum="-1"
+                    Width="100"
+                    Height="40"
+                    Margin="639,317,234,295"
+                    Maximum="1"
+                    Value="0"
+                    Grid.ColumnSpan="2" 
+                    ValueChanged="facechanged"/>
+            <Slider x:Name="PlaneNormalY"
+                    Grid.Column="2"
+                    Minimum="-1"
+                    Width="100"
+                    Height="40"
+                    Margin="639,347,234,265"
+                    Maximum="1"
+                    Value="0"
+                    Grid.ColumnSpan="2"
+                    ValueChanged="facechanged" />
+            <Slider x:Name="PlaneNormalZ"
+                    Grid.Column="2"
+                    Minimum="-1"
+                    Width="100"
+                    Height="40"
+                    Margin="639,377,234,235"
+                    Maximum="1"
+                    Value="0"
+                    Grid.ColumnSpan="2"
+                    ValueChanged="facechanged" />
+            <TextBox x:Name="Y_Point"
+                     Grid.Column="2"
+                     Width="77"
+                     Height="32"
+                     FontSize="20"
+                     VerticalAlignment="Top"
+                     HorizontalAlignment="Right"
+                     Margin="0,120,223,0"
+                     RenderTransformOrigin="0.5,0.5"
+                     Grid.ColumnSpan="2" />
+            <TextBox x:Name="Z_Point"
+                     Grid.Column="2"
+                     Width="77"
+                     Height="32"
+                     FontSize="20"
+                     VerticalAlignment="Top"
+                     HorizontalAlignment="Right"
+                     Margin="0,160,223,0"
+                     RenderTransformOrigin="0.5,0.5"
+                     Grid.ColumnSpan="2" />
+            <Button Grid.Column="2"
+                    Width="77"
+                    Height="32"
+                    Content="TEAT"
+                    FontSize="20"
+                    VerticalAlignment="Top"
+                    HorizontalAlignment="Right"
+                    Margin="0,40,223,0"
+                    RenderTransformOrigin="0.5,0.5"
+                    Click="TESTe"
+                    Grid.ColumnSpan="2" />
+            <Button Grid.Column="2"
+                    Width="77"
+                    Height="32"
+                    Content="Y_mean"
+                    FontSize="20"
+                    VerticalAlignment="Top"
+                    HorizontalAlignment="Right"
+                    Margin="0,270,223,0"
+                    RenderTransformOrigin="0.5,0.5"
+                    Click="Path_Y_Mean"
+                    Grid.ColumnSpan="2" />
+            <Button Grid.Column="2"
+                    Width="77"
+                    Height="32"
+                    Content="X_mean"
+                    FontSize="20"
+                    VerticalAlignment="Top"
+                    HorizontalAlignment="Right"
+                    Margin="0,220,223,0"
+                    RenderTransformOrigin="0.5,0.5"
+                    Click="Path_X_Mean"
+                    Grid.ColumnSpan="2" />
+        </Grid>
+
+        <Rectangle Fill="#FFFBFBFB" />
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Menu Grid.Column="0"
+                  Style="{StaticResource BlueMenuStyle}">
+                <MenuItem  x:Name="Files"
+                           Header="文件"
+                           Height="30">
+                    <MenuItem Header="机械臂文件"
+                              x:Name="robotload" />
+                    <MenuItem Header="工具文件"
+                              x:Name="tool" />
+                    <MenuItem Header="清空机械臂"
+                              x:Name="clearrobot" />
+                </MenuItem >
+                <MenuItem Header="切换坐标系">
+                    <MenuItem x:Name="JointMenu"
+                              Header="关节空间" />
+                    <MenuItem x:Name="CartesianMenu"
+                              Header="笛卡尔空间" />
+                    <MenuItem x:Name="FaLanMenu"
+                              Header="法兰坐标系" />
+                </MenuItem>
+                <MenuItem  Header="复位"
+                           x:Name="Restbutton"
+                           Height="30" />
+                <MenuItem  Header="曲线菜单"
+                           Height="30">
+                    <MenuItem Header="直线"
+                              x:Name="LinePathButton" />
+                    <MenuItem  Header="平面"
+                               x:Name="GridPathButton" />
+                    <MenuItem  Header="圆柱面"
+                               x:Name="RotunditPathButton" />
+                    <MenuItem  Header="球面"
+                               x:Name="SphericalPathButton" />
+                    <MenuItem  Header="自定义曲线"
+                               x:Name="PointToPathButton" />
+                    <MenuItem Header="清空曲线"
+                              x:Name="PathClickButton" />
+                </MenuItem>
+                <MenuItem Header="轨迹对比"
+                          x:Name="ChartButton" />
+                <MenuItem Header="设置">
+                    <MenuItem Header="速度设置"
+                              x:Name="SpeedSet" />
+                </MenuItem>
+
+                <MenuItem Header="串口"
+                          x:Name="SerialPortButton" />
+                <MenuItem Header="2183控制"
+                          x:Name="Controlbutton2183" />
+                <MenuItem Header="添加试件">
+                    <MenuItem Header="桌面"
+                              x:Name="desk" />
+                    <MenuItem Header="扫查试件"
+                              x:Name="Specimens" />
+
+                </MenuItem >
+                <MenuItem  Header="清空"
+                           x:Name="worldclear" />
+                <MenuItem  Header="com口查询"
+                           x:Name="comsearch" />
+
+            </Menu>
+        </Grid>
+        <Image HorizontalAlignment="Left"
+               Height="100"
+               Margin="1474,73,0,0"
+               Grid.Row="1"
+               VerticalAlignment="Top"
+               Width="100" />
+
+
+    </Grid>
+</Window>

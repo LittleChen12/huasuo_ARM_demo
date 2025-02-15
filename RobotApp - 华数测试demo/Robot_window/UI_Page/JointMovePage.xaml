@@ -1,0 +1,52 @@
+﻿<Page x:Class="Robot_window.UI_Page.JointMovePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:RCL="clr-namespace:RobotControlLibrary;assembly=RobotControlLibrary"
+      xmlns:local="clr-namespace:Robot_window.UI_Page"
+      mc:Ignorable="d"
+      d:DesignHeight="380"
+      d:DesignWidth="280"
+      Title="JointMovePage">
+    <Grid>
+        <RCL:RobotMoveContorl Grid.Column="0"
+                              Margin="59,34,0,0"
+                              IntervalTime="30"
+                              x:Name="Joint1"
+                              IncrementValue="1"
+                              Clickd="JointValueChanged" />
+        <RCL:RobotMoveContorl Grid.Column="0"
+                              Margin="59,84,0,0"
+                              IntervalTime="30"
+                              x:Name="Joint2"
+                              IncrementValue="1"
+                              Clickd="JointValueChanged" />
+        <RCL:RobotMoveContorl Grid.Column="0"
+                              Margin="59,134,0,0"
+                              IntervalTime="30"
+                              x:Name="Joint3"
+                              IncrementValue="1"
+                              Clickd="JointValueChanged" />
+        <RCL:RobotMoveContorl Grid.Column="0"
+                              Margin="59,184,0,0"
+                              IntervalTime="30"
+                              x:Name="Joint4"
+                              IncrementValue="1"
+                              Clickd="JointValueChanged" />
+        <RCL:RobotMoveContorl Grid.Column="0"
+                              Margin="59,234,0,0"
+                              IntervalTime="30"
+                              x:Name="Joint5"
+                              IncrementValue="1"
+                              Clickd="JointValueChanged" />
+        <RCL:RobotMoveContorl Grid.Column="0"
+                              Margin="59,284,0,0"
+                              IntervalTime="30"
+                              x:Name="Joint6"
+                              IncrementValue="1"
+                              Clickd="JointValueChanged" />
+        
+    </Grid>
+
+</Page>

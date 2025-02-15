@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\RobotLibrary\\RobotLibrary.csproj": {}
+  },
+  "projects": {
+    "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\RobotLibrary\\RobotLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\RobotLibrary\\RobotLibrary.csproj",
+        "projectName": "RobotLibrary",
+        "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\RobotLibrary\\RobotLibrary.csproj",
+        "packagesPath": "C:\\Users\\周玉江起飞了\\.nuget\\packages\\",
+        "outputPath": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\RobotLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\c_new_shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\周玉江起飞了\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\vcpkg1": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

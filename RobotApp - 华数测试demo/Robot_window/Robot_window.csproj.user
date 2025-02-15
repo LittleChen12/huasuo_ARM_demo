@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="UI_Page\CartesianMovePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UI_Page\FaLanMovepage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UI_Page\JointMovePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewModels\Chart.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewModels\GridPathWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewModels\LinePathWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewModels\PointToPathWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewModels\RectAngleWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewModels\RotundityPathWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewModels\SpeedSetWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewModels\SphericalPathWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="StyleResources\MenuStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="StyleResources\RobotMoveContorlResource.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UI_Page\CartesianMovePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UI_Page\FaLanMovepage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UI_Page\JointMovePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewModels\Chart.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewModels\GridPath.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewModels\LinePathWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewModels\PointToPathWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewModels\RectAngleWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewModels\RotundityPathWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewModels\SpeedSetWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewModels\SphericalPathWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

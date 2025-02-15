@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="RobotFkShow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RobotMoveContorl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="RobotFkShow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RobotMoveContorl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

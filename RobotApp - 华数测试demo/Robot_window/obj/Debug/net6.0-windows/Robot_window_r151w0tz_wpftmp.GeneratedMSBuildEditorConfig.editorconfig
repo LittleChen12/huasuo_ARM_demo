@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Robot_window_r151w0tz_wpftmp
+build_property.ProjectDir = D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2024-06\RobotApp - 华数测试demo\Robot_window\
