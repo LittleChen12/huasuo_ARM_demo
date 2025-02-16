@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Device\Device.csproj" />
+    <ProjectReference Include="..\Robots\Robots.csproj" />
+    <ProjectReference Include="..\TrajectoryPositionList\TrajectoryPositionList.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="RobotModels\HuaShu\" />
+    <Folder Include="RobotModels\AnChuan\" />
+    <Folder Include="RobotModels\Roke\" />
+    <Folder Include="PositionSave\" />
+    <Folder Include="RobotModels\NewRobot\" />
+    <Folder Include="ToolModels\" />
+  </ItemGroup>
+
+</Project>

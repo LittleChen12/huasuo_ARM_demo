@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Model/1.0.0": {
+        "dependencies": {
+          "HelixToolkit": "2.25.0",
+          "HelixToolkit.Wpf": "2.25.0"
+        },
+        "runtime": {
+          "Model.dll": {}
+        }
+      },
+      "HelixToolkit/2.25.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/HelixToolkit.dll": {
+            "assemblyVersion": "2.25.0.0",
+            "fileVersion": "2.25.0.0"
+          }
+        }
+      },
+      "HelixToolkit.Wpf/2.25.0": {
+        "runtime": {
+          "lib/net462/HelixToolkit.Wpf.dll": {
+            "assemblyVersion": "2.25.0.0",
+            "fileVersion": "2.25.0.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/6.0.0": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HelixToolkit/2.25.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UzF6KXadTdzrjTA8G00+V7RaQNpH+0729xByD6zhCgvDLvZ63CvH84/x2sjUO52bzHFphYixXtzf8G/OGVtz3w==",
+      "path": "helixtoolkit/2.25.0",
+      "hashPath": "helixtoolkit.2.25.0.nupkg.sha512"
+    },
+    "HelixToolkit.Wpf/2.25.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eoMdrDgeSFo1JH15f2X/E5/nZUMAqvWzR8qcVzjLarCxR5qNleRqF+UHSzyCkvygeeDLCC/uharpD/gysFYuHw==",
+      "path": "helixtoolkit.wpf/2.25.0",
+      "hashPath": "helixtoolkit.wpf.2.25.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/HggWBbTwy8TgebGSX5DBZ24ndhzi93sHUBDvP1IxbZD7FDokYzdAr6+vbWGjw2XAfR2EJ1sfKUotpjHnFWPxA==",
+      "path": "microsoft.extensions.logging.abstractions/6.0.0",
+      "hashPath": "microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+    }
+  }
+}

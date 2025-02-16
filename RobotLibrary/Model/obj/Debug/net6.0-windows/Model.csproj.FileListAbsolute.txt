@@ -1,0 +1,12 @@
+D:\研究生0\机器人\重庆机器人\软件架构\RobotLibrary\Model\bin\Debug\net6.0-windows\Model.deps.json
+D:\研究生0\机器人\重庆机器人\软件架构\RobotLibrary\Model\bin\Debug\net6.0-windows\Model.dll
+D:\研究生0\机器人\重庆机器人\软件架构\RobotLibrary\Model\bin\Debug\net6.0-windows\Model.pdb
+D:\研究生0\机器人\重庆机器人\软件架构\RobotLibrary\Model\obj\Debug\net6.0-windows\Model.csproj.AssemblyReference.cache
+D:\研究生0\机器人\重庆机器人\软件架构\RobotLibrary\Model\obj\Debug\net6.0-windows\Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\研究生0\机器人\重庆机器人\软件架构\RobotLibrary\Model\obj\Debug\net6.0-windows\Model.AssemblyInfoInputs.cache
+D:\研究生0\机器人\重庆机器人\软件架构\RobotLibrary\Model\obj\Debug\net6.0-windows\Model.AssemblyInfo.cs
+D:\研究生0\机器人\重庆机器人\软件架构\RobotLibrary\Model\obj\Debug\net6.0-windows\Model.csproj.CoreCompileInputs.cache
+D:\研究生0\机器人\重庆机器人\软件架构\RobotLibrary\Model\obj\Debug\net6.0-windows\Model.dll
+D:\研究生0\机器人\重庆机器人\软件架构\RobotLibrary\Model\obj\Debug\net6.0-windows\refint\Model.dll
+D:\研究生0\机器人\重庆机器人\软件架构\RobotLibrary\Model\obj\Debug\net6.0-windows\Model.pdb
+D:\研究生0\机器人\重庆机器人\软件架构\RobotLibrary\Model\obj\Debug\net6.0-windows\ref\Model.dll

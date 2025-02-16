@@ -1,0 +1,278 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotLibrary\\RobotLibrary.csproj": {}
+  },
+  "projects": {
+    "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\Device\\Device.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\Device\\Device.csproj",
+        "projectName": "Device",
+        "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\Device\\Device.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\Device\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Visual studio2022\\shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotLibraryMath\\RobotLibraryAlgorithm.csproj": {
+                "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotLibraryMath\\RobotLibraryAlgorithm.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotLibraryMath\\RobotLibraryAlgorithm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotLibraryMath\\RobotLibraryAlgorithm.csproj",
+        "projectName": "RobotLibraryAlgorithm",
+        "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotLibraryMath\\RobotLibraryAlgorithm.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotLibraryMath\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Visual studio2022\\shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotLibrary\\RobotLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotLibrary\\RobotLibrary.csproj",
+        "projectName": "RobotLibrary",
+        "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotLibrary\\RobotLibrary.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Visual studio2022\\shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\Device\\Device.csproj": {
+                "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\Device\\Device.csproj"
+              },
+              "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotLibraryMath\\RobotLibraryAlgorithm.csproj": {
+                "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotLibraryMath\\RobotLibraryAlgorithm.csproj"
+              },
+              "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\xcoresdk_csharp-v0.3.4\\xCoreSDK_CSharp\\xCoreSDK_CSharp.csproj": {
+                "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\xcoresdk_csharp-v0.3.4\\xCoreSDK_CSharp\\xCoreSDK_CSharp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "HelixToolkit": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            },
+            "HelixToolkit.Wpf": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\xcoresdk_csharp-v0.3.4\\xCoreSDK_CSharp\\xCoreSDK_CSharp.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\xcoresdk_csharp-v0.3.4\\xCoreSDK_CSharp\\xCoreSDK_CSharp.csproj",
+        "projectName": "xCoreSDK_CSharp",
+        "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\xcoresdk_csharp-v0.3.4\\xCoreSDK_CSharp\\xCoreSDK_CSharp.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}
