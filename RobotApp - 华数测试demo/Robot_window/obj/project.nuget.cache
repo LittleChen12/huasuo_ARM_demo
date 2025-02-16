@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UZXs7WQi3fQ=",
+  "dgSpecHash": "aDPex5AKWMg=",
   "success": true,
-  "projectFilePath": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\Robot_window\\Robot_window.csproj",
+  "projectFilePath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotApp - 华数测试demo\\Robot_window\\Robot_window.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\harfbuzzsharp\\7.3.0.3\\harfbuzzsharp.7.3.0.3.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\harfbuzzsharp.nativeassets.linux\\7.3.0.3\\harfbuzzsharp.nativeassets.linux.7.3.0.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\RobotControlLibrary\\RobotControlLibrary.csproj": {}
+    "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotApp - 华数测试demo\\RobotControlLibrary\\RobotControlLibrary.csproj": {}
   },
   "projects": {
-    "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\RobotControlLibrary\\RobotControlLibrary.csproj": {
+    "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotApp - 华数测试demo\\RobotControlLibrary\\RobotControlLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\RobotControlLibrary\\RobotControlLibrary.csproj",
+        "projectUniqueName": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotApp - 华数测试demo\\RobotControlLibrary\\RobotControlLibrary.csproj",
         "projectName": "RobotControlLibrary",
-        "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\RobotControlLibrary\\RobotControlLibrary.csproj",
+        "projectPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotApp - 华数测试demo\\RobotControlLibrary\\RobotControlLibrary.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\RobotControlLibrary\\obj\\",
+        "outputPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotApp - 华数测试demo\\RobotControlLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual studio2022\\shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\RobotLibrary\\RobotLibrary.csproj": {
-                "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\RobotLibrary\\RobotLibrary.csproj"
+              "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotApp - 华数测试demo\\RobotLibrary\\RobotLibrary.csproj": {
+                "projectPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotApp - 华数测试demo\\RobotLibrary\\RobotLibrary.csproj"
               }
             }
           }
@@ -64,20 +64,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -90,14 +76,14 @@
         }
       }
     },
-    "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\RobotLibrary\\RobotLibrary.csproj": {
+    "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotApp - 华数测试demo\\RobotLibrary\\RobotLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\RobotLibrary\\RobotLibrary.csproj",
+        "projectUniqueName": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotApp - 华数测试demo\\RobotLibrary\\RobotLibrary.csproj",
         "projectName": "RobotLibrary",
-        "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\RobotLibrary\\RobotLibrary.csproj",
+        "projectPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotApp - 华数测试demo\\RobotLibrary\\RobotLibrary.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\RobotLibrary\\obj\\",
+        "outputPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotApp - 华数测试demo\\RobotLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual studio2022\\shared\\NuGetPackages"
@@ -146,20 +132,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

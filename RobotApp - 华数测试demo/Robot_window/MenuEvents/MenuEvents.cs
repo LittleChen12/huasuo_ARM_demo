@@ -796,6 +796,7 @@ namespace Robot_window.MenuEvents
             double[] zTrue = new double[MovePositions.Count];
             for (int i = 0; i < MovePositions.Count; i++)
             {
+                //dsadsad
                 zFit[i] = MovePositions[i].Pose.Z*1000;
                 zTrue[i] = PathMovePoints.Points[i].Z;
             }

@@ -1572,11 +1572,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\Robot_window\\Robot_window.csproj",
+      "projectUniqueName": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotApp - 华数测试demo\\Robot_window\\Robot_window.csproj",
       "projectName": "Robot_window",
-      "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\Robot_window\\Robot_window.csproj",
+      "projectPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotApp - 华数测试demo\\Robot_window\\Robot_window.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\Robot_window\\obj\\",
+      "outputPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotApp - 华数测试demo\\Robot_window\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual studio2022\\shared\\NuGetPackages"
@@ -1597,11 +1597,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\RobotControlLibrary\\RobotControlLibrary.csproj": {
-              "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\RobotControlLibrary\\RobotControlLibrary.csproj"
+            "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotApp - 华数测试demo\\RobotControlLibrary\\RobotControlLibrary.csproj": {
+              "projectPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotApp - 华数测试demo\\RobotControlLibrary\\RobotControlLibrary.csproj"
             },
-            "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\RobotLibrary\\RobotLibrary.csproj": {
-              "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\RobotLibrary\\RobotLibrary.csproj"
+            "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotApp - 华数测试demo\\RobotLibrary\\RobotLibrary.csproj": {
+              "projectPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotApp - 华数测试demo\\RobotLibrary\\RobotLibrary.csproj"
             }
           }
         }

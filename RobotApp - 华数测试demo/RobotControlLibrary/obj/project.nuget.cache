@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YJqsUDQeVb0=",
+  "dgSpecHash": "Zx9V5nbvpLU=",
   "success": true,
-  "projectFilePath": "D:\\研究生0\\机器人\\重庆机器人\\RobotApp - 华数测试demo\\RobotControlLibrary\\RobotControlLibrary.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotApp - 华数测试demo\\RobotControlLibrary\\RobotControlLibrary.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
