@@ -16,6 +16,10 @@ namespace Model
             PointsVisual = new PointsVisual3D();
           
         }
+        /// <summary>
+        /// 初始化路径点模型
+        /// mm为毫米单位
+        /// </summary>
         public void PointsModelInit()
         {
             PointsVisual.Color = Colors.Red;

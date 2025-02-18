@@ -268,6 +268,16 @@ namespace RobotLibraryAlgorithm.KinematicsAlgorithm
             return kinematics.points;
         }
 
+        public override CartesianPosition FkAngle(double[] joints)
+        {
+            KinematicsHuaShu kinematics = new KinematicsHuaShu();
+            basicalgortihm.AngleToRad(joints);
+            Matrix4x4? Grip2Tool = null;
+            SolveFK_GP7_T(joints, kinematics.eerot, kinematics.eetrans, Grip2Tool);
+            kinematics.ToPose();
+            return kinematics.points;
+        }
+
 
 
         private void IK(Matrix4x4? Grip2Tool = null)
@@ -443,10 +453,10 @@ namespace RobotLibraryAlgorithm.KinematicsAlgorithm
             throw new NotImplementedException();
         }
 
-        public override CartesianPosition FkAngle(double[] angle)
-        {
-            throw new NotImplementedException();
-        }
+        //public override CartesianPosition FkAngle(double[] angle)
+        //{
+        //    throw new NotImplementedException();
+        //}
 
         public override CartesianPosition FkRad(double[] rad)
         {

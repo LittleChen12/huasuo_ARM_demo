@@ -17,6 +17,12 @@ namespace Model
             Boxmodel=new MeshGeometry3D();
              Boxmodelvisual = new ModelVisual3D();
         }
+        /// <summary>
+        /// 初始化box模型
+        /// mm为模型尺寸，_point为模型中心点
+        /// </summary>
+        /// <param name="_point"></param>
+        /// <param name="position"></param>
         public void BoxModelInit(Point3D _point,double[] position)
         {
             MeshBuilder builder = new MeshBuilder(true, true);
@@ -26,6 +32,7 @@ namespace Model
 
             Boxmodelvisual.Content = model;
         }
+        
         
     }
 }

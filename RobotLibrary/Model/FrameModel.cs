@@ -20,6 +20,7 @@ namespace Model
         }
         /// <summary>
         /// 创建坐标轴 根据位置创建坐标轴
+        /// mm单位
         /// </summary>
         /// <param name="frame"></param>
         public void FrameModelInit(double[] frame)

@@ -20,6 +20,11 @@ namespace Model
             SphereModelVisuals = new List<ModelVisual3D>();
             SphereModels = new List<Model3D>();
         }
+        /// <summary>
+        /// 初始化球体模型
+        /// mm为单位
+        /// </summary>
+        /// <param name="position"></param>
        public void SphereModelInit(Point3D position)
        {
             var builder = new MeshBuilder(true, true);

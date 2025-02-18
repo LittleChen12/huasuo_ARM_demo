@@ -38,12 +38,30 @@ namespace RobotWindow
             //HuaShu AnChuan Roke
             RobotInit("HuaShu");
             InitView();
+
+            //box
+            //BoxModel box = new BoxModel();
+            //box.BoxModelInit(new Point3D(400,0,500),new double[] { 100, 100, 100 });
+            //viewPort3d.Children.Add(box.Boxmodelvisual);
+
+            //frame
+            
+
             mainwindow = this;
         }
         public void RobotInit(string robottype)
         {
             manager.RobotInit(robottype);
-            viewPort3d.Children.Add(manager.robot.Joints.RobotModelVisual); 
+            viewPort3d.Children.Add(manager.robot.Joints.RobotModelVisual);
+            //frame
+            //var p = manager.algorithmManager.kinematicsAlgorithm.FkAngle(new double[] { 0, 0, 0, 0, 0, 0 });
+            //double[] position = new double[3];
+            //position[0] = p.Point.X * 1000;
+            //position[1] = p.Point.Y * 1000;
+            //position[2] = p.Point.Z * 1000;
+            //FrameModel frame = new FrameModel();
+            //frame.FrameModelInit(position);
+            //viewPort3d.Children.Add(frame.FrameModelVisual);
         }
        public void InitView()
         {

@@ -37,7 +37,6 @@ namespace RobotLibrary
         /// <param name="RelativeModelsPath"></param>
         public virtual void RobotInit(string RelativeModelsPath)
         {
-            
             Joints = new JointCollection();
             ChooseJointsPath("\\RobotModels\\" + RelativeModelsPath);
             JointsModel3DSTLLoad();

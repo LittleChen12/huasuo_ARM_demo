@@ -51,6 +51,11 @@ namespace RobotLibrary
             return RobotModel;
         }
 
+        /// <summary>
+        /// 加载单个STL文件
+        /// </summary>
+        /// <param name="path"></param>
+        /// <returns></returns>
         public Model3D ModelSTLload(string path)
         {
             ModelImporter import = new ModelImporter();
