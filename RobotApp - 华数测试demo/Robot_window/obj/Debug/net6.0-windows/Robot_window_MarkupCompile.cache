@@ -4,16 +4,16 @@
 exe
 C#
 .cs
-D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\Robot_window\obj\Debug\net6.0-windows\
 Robot_window
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\Robot_window\App.xaml
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\Robot_window\App.xaml
 14-1113573846
 
 19-1892665378
-219-649107001
+2191471290664
 MainWindow.xaml;StyleResources\MenuStyle.xaml;StyleResources\RobotMoveContorlResource.xaml;UI_Page\CartesianMovePage.xaml;UI_Page\FaLanMovepage.xaml;UI_Page\JointMovePage.xaml;ViewModels\Chart.xaml;ViewModels\GridPath.xaml;ViewModels\LinePathWindow.xaml;ViewModels\PointToPathWindow.xaml;ViewModels\RectAngleWindow.xaml;ViewModels\RotundityPathWindow.xaml;ViewModels\SpeedSetWindow.xaml;ViewModels\SphericalPathWindow.xaml;
 
 False

@@ -161,3 +161,15 @@ D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试d
 D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotLibrary\obj\Debug\net6.0-windows\refint\RobotLibrary.dll
 D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotLibrary\obj\Debug\net6.0-windows\RobotLibrary.pdb
 D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotLibrary\obj\Debug\net6.0-windows\ref\RobotLibrary.dll
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotLibrary\bin\Debug\net6.0-windows\RobotLibrary.deps.json
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotLibrary\bin\Debug\net6.0-windows\RobotLibrary.dll
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotLibrary\bin\Debug\net6.0-windows\RobotLibrary.pdb
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotLibrary\obj\Debug\net6.0-windows\RobotLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotLibrary\obj\Debug\net6.0-windows\RobotLibrary.AssemblyInfoInputs.cache
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotLibrary\obj\Debug\net6.0-windows\RobotLibrary.AssemblyInfo.cs
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotLibrary\obj\Debug\net6.0-windows\RobotLibrary.csproj.CoreCompileInputs.cache
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotLibrary\obj\Debug\net6.0-windows\RobotLibrary.sourcelink.json
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotLibrary\obj\Debug\net6.0-windows\RobotLibrary.dll
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotLibrary\obj\Debug\net6.0-windows\refint\RobotLibrary.dll
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotLibrary\obj\Debug\net6.0-windows\RobotLibrary.pdb
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotLibrary\obj\Debug\net6.0-windows\ref\RobotLibrary.dll

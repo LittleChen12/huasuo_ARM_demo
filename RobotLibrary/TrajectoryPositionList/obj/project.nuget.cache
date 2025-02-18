@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PTmPwrpuuZE=",
+  "dgSpecHash": "xrP53Q3LkaM=",
   "success": true,
-  "projectFilePath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\TrajectoryPositionList\\TrajectoryPositionList.csproj",
+  "projectFilePath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\TrajectoryPositionList\\TrajectoryPositionList.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\helixtoolkit\\2.25.0\\helixtoolkit.2.25.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\helixtoolkit.wpf\\2.25.0\\helixtoolkit.wpf.2.25.0.nupkg.sha512",

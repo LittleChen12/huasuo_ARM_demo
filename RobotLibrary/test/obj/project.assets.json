@@ -623,11 +623,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\test\\test.csproj",
+      "projectUniqueName": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\test\\test.csproj",
       "projectName": "test",
-      "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\test\\test.csproj",
+      "projectPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\test\\test.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\test\\obj\\",
+      "outputPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual studio2022\\shared\\NuGetPackages"
@@ -648,11 +648,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotLibrary\\RobotLibrary.csproj": {
-              "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotLibrary\\RobotLibrary.csproj"
+            "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\RobotLibrary\\RobotLibrary.csproj": {
+              "projectPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\RobotLibrary\\RobotLibrary.csproj"
             },
-            "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\Robots\\Robots.csproj": {
-              "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\Robots\\Robots.csproj"
+            "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\Robots\\Robots.csproj": {
+              "projectPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\Robots\\Robots.csproj"
             }
           }
         }

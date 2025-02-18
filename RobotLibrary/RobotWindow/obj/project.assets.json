@@ -624,11 +624,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotWindow\\RobotWindow.csproj",
+      "projectUniqueName": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\RobotWindow\\RobotWindow.csproj",
       "projectName": "RobotWindow",
-      "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotWindow\\RobotWindow.csproj",
+      "projectPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\RobotWindow\\RobotWindow.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotWindow\\obj\\",
+      "outputPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\RobotWindow\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual studio2022\\shared\\NuGetPackages"
@@ -649,14 +649,14 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\Device\\Device.csproj": {
-              "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\Device\\Device.csproj"
+            "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\Device\\Device.csproj": {
+              "projectPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\Device\\Device.csproj"
             },
-            "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\Robots\\Robots.csproj": {
-              "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\Robots\\Robots.csproj"
+            "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\Robots\\Robots.csproj": {
+              "projectPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\Robots\\Robots.csproj"
             },
-            "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\TrajectoryPositionList\\TrajectoryPositionList.csproj": {
-              "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\TrajectoryPositionList\\TrajectoryPositionList.csproj"
+            "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\TrajectoryPositionList\\TrajectoryPositionList.csproj": {
+              "projectPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\TrajectoryPositionList\\TrajectoryPositionList.csproj"
             }
           }
         }

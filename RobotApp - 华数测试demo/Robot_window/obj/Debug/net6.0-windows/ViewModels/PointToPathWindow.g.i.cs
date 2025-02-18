@@ -277,7 +277,7 @@ namespace Robot_window.ViewModels {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Robot_window;V1.0.0.0;component/viewmodels/pointtopathwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Robot_window;component/viewmodels/pointtopathwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\ViewModels\PointToPathWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

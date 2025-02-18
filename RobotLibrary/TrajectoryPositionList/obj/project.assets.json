@@ -274,11 +274,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\TrajectoryPositionList\\TrajectoryPositionList.csproj",
+      "projectUniqueName": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\TrajectoryPositionList\\TrajectoryPositionList.csproj",
       "projectName": "TrajectoryPositionList",
-      "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\TrajectoryPositionList\\TrajectoryPositionList.csproj",
+      "projectPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\TrajectoryPositionList\\TrajectoryPositionList.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\TrajectoryPositionList\\obj\\",
+      "outputPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\TrajectoryPositionList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual studio2022\\shared\\NuGetPackages"
@@ -299,8 +299,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotLibraryMath\\RobotLibraryAlgorithm.csproj": {
-              "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotLibraryMath\\RobotLibraryAlgorithm.csproj"
+            "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\RobotLibraryMath\\RobotLibraryAlgorithm.csproj": {
+              "projectPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\RobotLibraryMath\\RobotLibraryAlgorithm.csproj"
             }
           }
         }

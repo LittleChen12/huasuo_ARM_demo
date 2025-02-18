@@ -799,7 +799,13 @@ namespace Robot_window.MenuEvents
                 //dsadsad
                 zFit[i] = MovePositions[i].Pose.Z*1000;
                 zTrue[i] = PathMovePoints.Points[i].Z;
+                //dsadasdsadsds
             }
+
+            Error_Mse(xTrue, xFit, "X");
+            Error_Mse(yTrue, yFit, "Y");
+            Error_Mse(zTrue, zFit, "Z");
+
             Chart chart = new Chart();
             chart.Show();
             chart.pltshow(t, xFit);
@@ -816,6 +822,20 @@ namespace Robot_window.MenuEvents
             chart.SetlegendText("ZFit");
             chart.pltshow(t, zTrue);
             chart.SetlegendText("ZTrue");
+
+        }
+        private void Error_Mse(double[] xreal, double[] xfit, string name)
+        {
+            double mse = 0;
+            double maxerror = 0;
+            for (int i = 0; i < xreal.Length; i++)
+            {
+                maxerror = Math.Max(maxerror, Math.Abs(xreal[i] - xfit[i]));
+                mse += (xreal[i] - xfit[i]) * (xreal[i] - xfit[i]);
+            }
+            mse = mse / xreal.Length;
+            Console.WriteLine("MSE" + name + ":" + mse.ToString());
+            Console.WriteLine("MaxError" + name + ":" + maxerror.ToString() + "mm");
 
         }
     }

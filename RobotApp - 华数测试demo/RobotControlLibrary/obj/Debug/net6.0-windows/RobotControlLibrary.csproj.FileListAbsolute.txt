@@ -300,3 +300,26 @@ D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试d
 D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.pdb
 D:\code\华数机械臂\RobotApp - 华数测试demo (3)\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\ref\RobotControlLibrary.dll
 D:\研究生0\机器人\重庆机器人\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotCon.C1540E36.Up2Date
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.deps.json
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.dll
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotControlLibrary\bin\Debug\net6.0-windows\RobotLibrary.pdb
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.AssemblyReference.cache
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.g.cs
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.g.cs
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.cache
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary_MarkupCompile.lref
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotFkShow.baml
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotMoveContorl.baml
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.g.resources
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfoInputs.cache
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.AssemblyInfo.cs
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.csproj.CoreCompileInputs.cache
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.sourcelink.json
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotCon.C1540E36.Up2Date
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.dll
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\refint\RobotControlLibrary.dll
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\RobotControlLibrary.pdb
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\RobotControlLibrary\obj\Debug\net6.0-windows\ref\RobotControlLibrary.dll

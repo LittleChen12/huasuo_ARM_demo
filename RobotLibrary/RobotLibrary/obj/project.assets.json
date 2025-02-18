@@ -533,11 +533,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotLibrary\\RobotLibrary.csproj",
+      "projectUniqueName": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\RobotLibrary\\RobotLibrary.csproj",
       "projectName": "RobotLibrary",
-      "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotLibrary\\RobotLibrary.csproj",
+      "projectPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\RobotLibrary\\RobotLibrary.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotLibrary\\obj\\",
+      "outputPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\RobotLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual studio2022\\shared\\NuGetPackages"
@@ -558,14 +558,14 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\Device\\Device.csproj": {
-              "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\Device\\Device.csproj"
+            "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\Device\\Device.csproj": {
+              "projectPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\Device\\Device.csproj"
             },
-            "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotLibraryMath\\RobotLibraryAlgorithm.csproj": {
-              "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\RobotLibraryMath\\RobotLibraryAlgorithm.csproj"
+            "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\RobotLibraryMath\\RobotLibraryAlgorithm.csproj": {
+              "projectPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\RobotLibraryMath\\RobotLibraryAlgorithm.csproj"
             },
-            "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\xcoresdk_csharp-v0.3.4\\xCoreSDK_CSharp\\xCoreSDK_CSharp.csproj": {
-              "projectPath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\xcoresdk_csharp-v0.3.4\\xCoreSDK_CSharp\\xCoreSDK_CSharp.csproj"
+            "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\xcoresdk_csharp-v0.3.4\\xCoreSDK_CSharp\\xCoreSDK_CSharp.csproj": {
+              "projectPath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\xcoresdk_csharp-v0.3.4\\xCoreSDK_CSharp\\xCoreSDK_CSharp.csproj"
             }
           }
         }

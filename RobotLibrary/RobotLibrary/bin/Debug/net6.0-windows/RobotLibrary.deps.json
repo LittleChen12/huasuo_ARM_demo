@@ -149,7 +149,10 @@
           "System.IO.Ports": "8.0.0"
         },
         "runtime": {
-          "Device.dll": {}
+          "Device.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "RobotLibraryAlgorithm/1.0.0": {
@@ -157,12 +160,18 @@
           "Microsoft.Extensions.DependencyInjection": "8.0.0"
         },
         "runtime": {
-          "RobotLibraryAlgorithm.dll": {}
+          "RobotLibraryAlgorithm.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "xCoreSDK_CSharp/1.0.0": {
         "runtime": {
-          "xCoreSDK_CSharp.dll": {}
+          "xCoreSDK_CSharp.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "xCoreSDK_cli/0.0.0.0": {

@@ -53,7 +53,7 @@ namespace RobotControlLibrary {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/RobotControlLibrary;V1.0.0.0;component/robotfkshow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/RobotControlLibrary;component/robotfkshow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\RobotFkShow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

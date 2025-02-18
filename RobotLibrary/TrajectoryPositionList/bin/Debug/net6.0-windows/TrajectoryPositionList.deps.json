@@ -67,7 +67,10 @@
           "Microsoft.Extensions.DependencyInjection": "8.0.0"
         },
         "runtime": {
-          "RobotLibraryAlgorithm.dll": {}
+          "RobotLibraryAlgorithm.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

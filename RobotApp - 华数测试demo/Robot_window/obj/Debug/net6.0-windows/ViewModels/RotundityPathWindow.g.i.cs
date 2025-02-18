@@ -269,7 +269,7 @@ namespace Robot_window.ViewModels {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Robot_window;V1.0.0.0;component/viewmodels/rotunditypathwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Robot_window;component/viewmodels/rotunditypathwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\ViewModels\RotundityPathWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

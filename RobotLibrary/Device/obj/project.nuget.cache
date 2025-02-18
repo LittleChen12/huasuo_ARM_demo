@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v+QSvMlDGG0=",
+  "dgSpecHash": "G+bUA6G8d7M=",
   "success": true,
-  "projectFilePath": "D:\\研究生0\\机器人\\重庆机器人\\软件架构\\RobotLibrary\\Device\\Device.csproj",
+  "projectFilePath": "D:\\研究生0\\机器人\\仓库\\huasuo_ARM_demo\\RobotLibrary\\Device\\Device.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",

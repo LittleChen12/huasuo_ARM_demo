@@ -4,16 +4,16 @@
 exe
 C#
 .cs
-D:\研究生0\机器人\重庆机器人\软件架构\RobotLibrary\RobotWindow\obj\Debug\net6.0-windows\
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotLibrary\RobotWindow\obj\Debug\net6.0-windows\
 RobotWindow
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\研究生0\机器人\重庆机器人\软件架构\RobotLibrary\RobotWindow\App.xaml
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotLibrary\RobotWindow\App.xaml
 11407045341
 
 6-966016359
-2071092662075
+207367076694
 MainWindow.xaml;
 
 False
