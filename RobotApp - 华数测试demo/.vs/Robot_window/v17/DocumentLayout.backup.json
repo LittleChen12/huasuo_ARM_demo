@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotapp - \u534E\u6570\u6D4B\u8BD5demo\\robot_window\\menuevents\\menuevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|solutionrelative:robot_window\\menuevents\\menuevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotapp - \u534E\u6570\u6D4B\u8BD5demo\\robot_window\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|solutionrelative:robot_window\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotapp - \u534E\u6570\u6D4B\u8BD5demo\\robot_window\\menuevents\\menuevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|solutionrelative:robot_window\\menuevents\\menuevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotapp - \u534E\u6570\u6D4B\u8BD5demo\\robot_window\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 358,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,26 +50,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MenuEvents.cs",
               "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\Robot_window\\MenuEvents\\MenuEvents.cs",
               "RelativeDocumentMoniker": "Robot_window\\MenuEvents\\MenuEvents.cs",
               "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\Robot_window\\MenuEvents\\MenuEvents.cs",
               "RelativeToolTip": "Robot_window\\MenuEvents\\MenuEvents.cs",
-              "ViewState": "AgIAAEwBAAAAAAAAAAApwF0BAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAG8BAAAAAAAAAIA2wH0BAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T08:51:02.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T08:51:02.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\Robot_window\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Robot_window\\MainWindow.xaml.cs",
               "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\Robot_window\\MainWindow.xaml.cs",
               "RelativeToolTip": "Robot_window\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAKcBAAAAAAAAAIA2wIIBAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAP8BAAAAAAAAAAAcwAgCAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T08:51:07.544Z",
               "EditorCaption": ""
@@ -83,8 +82,7 @@
               "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\Robot_window\\MainWindow.xaml",
               "RelativeToolTip": "Robot_window\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-20T08:50:59.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T08:50:59.036Z"
             }
           ]
         },

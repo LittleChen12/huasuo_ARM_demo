@@ -514,10 +514,8 @@ namespace Robot_window
          */
         private void RobotMoveTick(object? sender, EventArgs e)
         {
-
             double[] rad = new double[6];
             double[] angles = new double[6];
-
             rad = menuevents.MovePositions[menuevents.MpCount].Joints.Joints.ToArray();
             angles = BasicAlgorithm.RadToAngle(rad);
             ForwardMove(angles);

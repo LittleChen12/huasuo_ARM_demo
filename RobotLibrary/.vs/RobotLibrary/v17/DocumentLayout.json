@@ -60,7 +60,7 @@
               "RelativeDocumentMoniker": "Robots\\RobotManager.cs",
               "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\Robots\\RobotManager.cs",
               "RelativeToolTip": "Robots\\RobotManager.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T08:55:19.912Z",
               "EditorCaption": ""
@@ -75,8 +75,7 @@
               "RelativeToolTip": "RobotLibrary\\Robot.cs",
               "ViewState": "AgIAAIoAAAAAAAAAAAApwG8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T08:51:38.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T08:51:38.232Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "RobotWindow\\MainWindow.xaml.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAApwEwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T09:27:19.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T09:27:19.967Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "RobotLibrary\\Tool.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAApwAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T09:33:21.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T09:33:21.305Z"
             }
           ]
         },
