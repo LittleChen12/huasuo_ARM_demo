@@ -1,6 +1,7 @@
 ﻿using Controller;
 using Device;
 using HelixToolkit.Wpf;
+using Microsoft.Win32;
 using Model;
 using RobotLibrary;
 using RobotLibraryAlgorithm;
@@ -130,20 +131,36 @@ namespace Robots
         /// <param name="CartesianPositionlist"></param>
         public void SavePoseTxt(CartesianPositionList CartesianPositionlist)
         {
-            string workpath = GetCurSourceFileName();
-            Console.WriteLine("请输入文件路径");
-            var filename = Console.ReadLine();
-            var filePath = workpath + "\\" + "PositionsSave" + "\\" + filename;
+            SaveFileDialog saveFileDialog = new SaveFileDialog();
+
+            // 设置文件类型过滤器
+            saveFileDialog.Filter = "文本文件|*.txt|所有文件|*.*";
+            saveFileDialog.Title = "保存文本文件";
+            saveFileDialog.DefaultExt = "txt";    // 默认扩展名
+            saveFileDialog.AddExtension = true;   // 自动添加扩展名
+            saveFileDialog.OverwritePrompt = true;// 覆盖时提示
             List<string> contents = new List<string>();
-            contents.Add("X Y Z RX RY RZ");
-            for (int i = 0; i < CartesianPositionlist.CartesianPositions.Count; i++)
-            { var p = CartesianPositionlist.CartesianPositions[i];
-                contents.Add(p.Point.X.ToString() + " " + p.Point. Y.ToString() + " "
-                    + p.Point.Z.ToString() + " " + p.Rx.ToString() + " "
-                    + p.Ry.ToString() + " " + p.Rz.ToString());
+            if (saveFileDialog.ShowDialog() == true)
+            {
+                try
+                {
+                    contents.Add("X(mm) Y(mm) Z(mm) RX(rad) RY(rad) RZ(rad)");
+                    for (int i = 0; i < CartesianPositionlist.CartesianPositions.Count; i++)
+                        contents.Add(CartesianPositionlist.CartesianPositions[i].Point.X.ToString() + " " + CartesianPositionlist.CartesianPositions[i].Point.Y.ToString() + " "
+                            + CartesianPositionlist.CartesianPositions[i].Point.Z.ToString() + " " + CartesianPositionlist.CartesianPositions[i].Rx.ToString() + " "
+                            + CartesianPositionlist.CartesianPositions[i].Ry.ToString() + " " + CartesianPositionlist.CartesianPositions[i].Rz.ToString());
+
+                    File.WriteAllLines(saveFileDialog.FileName, contents);
+                    Console.WriteLine("保存成功！ " + "文件路径：" + saveFileDialog.FileName);
+
+                }
+                catch (Exception ex)
+                {
+                    // 处理异常
+                }
             }
-            File.WriteAllLines(filePath, contents);
-            Console.WriteLine("保存成功！ " + "文件路径：" + filePath);
+
+           
         }
         /// <summary>
         /// 
@@ -152,27 +169,41 @@ namespace Robots
         /// <returns>CartesianPositionList</returns>
         public CartesianPositionList LoadPoseTxt()
         {
-            string workpath = GetCurSourceFileName();
-            Console.WriteLine("请输入文件路径");
-            var filename = Console.ReadLine();
-            var filePath = workpath + "\\" + "PositionsSave" + "\\" + filename;
-            string[] lines = File.ReadAllLines(filePath);
-            CartesianPositionList CartesianPositionlist=new CartesianPositionList();
-            foreach (string line in lines)
+            OpenFileDialog OpenFileDialog = new OpenFileDialog();
+            // 设置文件类型过滤器
+            OpenFileDialog.Filter = "文本文件|*.txt|所有文件|*.*";
+            OpenFileDialog.Title = "读取文本文件";
+            OpenFileDialog.DefaultExt = "txt";    // 默认扩展名
+            OpenFileDialog.AddExtension = true;   // 自动添加扩展名
+            CartesianPositionList CartesianPositionlist = new CartesianPositionList();
+            string[] lines;
+            if (OpenFileDialog.ShowDialog() == true)
             {
-                if (line.Contains("X"))
-                    continue;
-                // 使用String.Split方法将每一行分割成字符串数组
-                string[] parts = line.Split(' ');
-                var position = new CartesianPosition();
-                Point3D point = new Point3D(double.Parse(parts[0]), double.Parse(parts[1]), double.Parse(parts[2]));
-                position.Point = point;
-                position.Rx = double.Parse(parts[3]);
-                position.Ry = double.Parse(parts[4]);
-                position.Rz = double.Parse(parts[5]);
-                CartesianPositionlist.CartesianPositions.Add(position);
+                try
+                {
+                     lines = File.ReadAllLines(OpenFileDialog.FileName);
+                    foreach (string line in lines)
+                    {
+                        if (line.Contains("X"))
+                            continue;
+                        // 使用String.Split方法将每一行分割成字符串数组
+                        string[] parts = line.Split(' ');
+                        var position = new CartesianPosition();
+                        Point3D point = new Point3D(double.Parse(parts[0]), double.Parse(parts[1]), double.Parse(parts[2]));
+                        position.Point = point;
+                        position.Rx = double.Parse(parts[3]);
+                        position.Ry = double.Parse(parts[4]);
+                        position.Rz = double.Parse(parts[5]);
+                        CartesianPositionlist.CartesianPositions.Add(position);
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("文件不存在");   
+                }
             }
-            return CartesianPositionlist; 
+            return CartesianPositionlist;
+
         }
 
         /// <summary>
