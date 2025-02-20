@@ -1,6 +1,7 @@
 ﻿
 using HelixToolkit.Wpf;
 using Microsoft.VisualBasic;
+using Microsoft.Win32;
 using PA.src;
 using Robot_window.Control2183;
 using Robot_window.MenuEvents;
@@ -184,7 +185,6 @@ namespace Robot_window
          */
         private void InitRobot()
         {
-
             RobotParams robotParams = new RobotParams();
             robotParams.LinkBasePath = GetCurSourceFileName() + "\\3D_Models";
             RobotLoad load = new RobotLoad();
@@ -311,7 +311,7 @@ namespace Robot_window
 
         private void InitCom()
         {
-            menuevents.serialPortUtils.OpenClosePort("COM4", 115200);
+            menuevents.serialPortUtils.OpenClosePort("COM6", 115200);
         }
         /*@name     InitCoder
         * @brief   上电获取各个关节角度编码器初始值
@@ -669,29 +669,34 @@ namespace Robot_window
 
         private void Comtest(object sender, RoutedEventArgs e)
         {
-            string workpath = GetCurSourceFileName();
-            Console.WriteLine("请输入文件路径");
-            var filename = Console.ReadLine();
-            var filePath = workpath + "\\" + "PositionsSave" + "\\" + filename;
+            SaveFileDialog saveFileDialog = new SaveFileDialog();
+
+            // 设置文件类型过滤器
+            saveFileDialog.Filter = "文本文件|*.txt|所有文件|*.*";
+            saveFileDialog.Title = "保存文本文件";
+            saveFileDialog.DefaultExt = "txt";    // 默认扩展名
+            saveFileDialog.AddExtension = true;   // 自动添加扩展名
+            saveFileDialog.OverwritePrompt = true;// 覆盖时提示
             List<string> contents = new List<string>();
-            contents.Add("X Y Z RX RY RZ");
-            for (int i = 0; i < menuevents.CartesianPositions.Count; i++)
-                contents.Add(menuevents.CartesianPositions[i].X.ToString() + " " + menuevents.CartesianPositions[i].Y.ToString() + " "
-                    + menuevents.CartesianPositions[i].Z.ToString() + " " + menuevents.CartesianPositions[i].RX.ToString() + " "
-                    + menuevents.CartesianPositions[i].RY.ToString() + " " + menuevents.CartesianPositions[i].RZ.ToString());
+            if (saveFileDialog.ShowDialog() == true)
+            {
+                try
+                {
+                    contents.Add("X Y Z RX RY RZ");
+                    for (int i = 0; i < menuevents.CartesianPositions.Count; i++)
+                        contents.Add(menuevents.CartesianPositions[i].X.ToString() + " " + menuevents.CartesianPositions[i].Y.ToString() + " "
+                            + menuevents.CartesianPositions[i].Z.ToString() + " " + menuevents.CartesianPositions[i].RX.ToString() + " "
+                            + menuevents.CartesianPositions[i].RY.ToString() + " " + menuevents.CartesianPositions[i].RZ.ToString());
 
-            File.WriteAllLines(filePath, contents);
-            Console.WriteLine("保存成功！ " + "文件路径：" + filePath);
-            //if (Control2183.Control2183.control.Issavefile)
-            //{
-            //    Control2183.Control2183.control.closesave();
-            //}
-            //else
-            //{
-            //    Control2183.Control2183.control.opensave();
-            //}
-
-
+                    File.WriteAllLines(saveFileDialog.FileName, contents);
+                  
+                }
+                catch (Exception ex)
+                {
+                    // 处理异常
+                }
+            }
+           
         }
 
         private void AddPositions(object sender, RoutedEventArgs e)
@@ -1184,40 +1189,49 @@ namespace Robot_window
 
         private void Loadtext(object sender, RoutedEventArgs e)
         {
-            try
+            OpenFileDialog saveFileDialog = new OpenFileDialog();
+            // 设置文件类型过滤器
+            saveFileDialog.Filter = "文本文件|*.txt|所有文件|*.*";
+            saveFileDialog.Title = "读取文本文件";
+            saveFileDialog.DefaultExt = "txt";    // 默认扩展名
+            saveFileDialog.AddExtension = true;   // 自动添加扩展名
+            List<CartesianPosition> CartesianPositions = new List<CartesianPosition>();
+            if (saveFileDialog.ShowDialog() == true)
             {
-                string workpath = GetCurSourceFileName();
-                Console.WriteLine("请输入文件路径");
-                var filename = Console.ReadLine();
-                var filePath = workpath + "\\" + "PositionsSave" + "\\" + filename;
-                string[] lines = File.ReadAllLines(filePath);
-                foreach (string line in lines)
+                try
                 {
-                    if (line.Contains("X"))
-                        continue;
-                    // 使用String.Split方法将每一行分割成字符串数组
-                    string[] parts = line.Split(' ');
-                    var position = new CartesianPosition();
-                    position.X = double.Parse(parts[0]);
-                    position.Y = double.Parse(parts[1]);
-                    position.Z = double.Parse(parts[2]);
-                    position.RX = double.Parse(parts[3]);
-                    position.RY = double.Parse(parts[4]);
-                    position.RZ = double.Parse(parts[5]);
-                    menuevents.CartesianPositions.Add(position);
+                    string[] lines = File.ReadAllLines(saveFileDialog.FileName);
+                    foreach (string line in lines)
+                    {
+                        if (line.Contains("X"))
+                            continue;
+                        // 使用String.Split方法将每一行分割成字符串数组
+                        string[] parts = line.Split(' ');
+                        var position = new CartesianPosition();
+                        position.X = double.Parse(parts[0]);
+                        position.Y = double.Parse(parts[1]);
+                        position.Z = double.Parse(parts[2]);
+                        position.RX = double.Parse(parts[3]);
+                        position.RY = double.Parse(parts[4]);
+                        position.RZ = double.Parse(parts[5]);
+                        CartesianPositions.Add(position);
+                    }
+                    menuevents.CartesianPositions = CartesianPositions;
+                    CartesianPositionList.ItemsSource = menuevents.CartesianPositions;
+                    if (menuevents.CartesianPositions.Count != 0)
+                        Console.WriteLine("加载成功");
+                    menuevents.PathPointsProduce();
+                    viewPort3d.Children.Add(menuevents.PathPoints);
+
                 }
-                CartesianPositionList.ItemsSource = menuevents.CartesianPositions;
-                if (menuevents.CartesianPositions.Count != 0)
-                    Console.WriteLine("加载成功");
-                menuevents.PathPointsProduce();
-                viewPort3d.Children.Add(menuevents.PathPoints);
-            }
-            catch
-            {
-                Console.WriteLine("文件不存在");
+                catch (Exception ex)
+                {
+                    Console.WriteLine("文件不存在");
 
-
+                }
             }
+
+            
         }
 
         private void Path_Y_Mean(object sender, RoutedEventArgs e)

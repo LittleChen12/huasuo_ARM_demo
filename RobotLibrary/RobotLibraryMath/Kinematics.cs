@@ -37,9 +37,16 @@ namespace RobotLibraryAlgorithm.KinematicsAlgorithm
             point = new CartesianPosition();
         }
         public abstract void KinematicsInit();
+        //求解FK
         public abstract CartesianPosition FkAngle(double[] angle);
         public abstract CartesianPosition FkRad(double[] rad);
         public abstract CartesianPosition FkAngle(double[] angles, Matrix4x4? Grip2Tool = null);
+        /// <summary>
+        /// 求解IK
+        /// m为单位
+        /// </summary>
+        /// <param name="position"></param>
+        /// <returns></returns>
         public abstract Position Ik(CartesianPosition position);
 
 

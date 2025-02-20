@@ -102,7 +102,7 @@ namespace Robot_window.UI_Page {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Robot_window;component/ui_page/jointmovepage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Robot_window;V1.0.0.0;component/ui_page/jointmovepage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\UI_Page\JointMovePage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
