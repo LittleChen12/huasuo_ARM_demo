@@ -44,7 +44,9 @@ namespace RobotLibrary
         {
             joints = new List<Joint>();
             RobotLimit = new RobotLimit();
-            RobotModelVisual= new ModelVisual3D();
+            basepath="";
+            RobotModel = new Model3DGroup();
+            RobotModelVisual = new ModelVisual3D();
         }
        
         /// <summary>
@@ -103,7 +105,7 @@ namespace RobotLibrary
             joints?.CopyTo(array, arrayIndex);
         }
 
-        public IEnumerator<Joint> GetEnumerator()
+        public IEnumerator<JointBase> GetEnumerator()
         {
             return joints.GetEnumerator();
         }
@@ -120,6 +122,11 @@ namespace RobotLibrary
         IEnumerator IEnumerable.GetEnumerator()
         {
             return joints.GetEnumerator();
+        }
+
+        IEnumerator<Joint> IEnumerable<Joint>.GetEnumerator()
+        {
+            throw new NotImplementedException();
         }
     }
 }

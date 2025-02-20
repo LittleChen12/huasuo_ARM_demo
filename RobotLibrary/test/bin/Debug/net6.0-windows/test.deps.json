@@ -146,7 +146,10 @@
           "System.IO.Ports": "8.0.0"
         },
         "runtime": {
-          "Device.dll": {}
+          "Device.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Model/1.0.0": {
@@ -155,7 +158,10 @@
           "HelixToolkit.Wpf": "2.25.0"
         },
         "runtime": {
-          "Model.dll": {}
+          "Model.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "RobotLibrary/1.0.0": {
@@ -167,7 +173,10 @@
           "xCoreSDK_CSharp": "1.0.0"
         },
         "runtime": {
-          "RobotLibrary.dll": {}
+          "RobotLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "RobotLibraryAlgorithm/1.0.0": {
@@ -175,7 +184,10 @@
           "Microsoft.Extensions.DependencyInjection": "8.0.0"
         },
         "runtime": {
-          "RobotLibraryAlgorithm.dll": {}
+          "RobotLibraryAlgorithm.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Robots/1.0.0": {
@@ -186,7 +198,10 @@
           "TrajectoryPositionList": "1.0.0"
         },
         "runtime": {
-          "Robots.dll": {}
+          "Robots.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "TrajectoryPositionList/1.0.0": {
@@ -196,19 +211,17 @@
           "RobotLibraryAlgorithm": "1.0.0"
         },
         "runtime": {
-          "TrajectoryPositionList.dll": {}
+          "TrajectoryPositionList.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "xCoreSDK_CSharp/1.0.0": {
         "runtime": {
-          "xCoreSDK_CSharp.dll": {}
-        }
-      },
-      "xCoreSDK_cli/0.0.0.0": {
-        "runtime": {
-          "xCoreSDK_cli.dll": {
-            "assemblyVersion": "0.0.0.0",
-            "fileVersion": "0.0.0.0"
+          "xCoreSDK_CSharp.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       }
@@ -336,11 +349,6 @@
     },
     "xCoreSDK_CSharp/1.0.0": {
       "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "xCoreSDK_cli/0.0.0.0": {
-      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

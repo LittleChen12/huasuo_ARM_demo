@@ -27,6 +27,9 @@ namespace RobotLibrary
         public Joint()
         {
             jointlimit = new JointLimit();
+            model3D = new GeometryModel3D();
+            modelvisual3D = new ModelVisual3D();
+            jointpath = "";
         }
         /// <summary>
         /// 构造函数：Joint类

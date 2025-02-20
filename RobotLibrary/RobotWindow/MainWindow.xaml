@@ -19,6 +19,9 @@
                 <MenuItem Header="Roke"
                           x:Name="Roke" />
             </MenuItem >
+            <MenuItem   Header="工具文件"  Name="toolmenu"/>
+            <MenuItem   Header="清除工具"
+                        Name="toolclear" />
         </Menu>
         <Label Content="X"
                VerticalAlignment="Top"

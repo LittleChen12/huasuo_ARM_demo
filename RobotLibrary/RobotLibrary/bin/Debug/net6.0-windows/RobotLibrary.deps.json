@@ -173,14 +173,6 @@
             "fileVersion": "1.0.0.0"
           }
         }
-      },
-      "xCoreSDK_cli/0.0.0.0": {
-        "runtime": {
-          "xCoreSDK_cli.dll": {
-            "assemblyVersion": "0.0.0.0",
-            "fileVersion": "0.0.0.0"
-          }
-        }
       }
     }
   },
@@ -286,11 +278,6 @@
     },
     "xCoreSDK_CSharp/1.0.0": {
       "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "xCoreSDK_cli/0.0.0.0": {
-      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

@@ -7,8 +7,32 @@
       "RelativeMoniker": "D:0:0:{F7747584-4EE8-44FA-B3AF-8DC3A530EE43}|Robots\\Robots.csproj|solutionrelative:robots\\robotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0581308C-A7C2-49AC-9AF7-730151D5EACD}|RobotWindow\\RobotWindow.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotlibrary\\robotwindow\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0581308C-A7C2-49AC-9AF7-730151D5EACD}|RobotWindow\\RobotWindow.csproj|solutionrelative:robotwindow\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{05D8E58F-D8BA-4A76-A8B3-6A87EC1761A5}|RobotLibrary\\RobotLibrary.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotlibrary\\robotlibrary\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05D8E58F-D8BA-4A76-A8B3-6A87EC1761A5}|RobotLibrary\\RobotLibrary.csproj|solutionrelative:robotlibrary\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D8E58F-D8BA-4A76-A8B3-6A87EC1761A5}|RobotLibrary\\RobotLibrary.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotlibrary\\robotlibrary\\jointcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D8E58F-D8BA-4A76-A8B3-6A87EC1761A5}|RobotLibrary\\RobotLibrary.csproj|solutionrelative:robotlibrary\\jointcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0581308C-A7C2-49AC-9AF7-730151D5EACD}|RobotWindow\\RobotWindow.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotlibrary\\robotwindow\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0581308C-A7C2-49AC-9AF7-730151D5EACD}|RobotWindow\\RobotWindow.csproj|solutionrelative:robotwindow\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D8E58F-D8BA-4A76-A8B3-6A87EC1761A5}|RobotLibrary\\RobotLibrary.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotlibrary\\robotlibrary\\joint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D8E58F-D8BA-4A76-A8B3-6A87EC1761A5}|RobotLibrary\\RobotLibrary.csproj|solutionrelative:robotlibrary\\joint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D8E58F-D8BA-4A76-A8B3-6A87EC1761A5}|RobotLibrary\\RobotLibrary.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotlibrary\\robotlibrary\\tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D8E58F-D8BA-4A76-A8B3-6A87EC1761A5}|RobotLibrary\\RobotLibrary.csproj|solutionrelative:robotlibrary\\tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDD6CA6-0CAA-496C-805C-032528FCFC94}|RobotLibraryMath\\RobotLibraryAlgorithm.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotlibrary\\robotlibrarymath\\kinematicshuashu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDD6CA6-0CAA-496C-805C-032528FCFC94}|RobotLibraryMath\\RobotLibraryAlgorithm.csproj|solutionrelative:robotlibrarymath\\kinematicshuashu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,24 +74,102 @@
               "Title": "RobotManager.cs",
               "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\Robots\\RobotManager.cs",
               "RelativeDocumentMoniker": "Robots\\RobotManager.cs",
-              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\Robots\\RobotManager.cs",
-              "RelativeToolTip": "Robots\\RobotManager.cs",
-              "ViewState": "AgIAALUAAAAAAAAAAAAAAMcAAAApAAAAAAAAAA==",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\Robots\\RobotManager.cs*",
+              "RelativeToolTip": "Robots\\RobotManager.cs*",
+              "ViewState": "AgIAAFAAAAAAAAAAAAApwFcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T06:23:56.669Z",
+              "WhenOpened": "2025-02-20T08:55:19.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Robot.cs",
               "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibrary\\Robot.cs",
               "RelativeDocumentMoniker": "RobotLibrary\\Robot.cs",
               "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibrary\\Robot.cs",
               "RelativeToolTip": "RobotLibrary\\Robot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIoAAAAAAAAAAAApwG8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T06:23:52.637Z"
+              "WhenOpened": "2025-02-20T08:51:38.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotWindow\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RobotWindow\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotWindow\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RobotWindow\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAApwE8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:27:19.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KinematicsHuaShu.cs",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibraryMath\\KinematicsHuaShu.cs",
+              "RelativeDocumentMoniker": "RobotLibraryMath\\KinematicsHuaShu.cs",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibraryMath\\KinematicsHuaShu.cs",
+              "RelativeToolTip": "RobotLibraryMath\\KinematicsHuaShu.cs",
+              "ViewState": "AgIAAIUBAAAAAAAAAAAAAM4BAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:17:51.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tool.cs",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibrary\\Tool.cs",
+              "RelativeDocumentMoniker": "RobotLibrary\\Tool.cs",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibrary\\Tool.cs",
+              "RelativeToolTip": "RobotLibrary\\Tool.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAhwAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:33:21.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotWindow\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RobotWindow\\MainWindow.xaml",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotWindow\\MainWindow.xaml",
+              "RelativeToolTip": "RobotWindow\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T09:26:19.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JointCollection.cs",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibrary\\JointCollection.cs",
+              "RelativeDocumentMoniker": "RobotLibrary\\JointCollection.cs",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibrary\\JointCollection.cs",
+              "RelativeToolTip": "RobotLibrary\\JointCollection.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAIA2wCIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:50:38.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Joint.cs",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibrary\\Joint.cs",
+              "RelativeDocumentMoniker": "RobotLibrary\\Joint.cs",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibrary\\Joint.cs",
+              "RelativeToolTip": "RobotLibrary\\Joint.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:35:41.713Z",
+              "EditorCaption": ""
             }
           ]
         },

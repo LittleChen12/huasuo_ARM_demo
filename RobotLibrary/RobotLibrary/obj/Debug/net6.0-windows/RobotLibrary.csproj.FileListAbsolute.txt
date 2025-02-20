@@ -26,12 +26,8 @@ D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotLibrary\RobotLibrary\bin\Deb
 D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotLibrary\RobotLibrary\bin\Debug\net6.0-windows\RobotLibrary.pdb
 D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotLibrary\RobotLibrary\bin\Debug\net6.0-windows\Device.dll
 D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotLibrary\RobotLibrary\bin\Debug\net6.0-windows\RobotLibraryAlgorithm.dll
-D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotLibrary\RobotLibrary\bin\Debug\net6.0-windows\xCoreSDK_cli.dll
 D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotLibrary\RobotLibrary\bin\Debug\net6.0-windows\Device.pdb
 D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotLibrary\RobotLibrary\bin\Debug\net6.0-windows\RobotLibraryAlgorithm.pdb
-D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotLibrary\RobotLibrary\bin\Debug\net6.0-windows\xCoreSDK_CSharp.pdb
-D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotLibrary\RobotLibrary\bin\Debug\net6.0-windows\xCoreSDK_CSharp.dll.config
-D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotLibrary\RobotLibrary\bin\Debug\net6.0-windows\xCoreSDK_cli.xml
 D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotLibrary\RobotLibrary\obj\Debug\net6.0-windows\RobotLibrary.csproj.AssemblyReference.cache
 D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotLibrary\RobotLibrary\obj\Debug\net6.0-windows\Interop.Galil.dll
 D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotLibrary\RobotLibrary\obj\Debug\net6.0-windows\RobotLibrary.csproj.ResolveComReference.cache
@@ -45,3 +41,7 @@ D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotLibrary\RobotLibrary\obj\Deb
 D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotLibrary\RobotLibrary\obj\Debug\net6.0-windows\refint\RobotLibrary.dll
 D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotLibrary\RobotLibrary\obj\Debug\net6.0-windows\RobotLibrary.pdb
 D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotLibrary\RobotLibrary\obj\Debug\net6.0-windows\ref\RobotLibrary.dll
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotLibrary\RobotLibrary\bin\Debug\net6.0-windows\xCoreSDK_cli.dll
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotLibrary\RobotLibrary\bin\Debug\net6.0-windows\xCoreSDK_CSharp.pdb
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotLibrary\RobotLibrary\bin\Debug\net6.0-windows\xCoreSDK_CSharp.dll.config
+D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotLibrary\RobotLibrary\bin\Debug\net6.0-windows\xCoreSDK_cli.xml

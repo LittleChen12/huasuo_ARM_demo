@@ -259,6 +259,12 @@ namespace RobotLibraryAlgorithm.KinematicsAlgorithm
              kinematics.ToPose();
             return kinematics.points;
         }
+        /// <summary>
+        /// 正解 单位为m
+        /// </summary>
+        /// <param name="joints"></param>
+        /// <param name="Grip2Tool"></param>
+        /// <returns></returns>
         public  override CartesianPosition FkAngle(double[] joints,Matrix4x4?Grip2Tool=null)
         {
             KinematicsHuaShu kinematics = new KinematicsHuaShu();

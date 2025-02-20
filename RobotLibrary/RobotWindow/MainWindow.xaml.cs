@@ -1,5 +1,6 @@
 ﻿using Device;
 using HelixToolkit.Wpf;
+using Microsoft.Win32;
 using Model;
 using RobotLibrary;
 using RobotLibraryAlgorithm;
@@ -68,6 +69,26 @@ namespace RobotWindow
             AnChuan.Click += qiehuanrotbot;
             HuaShu.Click += qiehuanrotbot;
             Roke.Click += qiehuanrotbot;
+            toolmenu.Click+=toolmenu_Click;
+            toolclear.Click += toolclear_Click;
+        }
+
+        private void toolclear_Click(object sender, RoutedEventArgs e)
+        {
+            manager.ToolClear();
+        }
+
+        private void toolmenu_Click(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog openFileDialog = new OpenFileDialog();
+            openFileDialog.InitialDirectory = "c:\\desktop";    //初始的文件夹
+            openFileDialog.Filter = "OBJ Files (*.obj)|*.obj|STL Files (*.stl)|*.stl";//在对话框中显示的文件类型
+            openFileDialog.FilterIndex = 2;
+            openFileDialog.RestoreDirectory = true;
+            openFileDialog.ShowDialog();    //显示对话框
+            string filepath = openFileDialog.FileName; //获取选择的文件的全路径名
+
+            manager.ToolInit(filepath);
         }
 
         private void qiehuanrotbot(object sender, RoutedEventArgs e)

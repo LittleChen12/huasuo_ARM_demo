@@ -3,55 +3,16 @@
   "WorkspaceRootPath": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotapp - \u534E\u6570\u6D4B\u8BD5demo\\robot_window\\menuevents\\menuevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|solutionrelative:robot_window\\menuevents\\menuevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotapp - \u534E\u6570\u6D4B\u8BD5demo\\robot_window\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|solutionrelative:robot_window\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\bf23c4041368c70029d54e850d2d0f55bd036e2df7250e561455c892084fbdc0\\ItemContainerGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotapp - \u534E\u6570\u6D4B\u8BD5demo\\robot_window\\viewmodels\\chart.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|solutionrelative:robot_window\\viewmodels\\chart.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotapp - \u534E\u6570\u6D4B\u8BD5demo\\robotlibrary\\cartesianposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|solutionrelative:robotlibrary\\cartesianposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotapp - \u534E\u6570\u6D4B\u8BD5demo\\robot_window\\serialportutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|solutionrelative:robot_window\\serialportutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotapp - \u534E\u6570\u6D4B\u8BD5demo\\robotlibrary\\pathclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|solutionrelative:robotlibrary\\pathclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotapp - \u534E\u6570\u6D4B\u8BD5demo\\robot_window\\menuevents\\menuevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|solutionrelative:robot_window\\menuevents\\menuevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotapp - \u534E\u6570\u6D4B\u8BD5demo\\robot_window\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|solutionrelative:robot_window\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotapp - \u534E\u6570\u6D4B\u8BD5demo\\robot_window\\viewmodels\\chart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|solutionrelative:robot_window\\viewmodels\\chart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotapp - \u534E\u6570\u6D4B\u8BD5demo\\robotlibrary\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|solutionrelative:robotlibrary\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotapp - \u534E\u6570\u6D4B\u8BD5demo\\robotlibrary\\trajectoryplanning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|solutionrelative:robotlibrary\\trajectoryplanning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotapp - \u534E\u6570\u6D4B\u8BD5demo\\robotlibrary\\jointposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|solutionrelative:robotlibrary\\jointposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotapp - \u534E\u6570\u6D4B\u8BD5demo\\robotlibrary\\basicalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|solutionrelative:robotlibrary\\basicalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 358,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -89,158 +50,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Chart.xaml.cs",
-              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\Robot_window\\ViewModels\\Chart.xaml.cs",
-              "RelativeDocumentMoniker": "Robot_window\\ViewModels\\Chart.xaml.cs",
-              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\Robot_window\\ViewModels\\Chart.xaml.cs",
-              "RelativeToolTip": "Robot_window\\ViewModels\\Chart.xaml.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAYwCMAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T03:03:51.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Chart.xaml",
-              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\Robot_window\\ViewModels\\Chart.xaml",
-              "RelativeDocumentMoniker": "Robot_window\\ViewModels\\Chart.xaml",
-              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\Robot_window\\ViewModels\\Chart.xaml",
-              "RelativeToolTip": "Robot_window\\ViewModels\\Chart.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-13T03:02:30.048Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\Robot_window\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Robot_window\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\Robot_window\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Robot_window\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAJ0CAAAAAAAAAAAywKwCAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T06:30:51.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PathClass.cs",
-              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\RobotLibrary\\PathClass.cs",
-              "RelativeDocumentMoniker": "RobotLibrary\\PathClass.cs",
-              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\RobotLibrary\\PathClass.cs",
-              "RelativeToolTip": "RobotLibrary\\PathClass.cs",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAkwJEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T11:24:24.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CartesianPosition.cs",
-              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\RobotLibrary\\CartesianPosition.cs",
-              "RelativeDocumentMoniker": "RobotLibrary\\CartesianPosition.cs",
-              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\RobotLibrary\\CartesianPosition.cs",
-              "RelativeToolTip": "RobotLibrary\\CartesianPosition.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAwwBwAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T11:24:13.77Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "MenuEvents.cs",
               "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\Robot_window\\MenuEvents\\MenuEvents.cs",
               "RelativeDocumentMoniker": "Robot_window\\MenuEvents\\MenuEvents.cs",
               "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\Robot_window\\MenuEvents\\MenuEvents.cs",
               "RelativeToolTip": "Robot_window\\MenuEvents\\MenuEvents.cs",
-              "ViewState": "AgIAABkDAAAAAAAAAAAAACYDAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAG8BAAAAAAAAAIA2wH0BAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T11:19:19.543Z",
+              "WhenOpened": "2025-02-20T08:51:02.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\Robot_window\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Robot_window\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\Robot_window\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Robot_window\\MainWindow.xaml.cs",
+              "ViewState": "AgIAALABAAAAAAAAAAAhwIIBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:51:07.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ItemContainerGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\bf23c4041368c70029d54e850d2d0f55bd036e2df7250e561455c892084fbdc0\\ItemContainerGenerator.cs",
-              "ToolTip": "C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\bf23c4041368c70029d54e850d2d0f55bd036e2df7250e561455c892084fbdc0\\ItemContainerGenerator.cs [\u53EA\u8BFB]",
-              "ViewState": "AgIAAC4FAAAAAAAAAAAxwDgFAAACAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T07:09:02.418Z",
-              "EditorCaption": " [\u53EA\u8BFB]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SerialPortUtils.cs",
-              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\Robot_window\\SerialPortUtils.cs",
-              "RelativeDocumentMoniker": "Robot_window\\SerialPortUtils.cs",
-              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\Robot_window\\SerialPortUtils.cs",
-              "RelativeToolTip": "Robot_window\\SerialPortUtils.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAcwH4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T09:50:39.407Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\Robot_window\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Robot_window\\MainWindow.xaml",
               "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\Robot_window\\MainWindow.xaml",
               "RelativeToolTip": "Robot_window\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-01T11:01:54.423Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BasicAlgorithm.cs",
-              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\RobotLibrary\\BasicAlgorithm.cs",
-              "RelativeDocumentMoniker": "RobotLibrary\\BasicAlgorithm.cs",
-              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\RobotLibrary\\BasicAlgorithm.cs",
-              "RelativeToolTip": "RobotLibrary\\BasicAlgorithm.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T11:24:07.215Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "JointPosition.cs",
-              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\RobotLibrary\\JointPosition.cs",
-              "RelativeDocumentMoniker": "RobotLibrary\\JointPosition.cs",
-              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\RobotLibrary\\JointPosition.cs",
-              "RelativeToolTip": "RobotLibrary\\JointPosition.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T11:24:16.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Position.cs",
-              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\RobotLibrary\\Position.cs",
-              "RelativeDocumentMoniker": "RobotLibrary\\Position.cs",
-              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\RobotLibrary\\Position.cs",
-              "RelativeToolTip": "RobotLibrary\\Position.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T11:24:28.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TrajectoryPlanning.cs",
-              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\RobotLibrary\\TrajectoryPlanning.cs",
-              "RelativeDocumentMoniker": "RobotLibrary\\TrajectoryPlanning.cs",
-              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotApp - \u534E\u6570\u6D4B\u8BD5demo\\RobotLibrary\\TrajectoryPlanning.cs",
-              "RelativeToolTip": "RobotLibrary\\TrajectoryPlanning.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAkwHAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T11:21:08.326Z"
+              "WhenOpened": "2025-02-20T08:50:59.036Z"
             }
           ]
         },

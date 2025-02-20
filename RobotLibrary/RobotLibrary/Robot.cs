@@ -18,12 +18,13 @@ namespace RobotLibrary
         /// double[,] RobotSportsParams  机器人参数 前三个参数是旋转轴xyz, 后三个参数是旋转中心坐标
         /// double[,] RobotLimParams 机器人软件限制参数
         /// </summary>
-        private JointCollection joints;
+        private JointCollection joints=new JointCollection();
         public JointCollection Joints
         {
             get { return joints; }
             set { joints = value; }
         }
+        public Tool? tool =null;
         //用于界面模型的运动
         public double[,] RobotSportsParams = new double[6, 6];
         //机器人软件限制参数
@@ -138,6 +139,19 @@ namespace RobotLibrary
             joints.RobotModelVisual.Children.Clear();
             joints.Clear();
         }
+        /// <summary>
+        /// 添加工具到机械臂
+        /// </summary>
+        /// <param name="_tool"></param>
+        public virtual void RobotAddTool(Tool _tool)
+        {
+            tool=_tool; 
+            joints.Add(new Joint());
+            joints[joints.Count - 1].model3D= tool.model3D;
+            joints[joints.Count - 1].modelvisual3D.Content = tool.model3D;
+            joints.RobotModel.Children.Add(joints[joints.Count - 1].model3D);
+            joints.RobotModelVisual.Children.Add(joints[joints.Count - 1].modelvisual3D);
+        }
 
         /// <summary>
         /// 读取新机器人运动参数（txt）
@@ -174,10 +188,10 @@ namespace RobotLibrary
         /// </summary>
         public virtual void JointsParmasInit()
         {
-            for (int i = 0;i < joints.Count-1;i++) 
+            for (int i = 0; i < joints.Count - 1; i++)
             {
-                joints[i].SetRot(new Vector3D(RobotSportsParams[i, 0], RobotSportsParams[i, 1], RobotSportsParams[i, 2]));
-                joints[i].SetRotPoints(new Point3D(RobotSportsParams[i, 3], RobotSportsParams[i, 4], RobotSportsParams[i, 5]));
+                    joints[i].SetRot(new Vector3D(RobotSportsParams[i, 0], RobotSportsParams[i, 1], RobotSportsParams[i, 2]));
+                    joints[i].SetRotPoints(new Point3D(RobotSportsParams[i, 3], RobotSportsParams[i, 4], RobotSportsParams[i, 5]));  
             }
         }
 
@@ -191,11 +205,20 @@ namespace RobotLibrary
             var RS= new List<RotateTransform3D>();
             for (int i = 0;i<joints.Count-1;i++)
             {
-                RS.Add(new RotateTransform3D(new AxisAngleRotation3D(joints[i].Axis, angles[i]),joints[i].Center));
-                TS.Add(new Transform3DGroup());
-                TS[i].Children.Add(RS[i]);
-                if(i!=0)
-                TS[i].Children.Add(TS[i - 1]);
+                if (tool != null && i == joints.Count - 2)
+                {
+                    TS.Add(new Transform3DGroup());
+                    TS[joints.Count - 2].Children.Add(tool.ToolTd);
+                    TS[joints.Count - 2].Children.Add(TS[joints.Count - 3]);
+                }
+                else 
+                {
+                    RS.Add(new RotateTransform3D(new AxisAngleRotation3D(joints[i].Axis, angles[i]), joints[i].Center));
+                    TS.Add(new Transform3DGroup());
+                    TS[i].Children.Add(RS[i]);
+                    if (i != 0)
+                    TS[i].Children.Add(TS[i - 1]);
+                }
             }
             //底座不变换
             for (int i = 0; i < TS.Count; i++)

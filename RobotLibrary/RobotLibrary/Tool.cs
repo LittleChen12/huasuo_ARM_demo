@@ -25,6 +25,9 @@ namespace RobotLibrary
                      0, 0, 0, 1
 
                 );
+            model3D = new GeometryModel3D();
+            modelvisual3D=new ModelVisual3D();
+            jointpath = "";
             //        GripToTool = new Matrix4x4(
             //    1, 0, 0, 0,
             //    0, 1, 0, 0.111f,
