@@ -682,7 +682,7 @@ namespace Robot_window
             {
                 try
                 {
-                    contents.Add("X Y Z RX RY RZ");
+                    contents.Add("X(mm) Y(mm) Z(mm) RX(rad) RY(rad) RZ(rad)");
                     for (int i = 0; i < menuevents.CartesianPositions.Count; i++)
                         contents.Add(menuevents.CartesianPositions[i].X.ToString() + " " + menuevents.CartesianPositions[i].Y.ToString() + " "
                             + menuevents.CartesianPositions[i].Z.ToString() + " " + menuevents.CartesianPositions[i].RX.ToString() + " "
@@ -1203,7 +1203,7 @@ namespace Robot_window
                     string[] lines = File.ReadAllLines(saveFileDialog.FileName);
                     foreach (string line in lines)
                     {
-                        if (line.Contains("X"))
+                        if (line.Contains("X(mm)"))
                             continue;
                         // 使用String.Split方法将每一行分割成字符串数组
                         string[] parts = line.Split(' ');

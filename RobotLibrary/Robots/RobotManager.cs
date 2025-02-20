@@ -132,7 +132,6 @@ namespace Robots
         public void SavePoseTxt(CartesianPositionList CartesianPositionlist)
         {
             SaveFileDialog saveFileDialog = new SaveFileDialog();
-
             // 设置文件类型过滤器
             saveFileDialog.Filter = "文本文件|*.txt|所有文件|*.*";
             saveFileDialog.Title = "保存文本文件";
@@ -149,18 +148,14 @@ namespace Robots
                         contents.Add(CartesianPositionlist.CartesianPositions[i].Point.X.ToString() + " " + CartesianPositionlist.CartesianPositions[i].Point.Y.ToString() + " "
                             + CartesianPositionlist.CartesianPositions[i].Point.Z.ToString() + " " + CartesianPositionlist.CartesianPositions[i].Rx.ToString() + " "
                             + CartesianPositionlist.CartesianPositions[i].Ry.ToString() + " " + CartesianPositionlist.CartesianPositions[i].Rz.ToString());
-
                     File.WriteAllLines(saveFileDialog.FileName, contents);
                     Console.WriteLine("保存成功！ " + "文件路径：" + saveFileDialog.FileName);
-
                 }
                 catch (Exception ex)
                 {
                     // 处理异常
                 }
             }
-
-           
         }
         /// <summary>
         /// 
@@ -184,7 +179,7 @@ namespace Robots
                      lines = File.ReadAllLines(OpenFileDialog.FileName);
                     foreach (string line in lines)
                     {
-                        if (line.Contains("X"))
+                        if (line.Contains("X(mm)"))
                             continue;
                         // 使用String.Split方法将每一行分割成字符串数组
                         string[] parts = line.Split(' ');
@@ -203,7 +198,6 @@ namespace Robots
                 }
             }
             return CartesianPositionlist;
-
         }
 
         /// <summary>

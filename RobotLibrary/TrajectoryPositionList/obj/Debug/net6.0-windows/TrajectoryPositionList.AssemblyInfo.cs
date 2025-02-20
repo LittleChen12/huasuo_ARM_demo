@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrajectoryPositionList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e1c932d47b8eccee9044af5b837cfdba2ca28c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c01093e94928fad8da0c22fb459a5401aec70e6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrajectoryPositionList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrajectoryPositionList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
