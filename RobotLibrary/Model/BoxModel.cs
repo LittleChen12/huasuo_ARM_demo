@@ -15,7 +15,7 @@ namespace Model
         public BoxModel()
         {
             Boxmodel=new MeshGeometry3D();
-             Boxmodelvisual = new ModelVisual3D();
+            Boxmodelvisual = new ModelVisual3D();
         }
         /// <summary>
         /// 初始化box模型
@@ -29,10 +29,7 @@ namespace Model
             builder.AddBox(_point, position[0], position[1], position[2]);
             GeometryModel3D model = new GeometryModel3D(builder.ToMesh(), Materials.White);
             Boxmodel = builder.ToMesh();
-
             Boxmodelvisual.Content = model;
         }
-        
-        
     }
 }

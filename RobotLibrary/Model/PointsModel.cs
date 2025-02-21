@@ -14,7 +14,6 @@ namespace Model
         public PointsModel()
         {
             PointsVisual = new PointsVisual3D();
-          
         }
         /// <summary>
         /// 初始化路径点模型
@@ -25,10 +24,23 @@ namespace Model
             PointsVisual.Color = Colors.Red;
             PointsVisual.Size = 4;
         }
-        public void PintsModelClear()
+        /// <summary>
+        /// 轨迹清除
+        /// </summary>
+        public void PointsModelClear()
         {
             PointsVisual.Points.Clear();
             PointsVisual.Children.Clear();
+        }
+        /// <summary>
+        /// 设置路径点模型属性
+        /// </summary>
+        /// <param name="color"></param>
+        /// <param name="size"></param>
+        public void PoinModelSet(Color color, double size=4)
+        {
+            PointsVisual.Color = color;
+            PointsVisual.Size = size;
         }
     }
 }

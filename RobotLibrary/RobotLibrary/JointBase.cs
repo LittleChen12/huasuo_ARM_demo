@@ -15,9 +15,9 @@ namespace RobotLibrary
         /// ModelVisual3D  modelvisual3D  3D模型显示
         /// string  jointpath  3D模型文件路径
         /// </summary>
-        public Model3D model3D { get; set; }
-        public ModelVisual3D modelvisual3D { get; set; }
-        public string jointpath { get; set; }
+        public Model3D? model3D { get; set; }
+        public ModelVisual3D? modelvisual3D { get; set; }
+        public string? jointpath { get; set; }
         /// <summary>
         /// 设置3D模型
         /// </summary>

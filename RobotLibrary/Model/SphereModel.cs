@@ -19,6 +19,8 @@ namespace Model
         {
             SphereModelVisuals = new List<ModelVisual3D>();
             SphereModels = new List<Model3D>();
+            Spheremodel = new GeometryModel3D();
+            Spheremodelvisual = new ModelVisual3D();
         }
         /// <summary>
         /// 初始化球体模型

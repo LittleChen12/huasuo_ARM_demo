@@ -39,7 +39,8 @@ namespace RobotLibrary
         public virtual void RobotInit(string RelativeModelsPath)
         {
             Joints = new JointCollection();
-            ChooseJointsPath("\\RobotModels\\" + RelativeModelsPath);
+            if(joints.BasePath== "")
+            { ChooseJointsPath("\\RobotModels\\" + RelativeModelsPath); }
             JointsModel3DSTLLoad();
             JointsParmasInit();
         }
@@ -51,6 +52,10 @@ namespace RobotLibrary
         {
             string path = Directory.GetCurrentDirectory();
             var p = Directory.GetParent(path);
+            if (p?.Parent?.Parent == null)
+            {
+                throw new InvalidOperationException("无法获取当前程序集所在文件夹的路径。");
+            }
             return p.Parent.Parent.FullName;
         }
         /// <summary>
@@ -59,7 +64,7 @@ namespace RobotLibrary
         /// 并将关节组的每个关节设置绝对路径
         /// 如果原来关节组有文件，则删除
         /// </summary>
-        public virtual string[] ChooseJointsPath(string RelativePath)
+        private string[] ChooseJointsPath(string RelativePath)
         {
             joints.BasePath = GetCurSourceFileName()+RelativePath;
             string[] modelilst = Directory.GetFiles(joints.BasePath); 
@@ -101,7 +106,7 @@ namespace RobotLibrary
         /// Joints每个Joint的Model3D属性也加载
         /// Joints的RobotModel与RobotModelVisual加载为整个机械臂
         /// </summary>
-        public virtual void JointsModel3DSTLLoad()
+        private  void JointsModel3DSTLLoad()
         {
             RobotStlLoad load = new RobotStlLoad();
             Joints.RobotModel = load.JointsStlLoad(Joints.BasePath);
