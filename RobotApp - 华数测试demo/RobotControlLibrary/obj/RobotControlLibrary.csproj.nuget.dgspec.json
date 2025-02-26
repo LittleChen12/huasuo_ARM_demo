@@ -121,6 +121,12 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "MathNet.Symbolics": {
+              "target": "Package",
+              "version": "[0.25.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MathNet.Numerics;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Numerics;
@@ -9,6 +10,47 @@ namespace RobotLibrary
 {
     public class TrajectoryPlanning
     {
+        /// <summary>
+        /// 曲线拟合
+        /// </summary>
+        /// <param name="positions"></param>
+        /// <param name="order"></param>
+        /// <returns></returns>
+        public static double[] CurveFitting(List<CartesianPosition> positions, int order)
+        {
+            double[] tValues = new double[positions.Count];
+            for (int i = 0; i < positions.Count; i++)
+            {
+                tValues[i] = positions[i].t;
+            }
+            double[] xValues = new double[positions.Count];
+            double[] yValues = new double[positions.Count];
+            double[] zValues = new double[positions.Count];
+            for (int i = 0; i < positions.Count; i++)
+            {
+                xValues[i] = positions[i].X;
+                yValues[i] = positions[i].Y;
+                zValues[i] = positions[i].Z;
+            }
+            //p0+p1*t+p2*t^2+p3*t^3+...  [p0, p1, p2, p3,...]
+            double[] xCoefficients = Fit.Polynomial(tValues, xValues, order);
+            double[] yCoefficients = Fit.Polynomial(tValues, yValues, order);
+            double[] zCoefficients = Fit.Polynomial(tValues, zValues, order);
+            double[] coefficients = new double[xCoefficients.Length + yCoefficients.Length + zCoefficients.Length];
+            for (int i = 0; i < xCoefficients.Length; i++)
+            {
+                coefficients[i] = xCoefficients[i];
+            }
+            for (int i = 0; i < yCoefficients.Length; i++)
+            {
+                coefficients[i + xCoefficients.Length] = yCoefficients[i];
+            }
+            for (int i = 0; i < zCoefficients.Length; i++)
+            {
+                coefficients[i + xCoefficients.Length + yCoefficients.Length] = zCoefficients[i];
+            }
+            return coefficients;
+        }
         // 生成平面栅格扫查点（包含xyz RxRyRz）
         /* 
         * startPoint :起始点

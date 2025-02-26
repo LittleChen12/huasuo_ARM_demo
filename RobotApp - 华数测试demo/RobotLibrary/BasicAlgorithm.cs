@@ -295,6 +295,33 @@ namespace RobotLibrary
                 return C;
             }
         }
+        public static double[,] CatsionPositionToTMatrix(CartesianPosition position)
+        {
+            double[,] R = new double[4, 4];
+
+            double sa = Math.Sin(position.RZ);
+            double ca = Math.Cos(position.RZ);
+            double sb = Math.Sin(position.RY);
+            double cb = Math.Cos(position.RY);
+            double sg = Math.Sin(position.RX);
+            double cg = Math.Cos(position.RX);
+
+            R[0, 0] = cb * ca;
+            R[0, 1] = ca * sb * sg - sa * cg;
+            R[0, 2] = ca * sb * cg + sg * sa;
+            R[0, 3] = position.X * 1000;
+            R[1, 0] = sa * cb;
+            R[1, 1] = sg * sb * sa + cg * ca;
+            R[1, 2] = sa * sb * cg - ca * sg;
+            R[1, 3] = position.Y * 1000;
+            R[2, 0] = -sb;
+            R[2, 1] = cb * sg;
+            R[2, 2] = cb * cg;
+            R[2, 3] = position.Z * 1000;
+            R[3, 3] = 1;
+
+            return R;
+        }
         public static double[,] TransposeArray(double[,] original)
         {
             // 获取原始数组的维度  

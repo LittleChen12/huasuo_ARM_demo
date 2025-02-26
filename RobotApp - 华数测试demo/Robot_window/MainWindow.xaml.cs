@@ -154,6 +154,10 @@ namespace Robot_window
         {
             get; set;
         }
+        public bool NewIKFlag
+        {
+            get; set;
+        }
         const bool IsConnectdSerialPort = false;
 
 
@@ -296,6 +300,9 @@ namespace Robot_window
             robotload.Click += menuevents.LoadRobot;
 
             ChartButton.Click+= menuevents.ChartWindow_Click;
+            ThreePathButton.Click+=menuevents.ThreePath_Click;
+            Q6DrawButton.Click += menuevents.Q6Draw_Click;
+            A6B6DrawButton.Click+=menuevents.A6B6Draw_Click;
         }
         public static string GetCurSourceFileName()
 
@@ -595,7 +602,7 @@ namespace Robot_window
             }
             else
             {
-                if (listBox != null && listBox.SelectedItem != null)
+                if (listBox != null && listBox.SelectedItem != null && NewIKFlag == false)
                 {
                     var f = Math.Abs(listBox.SelectedIndex - menuevents.ListBoxLidex) + 1;
                     while (f != 0)
@@ -619,6 +626,24 @@ namespace Robot_window
                             menuevents.ListBoxLidex--;
                     }
                 }
+                else if (NewIKFlag == true)
+                {
+                    //CartesianPosition ca = listBox.Items[menuevents.ListBoxLidex] as CartesianPosition;
+                    //var list = Position.MoveL(RightNowPosition, ca.mmTom(), 0.5, MainWindow.mainwindow.GripToTool);
+                    //foreach (var p in list) { menuevents.MovePositions.Add(p); }
+                    var f = Math.Abs(listBox.SelectedIndex - menuevents.ListBoxLidex) + 1;
+                        while(f != 0)
+                        {
+                            menuevents.MovePositions.Add(NewIK.IK_New(menuevents.CartesianPositions[menuevents.ListBoxLidex].mmTom()));
+                            if (menuevents.ListBoxLidex < listBox.SelectedIndex)
+                                {
+                                    menuevents.ListBoxLidex++;
+                                }
+                                else { menuevents.ListBoxLidex--; }
+                            f--;   
+                        }
+                    
+                 }
                 menuevents.ListBoxLidex = listBox.SelectedIndex;
                 // if (menuevents.CpTotalCount != menuevents.CartesianPositions.Count)
                 timer.Start();
@@ -626,17 +651,28 @@ namespace Robot_window
                 if (simulation == false)
                     Control2183.Control2183.control.Command_2183(menuevents.MovePositions, Control2183Speed);
             }
-
-            foreach (var p in menuevents.MovePositions)
+            if (NewIKFlag == false)
             {
-                // menuevents.PathMovePoints.Points.Add(new Point3D(p.Pose.X * 1000, p.Pose.Y * 1000, p.Pose.Z * 1000)); 
-                double[] JointRad = p.Joints.Joints.ToArray();
-                JointPosition jointposition = new JointPosition(JointRad);
-                PathClass path = new PathClass(jointposition);
-                path.FK(GripToTool);
-                menuevents.PathMovePoints.Points.Add(new Point3D(path.Points.X * 1000, path.Points.Y * 1000, path.Points.Z * 1000));
+                foreach (var p in menuevents.MovePositions)
+                {
+                    // menuevents.PathMovePoints.Points.Add(new Point3D(p.Pose.X * 1000, p.Pose.Y * 1000, p.Pose.Z * 1000)); 
+                    double[] JointRad = p.Joints.Joints.ToArray();
+                    JointPosition jointposition = new JointPosition(JointRad);
+                    PathClass path = new PathClass(jointposition);
+                    path.FK(GripToTool);
+                    menuevents.PathMovePoints.Points.Add(new Point3D(path.Points.X * 1000, path.Points.Y * 1000, path.Points.Z * 1000));
+                }
             }
-              
+            else
+            {
+                for (int i = 0; i < NewIK.Q3Value.Length; i++)
+                {
+                    double[] JointRad = new double[6] { NewIK.Q1Value[i], NewIK.Q2Value[i], NewIK.Q3Value[i], NewIK.Q4Value[i], NewIK.Q5Value[i], NewIK.Q6Value[i] };
+                    JointPosition jointposition = new JointPosition(JointRad);
+                    var path = NewIK.FKNewRad(JointRad);
+                    menuevents.PathMovePoints.Points.Add(new Point3D(path.X, path.Y, path.Z));
+                }
+            }
             viewPort3d.Children.Add(menuevents.PathMovePoints);
             //menuevents.CpTotalCount=menuevents.CartesianPositions.Count;
         }

@@ -16,6 +16,8 @@ using System.Windows.Input;
 using System.Globalization;
 using System.IO;
 using System.Data;
+using static FParsec.ErrorMessage;
+using MathNet.Numerics;
 
 namespace Robot_window.MenuEvents
 {
@@ -30,6 +32,12 @@ namespace Robot_window.MenuEvents
         {
             Color= Colors.Red, 
             Size=3
+        };
+        //newik全部路径点
+        public PointsVisual3D NewIKPathPoints = new PointsVisual3D()
+        {
+            Color = Colors.Black,
+            Size = 3
         };
         //每次移动时的路径
         public PointsVisual3D PathMovePoints =new PointsVisual3D()
@@ -64,6 +72,8 @@ namespace Robot_window.MenuEvents
         public List<ModelVisual3D> modelVisual3Ds = new List<ModelVisual3D>();
 
         public Vector3D planeNormal=new Vector3D();
+        public int order = 3;//曲线拟合多项式阶数
+        public double[] coefficients;
 
         public MenuEvents() 
         {
@@ -200,6 +210,9 @@ namespace Robot_window.MenuEvents
                 viewPort3d.Children.Remove(PathPoints);
                 PathPoints.Points.Clear();     
                 PathPoints.Children.Clear();
+                viewPort3d.Children.Remove(NewIKPathPoints);
+                NewIKPathPoints.Points.Clear();
+                NewIKPathPoints.Children.Clear();
                 MainWindow.mainwindow.CartesianPositionList.ItemsSource = CartesianPositions;
                 MainWindow.mainwindow.CartesianPositionList.SelectionChanged += MainWindow.mainwindow.CartesianPositionList_SelectionChanged;
             }
@@ -838,77 +851,86 @@ namespace Robot_window.MenuEvents
             Console.WriteLine("MaxError" + name + ":" + maxerror.ToString() + "mm");
 
         }
+        /// <summary>
+        /// 三次样条插值，先给每个空间的点赋予时间，然后进行三次样条插值
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        public void ThreePath_Click(object sender, RoutedEventArgs e)
+        {
+            //每个点赋予时间
+            for (int i = 0; i < CartesianPositions.Count; i++)
+            {
+                CartesianPositions[i].t = i;
+            }
+            //三次样条插值
+            coefficients = TrajectoryPlanning.CurveFitting(CartesianPositions, order: 3);
+            List<CartesianPosition> positions = new List<CartesianPosition>();
+            for (double i = 0; i <= CartesianPositions.Count - 1;)
+            {
+                double x = coefficients[0] + coefficients[1] * i + coefficients[2] * i * i + coefficients[3] * i * i * i;
+                double y = coefficients[4] + coefficients[5] * i + coefficients[6] * i * i + coefficients[7] * i * i * i;
+                double z = coefficients[8] + coefficients[9] * i + coefficients[10] * i * i + coefficients[11] * i * i * i;
+                double A = Math.PI;
+                double B = 0;
+                double C = 0;
+                CartesianPosition temp = new CartesianPosition(x, y, z, A, B, C);
+                temp.t = i;
+                positions.Add(temp);
+                i += 0.05;
+            }
+            if(MainWindow.mainwindow .NewIKFlag)
+            { 
+            CartesianPositions = positions;
+            MainWindow.mainwindow.CartesianPositionList.ItemsSource = CartesianPositions;
+            }
+            //显示路径点
+            if (NewIKPathPoints != null)
+            {
+                viewPort3d.Children.Remove(NewIKPathPoints);
+                NewIKPathPoints.Points.Clear();
+            }
+            foreach (CartesianPosition position in CartesianPositions)
+            {
+                NewIKPathPoints.Points.Add(new Point3D(position.X, position.Y, position.Z));
+            }
+            viewPort3d.Children.Add(NewIKPathPoints);
+
+            //求出x,y,z的表达式
+            NewIK.FunctionExpressionx = SymbolDerivation.FuncStringProduce(coefficients, 0, order);
+            NewIK.FunctionExpressiony = SymbolDerivation.FuncStringProduce(coefficients, 4, order);
+            NewIK.FunctionExpressionz = SymbolDerivation.FuncStringProduce(coefficients, 8, order);
+            Console.WriteLine("x表达式：" + NewIK.FunctionExpressionx);
+            Console.WriteLine("y表达式：" + NewIK.FunctionExpressiony);
+            Console.WriteLine("z表达式：" + NewIK.FunctionExpressionz);
+
+            double[,] Q3 = NewIK.Q3Product(CartesianPositions);
+            double[,] Q = NewIK.QProduct(CartesianPositions);
+        }
+
+        public void Q6Draw_Click(object sender, RoutedEventArgs e)
+        {
+            double[,] Q3 = NewIK.Q3Product(CartesianPositions);
+            Chart.Q3Draw(Q3, CartesianPositions);
+            double[,] Q = NewIK.QProduct(CartesianPositions);
+            List<double> t = new List<double>();
+            t.Add(0.15);
+            t.Add(0.25);
+            t.Add(0.35);
+            t.Add(0.45);
+            int[] indexs = NewIK.TChanglistToIndex(t, CartesianPositions);
+            Chart.QDraw(Q, indexs, CartesianPositions);
+        }
+
+        public void A6B6Draw_Click(object sender, RoutedEventArgs e)
+        {
+            double[,] A6B6 = NewIK.A6B6Product(CartesianPositions);
+            Chart.A6B6Draw(A6B6, CartesianPositions);
+        }
     }
 }
 
 
 
-        //private void test22()
-        //{
-
-        //    string filePath = "D:\\test.txt"; // 替换为您的文件路径
-        //    var lines = File.ReadAllLines(filePath);
-
-        //    Position temp = new Position(new double[] { 0.02, 0.02, 0.02, 0.02, 0.02, 0.02 }, _arm, Grip2Tool);
-
-
-        //    //PathClass path1 = new PathClass(ArmType.GP7);
-
-        //    int pointnum = lines.Length / 4;
-        //    for (int i = 0, k = count; i < lines.Length; k++, i += 4) // 每个矩阵占用 4 行
-        //    {
-        //        PathClass path1 = new PathClass(_arm);
-
-
-        //        for (int j = 0; j < 3; j++)
-        //        {
-        //            var values = lines[i + j].Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
-        //                            .Select(v => double.Parse(v, CultureInfo.InvariantCulture))
-        //                            .ToArray();
-
-        //            path1.eerot[j * 3] = values[0];
-        //            path1.eerot[j * 3 + 1] = values[1];
-        //            path1.eerot[j * 3 + 2] = values[2];
-
-        //            path1.eetrans[j] = values[3] / 1000;
-        //        }
-
-        //        //if (tool != 0)
-        //        //{
-        //        //    path1.Matrix2T();
-
-
-        //        //    path1.T2Matrix(path1.RT * Tool2Grip);
-        //        //    //矩阵相乘
-        //        //    //path1.T = Matrix.Multiply(path1.T, tool_t);
-
-
-        //        //    //path1.eetrans[0] -= 0.095;
-        //        //    //path1.eetrans[2] -= 0.063;
-        //        //}
-
-
-        //        path1.IK(Tool2Grip);
-
-
-
-        //        PathClass.FindNearest(temp.joints, path1);
-
-        //        temp = new Position(path1.joints, _arm, Grip2Tool);
-        //        if (k >= MaxSize)
-        //        {
-        //            pathss[k - MaxSize] = temp;
-        //        }
-        //        else
-        //        {
-        //            pathss[k] = temp;
-        //        }
-
-
-        //        CountStop++;
-
-        //    }
-        //}
-    
 
 

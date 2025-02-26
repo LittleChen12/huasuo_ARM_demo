@@ -77,7 +77,16 @@
                 <TextBlock Text="单点运动"
                            FontSize="15"
                            Width="280" />
+            </CheckBox>
+            <CheckBox Grid.Column="0"
+                      VerticalAlignment="Top"
+                      HorizontalAlignment="Left"
+                      IsChecked="{Binding NewIKFlag}"
+                      Margin="220,40,0,0">
 
+                <TextBlock Text="NEWIK"
+                           FontSize="15"
+                           Width="280" />
             </CheckBox>
 
             <ContentControl x:Name="contentcon"
@@ -452,11 +461,20 @@
                                x:Name="SphericalPathButton" />
                     <MenuItem  Header="自定义曲线"
                                x:Name="PointToPathButton" />
+                    <MenuItem  Header="三次曲线"
+                               x:Name="ThreePathButton" />
                     <MenuItem Header="清空曲线"
                               x:Name="PathClickButton" />
                 </MenuItem>
+                <MenuItem Header="分析">
                 <MenuItem Header="轨迹对比"
                           x:Name="ChartButton" />
+                <MenuItem Header="角度图"
+                          x:Name="Q6DrawButton" />
+                <MenuItem Header="逆解关键参数图"
+                          x:Name="A6B6DrawButton" />
+                </MenuItem>
+
                 <MenuItem Header="设置">
                     <MenuItem Header="速度设置"
                               x:Name="SpeedSet" />
