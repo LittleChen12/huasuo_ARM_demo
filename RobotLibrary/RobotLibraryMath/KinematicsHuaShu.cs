@@ -268,7 +268,7 @@ namespace RobotLibraryAlgorithm.KinematicsAlgorithm
         public  override CartesianPosition FkAngle(double[] joints,Matrix4x4?Grip2Tool=null)
         {
             KinematicsHuaShu kinematics = new KinematicsHuaShu();
-            basicalgortihm.AngleToRad(joints);
+            joints = basicalgortihm.AngleToRad(joints);
             SolveFK_GP7_T(joints, kinematics.eerot, kinematics.eetrans, Grip2Tool);
             kinematics.ToPose();
             return kinematics.points;
@@ -277,7 +277,7 @@ namespace RobotLibraryAlgorithm.KinematicsAlgorithm
         public override CartesianPosition FkAngle(double[] joints)
         {
             KinematicsHuaShu kinematics = new KinematicsHuaShu();
-            basicalgortihm.AngleToRad(joints);
+            joints= basicalgortihm.AngleToRad(joints);
             Matrix4x4? Grip2Tool = null;
             SolveFK_GP7_T(joints, kinematics.eerot, kinematics.eetrans, Grip2Tool);
             kinematics.ToPose();

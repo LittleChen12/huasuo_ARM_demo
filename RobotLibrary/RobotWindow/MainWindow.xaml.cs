@@ -44,10 +44,6 @@ namespace RobotWindow
             //BoxModel box = new BoxModel();
             //box.BoxModelInit(new Point3D(400,0,500),new double[] { 100, 100, 100 });
             //viewPort3d.Children.Add(box.Boxmodelvisual);
-
-            //frame
-            
-
             mainwindow = this;
         }
         public void RobotInit(string robottype)
@@ -154,7 +150,10 @@ namespace RobotWindow
                 angles[4] = double.Parse(J5.Text);
                 angles[5] = double.Parse(J6.Text);
                 manager.robot.ForwardMove(angles);
-                manager.FKShow(angles);
+                 var p=  manager.FKShow(angles);
+                x_label.Content = (p.Point.X * 1000).ToString("0.00"); 
+                y_label.Content = (p.Point.Y * 1000).ToString("0.00"); 
+                z_label.Content = (p.Point.Z * 1000).ToString("0.00");
             }
             
 

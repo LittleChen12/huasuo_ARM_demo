@@ -10,7 +10,7 @@ namespace Robots
 {
     public class KinematicsFctory
     {
-        public static Kinematics CreateKinematics(string RobotType)
+        public static Kinematics? CreateKinematics(string RobotType)
         {
             switch (RobotType)
             {

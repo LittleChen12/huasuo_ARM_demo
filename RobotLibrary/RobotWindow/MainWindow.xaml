@@ -148,5 +148,32 @@
                  HorizontalAlignment="Left"
                  TextChanged="LiFaceChange"
                  Margin="202,117,0,0" />
+        <Label Content="x"
+               VerticalAlignment="Top"
+               HorizontalAlignment="Left"
+               Margin="10,157,0,0" />
+        <Label Content="y"
+               VerticalAlignment="Top"
+               HorizontalAlignment="Left"
+               Margin="84,157,0,0" />
+        <Label Content="z"
+               VerticalAlignment="Top"
+               HorizontalAlignment="Left"
+               Margin="142,157,0,0" />
+        <Label Content="0"
+               x:Name="x_label"
+               VerticalAlignment="Top"
+               HorizontalAlignment="Left"
+               Margin="30,157,0,0" />
+        <Label Content="0"
+               x:Name="y_label"
+               VerticalAlignment="Top"
+               HorizontalAlignment="Left"
+               Margin="101,157,0,0" />
+        <Label Content="0"
+               x:Name="z_label"
+               VerticalAlignment="Top"
+               HorizontalAlignment="Left"
+               Margin="167,157,0,0" />
     </Grid>
 </Window>

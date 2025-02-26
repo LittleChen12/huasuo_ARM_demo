@@ -31,14 +31,13 @@ namespace Robots
         /// AlgorithmManager algorithmManager 算法管理器
         /// </summary>
         public string RobotType;
-        public Robot robot;
+        public Robot? robot=null;
         public Position RightNowPosition;
         public AlgorithmManager algorithmManager;
         public MovePositionList movepositionlist;
         public CartesianPositionList cartesianpositionlist;
         public RobotManager()
         {
-            
             RightNowPosition = new Position();
             algorithmManager = new AlgorithmManager(RobotType);
             movepositionlist = new MovePositionList();
@@ -53,13 +52,14 @@ namespace Robots
         {
             RobotType = robottype;
             robot = RobotFactory.CreateRobot(RobotType);
-            robot.RobotInit(RobotType);
+            robot.RobotModelInit(RobotType);
             algorithmManager = new AlgorithmManager(RobotType);
             robot.MoveControlInit();
             robot.KinematicsInit();
         }
         public void RobotClear() 
         {
+            if(robot!=null)
             robot.RobotModelClear();
         }
         /// <summary>
@@ -83,18 +83,17 @@ namespace Robots
             tool.ToolTd = new TranslateTransform3D(frame[0], frame[1], frame[2]);
             tool.model3D.Transform = tool.ToolTd;
             //将工具模型添加到机械臂模型中
-            robot.RobotAddTool(tool);
+            robot?.RobotAddTool(tool);
         }
         public void ToolClear()
         {
-            if(robot.tool!=null)
+            if (robot?.tool != null)
             {
-               robot.Joints.RobotModelVisual.Children.Clear();//清除工具模型
-                robot.Joints.RobotModel.Children.Remove(robot.tool.model3D);//机械臂中移除
+                robot.Joints.RobotModelVisual.Children.Clear(); //清除工具模型
+                robot.Joints.RobotModel.Children.Remove(robot.tool.model3D); //机械臂中移除
                 robot.tool = null;
                 robot.Joints.Remove(robot.Joints[robot.Joints.Count - 1]);
             }
-           
         }
 
         //连续运动函数
@@ -105,9 +104,16 @@ namespace Robots
         public CartesianPosition FKShow(double[] angles)
         {
             //CartesianPosition carposition = algorithmManager.kinematicsAlgorithm.FkAngle(angles, algorithmManager.algorithm.ToTrans(tool.CartesianPosition));
-            var p=new Matrix4x4();
-            p.M11 = 1;p.M22 = 1;p.M33 = 1;p.M44 = 1;        
-            CartesianPosition carposition = algorithmManager.kinematicsAlgorithm.FkAngle(angles, p);
+            //var p=new Matrix4x4();
+            //p.M11 = 1;p.M22 = 1;p.M33 = 1;p.M44 = 1;
+            CartesianPosition carposition;
+            if (robot.tool != null)
+             carposition = algorithmManager.kinematicsAlgorithm.FkAngle(angles, robot.tool.GripToTool);
+            else
+             carposition = algorithmManager.kinematicsAlgorithm.FkAngle(angles);
+            RightNowPosition.Pose = carposition;
+            var rad= algorithmManager.algorithm.AngleToRad(angles);
+            RightNowPosition.Joints =new JointPosition(rad);
             return carposition;
         }
 
@@ -209,10 +215,18 @@ namespace Robots
         {
             PointsModel PathPoints=new PointsModel();
             PathPoints.PointsVisual.Size = 3;
-            var Points = algorithmManager.MoveInterPolation.MoveL(RightNowPosition, CartesianPositions.CartesianPositions[0].mmTom(), 0.5, robot.tool.GripToTool);
+            List<Position> Points = new List<Position>();
+            if (robot.tool!=null)
+            Points = algorithmManager.MoveInterPolation.MoveL(RightNowPosition, CartesianPositions.CartesianPositions[0].mmTom(), 0.5, robot.tool.GripToTool);
+            else
+            Points = algorithmManager.MoveInterPolation.MoveL(RightNowPosition, CartesianPositions.CartesianPositions[0].mmTom(), 0.5);
             for (int i = 1; i < CartesianPositions.CartesianPositions.Count; i++)
             {
-                var list = algorithmManager.MoveInterPolation.MoveL(Points[Points.Count - 1], CartesianPositions.CartesianPositions[i].mmTom(), 0.5, robot.tool.GripToTool);
+                List<Position> list = new List<Position>();
+                if (robot.tool != null)
+                     list = algorithmManager.MoveInterPolation.MoveL(Points[Points.Count - 1], CartesianPositions.CartesianPositions[i].mmTom(), 0.5, robot.tool.GripToTool);
+                else
+                     list = algorithmManager.MoveInterPolation.MoveL(Points[Points.Count - 1], CartesianPositions.CartesianPositions[i].mmTom(), 0.5);
                 foreach (var p in list)
                 {
                     Points.Add(p);

@@ -36,7 +36,7 @@ namespace RobotLibrary
         /// //3.jonts参数初始化(已知参数)
         /// </summary>
         /// <param name="RelativeModelsPath"></param>
-        public virtual void RobotInit(string RelativeModelsPath)
+        public virtual void RobotModelInit(string RelativeModelsPath)
         {
             Joints = new JointCollection();
             if(joints.BasePath== "")
@@ -125,12 +125,12 @@ namespace RobotLibrary
         public virtual void JointModel3DStlLoad(string path)
         {
             joints.Add(new Joint());
-            joints[joints.Count - 1].SetJointPath(path);
+            joints[^1].SetJointPath(path);//最后一个元素
             RobotStlLoad load = new RobotStlLoad();
-            joints[joints.Count - 1].model3D= load.ModelSTLload(path);
-            joints[joints.Count - 1].modelvisual3D.Content = joints[joints.Count - 1].model3D;
-            joints.RobotModel.Children.Add(joints[joints.Count - 1].model3D);
-            joints.RobotModelVisual.Children.Add(joints[joints.Count - 1].modelvisual3D);
+            joints[^1].model3D= load.ModelSTLload(path);
+            joints[^1].modelvisual3D.Content = joints[^1].model3D;
+            joints.RobotModel.Children.Add(joints[^1].model3D);
+            joints.RobotModelVisual.Children.Add(joints[^1].modelvisual3D);
         }
 
         /// <summary>
@@ -140,7 +140,6 @@ namespace RobotLibrary
         /// </summary>
         public virtual void RobotModelClear()
         {
-            //viewPort3d.Children.Remove(joints.RobotModelVisual);
             joints.RobotModelVisual.Children.Clear();
             joints.Clear();
         }
@@ -152,10 +151,10 @@ namespace RobotLibrary
         {
             tool=_tool; 
             joints.Add(new Joint());
-            joints[joints.Count - 1].model3D= tool.model3D;
-            joints[joints.Count - 1].modelvisual3D.Content = tool.model3D;
-            joints.RobotModel.Children.Add(joints[joints.Count - 1].model3D);
-            joints.RobotModelVisual.Children.Add(joints[joints.Count - 1].modelvisual3D);
+            joints[^1].model3D= tool.model3D;
+            joints[^1].modelvisual3D.Content = tool.model3D;
+            joints.RobotModel.Children.Add(joints[^1].model3D);
+            joints.RobotModelVisual.Children.Add(joints[^1].modelvisual3D);
         }
 
         /// <summary>
@@ -166,7 +165,7 @@ namespace RobotLibrary
         /// <returns></returns>
         public virtual double[,] RobotSportsParamsTxtRead(string robotJointsParams)
         {
-            string[] content = null;
+            string[]? content = null;
             try
             {
                 content = File.ReadAllLines(robotJointsParams);
@@ -175,13 +174,16 @@ namespace RobotLibrary
             {
                 Console.WriteLine("An error occurred: " + ex.Message);
             }
-            for (int i = 0; i < content.Length; i++)
+            if (content != null)
             {
-                string line = content[i];
-                int[] num = line.Split(' ').Select(int.Parse).ToArray();
-                for (int j = 0; j < 6; j++)
+                for (int i = 0; i < content.Length; i++)
                 {
-                    RobotSportsParams[i, j] = num[j];
+                    string line = content[i];
+                    int[] num = line.Split(' ').Select(int.Parse).ToArray();
+                    for (int j = 0; j < 6; j++)
+                    {
+                        RobotSportsParams[i, j] = num[j];
+                    }
                 }
             }
             return RobotSportsParams;
