@@ -158,7 +158,7 @@ namespace Robot_window
         {
             get; set;
         }
-        const bool IsConnectdSerialPort = false;
+        const bool IsConnectdSerialPort = true;
 
 
         public MainWindow()
@@ -303,6 +303,8 @@ namespace Robot_window
             ThreePathButton.Click+=menuevents.ThreePath_Click;
             Q6DrawButton.Click += menuevents.Q6Draw_Click;
             A6B6DrawButton.Click+=menuevents.A6B6Draw_Click;
+            grep.Click += menuevents.Grep;
+            grep2.Click += menuevents.Grep2;
         }
         public static string GetCurSourceFileName()
 

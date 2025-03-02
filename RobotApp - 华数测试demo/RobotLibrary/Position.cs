@@ -15,6 +15,7 @@ namespace RobotLibrary
     {
         private CartesianPosition pose;
         private JointPosition joints;
+        public int[] ChaoSheng=new int[1025];
 
         public CartesianPosition Pose
         {
