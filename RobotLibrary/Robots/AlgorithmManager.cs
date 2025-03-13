@@ -8,11 +8,17 @@ namespace Robots
 {
     public class AlgorithmManager
     {
+        /// <summary>
+        /// algorithm：基础算法
+        /// MoveInterPolation：插补算法
+        /// Trajectory：轨迹规划算法
+        /// VirtualAxes：虚拟轴算法
+        /// kinematicsAlgorithm：运动学算法
+        /// </summary>
         public RobotLibraryAlgorithm.Algorithm algorithm;
         public RobotLibraryAlgorithm.InterPolation.MoveInterPolation MoveInterPolation;
         public RobotLibraryAlgorithm.InterPolation.TrajectoryPlanning Trajectory;
         public RobotLibraryAlgorithm.VirtualAxis.VirtualAxes VirtualAxes;
-        //和机械臂相关：运动学算法
         public RobotLibraryAlgorithm.KinematicsAlgorithm.Kinematics kinematicsAlgorithm;
         public AlgorithmManager(string RobotType)
         {

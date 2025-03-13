@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Controls;
+using System.Windows.Media;
 
 namespace RobotLibrary
 {
@@ -32,8 +33,9 @@ namespace RobotLibrary
         }
         public Robot_HuaShu() 
         {
+            // 机器人参数 前三个参数是旋转轴xyz, 后三个参数是旋转中心坐标
             RobotSportsParams = new double[6, 6]
-       {
+        {
              {0, 0, 1, 0, 0, 256 },
             {0, 1, 0, 60, 0, 456 },
             {0, 1, 0, 60, 0, 896 },
@@ -41,6 +43,7 @@ namespace RobotLibrary
             {0, 1, 0, 470, 0, 931 },
             {1, 0, 0, 565, 0, 931 }
         };
+            //XYZABC
             RobotLimParams = new double[4, 6]
             {
            {-150,-85,-180,-180,-115,-360 },
@@ -54,9 +57,17 @@ namespace RobotLibrary
         //运动学结果作为参数，做相应的运动  控制上写出父类，子类去继承
         public override void MoveControlInit()
         {
-            
-            //control2183.Connect2183();
-            //serialport.OpenClosePort("COM3", 115200);
+            try
+            {
+                control2183.Connect2183();
+                string[] ports = System.IO.Ports.SerialPort.GetPortNames();
+                serialport.OpenClosePort(ports[0], 115200);
+            }
+            catch
+            { 
+
+            }
+           
         }
         public override void KinematicsInit()
         {

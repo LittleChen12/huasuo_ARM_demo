@@ -13,7 +13,7 @@ namespace RobotLibraryAlgorithm.KinematicsAlgorithm
     {
         public Algorithm basicalgortihm;
         //最优解，path.IK找出最优解，返回最优解的位姿
-        public double[] joints = new double[6]; 
+        public double[] jointsAngle = new double[6];
         public CartesianPosition point;
         public double[,] R = new double[3, 3];
         //定义4*4 位姿矩阵

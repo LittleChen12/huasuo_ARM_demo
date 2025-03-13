@@ -32,6 +32,7 @@ namespace RobotWindow
     {
         public static MainWindow mainwindow;
         public RobotManager manager;
+        public static bool FangZhen = true;
         public MainWindow()
         {
             InitializeComponent();

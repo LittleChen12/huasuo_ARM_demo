@@ -10,8 +10,10 @@ namespace Robots
 {
     public class Robot_Roke:Robot
     {
+        //络石机器人
         public Robot_Roke()
         {
+            // 机器人参数 前三个参数是旋转轴xyz, 后三个参数是旋转中心坐标
             RobotSportsParams = new double[6, 6]
             {{0, 0, 1, 0, 0, 296 },
                {0, 1, 0, 0, 0, 296 },
@@ -19,6 +21,7 @@ namespace Robots
                {0,0 , 1, 0, 0, 296+490+360 },
                {0, -1, 0, 0, -150, 296+490+360 },
                {0, 0, 1, 0, -150, 296+490+360+127 }};
+            //XYZABC
             RobotLimParams = new double[4, 6]
             {
                {-150,-85,-180,-180,-115,-360 },

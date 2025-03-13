@@ -501,10 +501,13 @@
                               SubmenuOpened="OnPortSubmenuOpened" />
 
                 </MenuItem>
-                <MenuItem  Header="开启管道"
-                           x:Name="grep" />
-                <MenuItem  Header="开启管道2"
-                           x:Name="grep2" />
+                <MenuItem  Header="超声同步">
+                    <MenuItem  Header="开启管道"
+                               x:Name="grep" />
+                    <MenuItem  Header="开启管道2"
+                               x:Name="grep2" />
+                </MenuItem>
+                
 
             </Menu>
         </Grid>

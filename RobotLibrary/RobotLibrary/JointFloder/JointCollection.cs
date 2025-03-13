@@ -17,13 +17,13 @@ namespace RobotLibrary
         //robotlimit->用关节限定角度写成正运动学函数获取机械臂xyz--  7.23
         /// <summary>
         /// 变量类型 变量名称 变量解释
-        /// List<Joint> joints 机器人关节集合
+        /// List<Joint> Joints 机器人关节集合
         /// RobotLimit  RobotLimit XYZRotA B C限位
         /// string basepath 机器人关节组模型路径
         /// Model3DGroup RobotModel 机器人关节组模型
         /// ModelVisual3D RobotModelVisual 机器人关节组模型显示
         /// </summary>
-        private List<Joint> joints;
+        private List<Joint> Joints;
         public RobotLimit RobotLimit { get; set; }
         private string basepath;
         public string BasePath
@@ -31,7 +31,7 @@ namespace RobotLibrary
             get { return basepath; }
             set { basepath = value; }
         }
-        public int Count => joints.Count;
+        public int Count => Joints.Count;
         public Model3DGroup RobotModel;
         public ModelVisual3D RobotModelVisual;
         public bool IsReadOnly => throw new NotImplementedException();
@@ -42,7 +42,7 @@ namespace RobotLibrary
         /// </summary>
         public JointCollection()
         {
-            joints = new List<Joint>();
+            Joints = new List<Joint>();
             RobotLimit = new RobotLimit();
             basepath="";
             RobotModel = new Model3DGroup();
@@ -59,19 +59,19 @@ namespace RobotLibrary
         {
             get
             {
-                if (index < 0 || index >= joints.Count)
+                if (index < 0 || index >= Joints.Count)
                 {
                     throw new IndexOutOfRangeException();
                 }
-                return joints[index];
+                return Joints[index];
             }
             set
             {
-                if (index < 0 || index >= joints.Count)
+                if (index < 0 || index >= Joints.Count)
                 {
                     throw new IndexOutOfRangeException();
                 }
-                joints[index] = value;
+                Joints[index] = value;
             }
         }
         /// <summary>
@@ -80,7 +80,7 @@ namespace RobotLibrary
         /// <param name="item"></param>
         public void Add(Joint item)
         {
-            joints?.Add(item);
+            Joints?.Add(item);
 
         }
         /// <summary>
@@ -88,7 +88,7 @@ namespace RobotLibrary
         /// </summary>
         public void Clear()
         {
-            joints?.Clear();
+            Joints?.Clear();
         }
         /// <summary>
         ///判断关节是否包含某关节
@@ -97,17 +97,17 @@ namespace RobotLibrary
         /// <returns></returns>
         public bool Contains(Joint item)
         {
-            return joints.Contains(item);
+            return Joints.Contains(item);
 
         }
         public void CopyTo(Joint[] array, int arrayIndex)
         {
-            joints?.CopyTo(array, arrayIndex);
+            Joints?.CopyTo(array, arrayIndex);
         }
 
         public IEnumerator<JointBase> GetEnumerator()
         {
-            return joints.GetEnumerator();
+            return Joints.GetEnumerator();
         }
         /// <summary>
         /// 移除关节
@@ -116,12 +116,12 @@ namespace RobotLibrary
         /// <returns></returns>
         public bool Remove(Joint item)
         {
-            return joints.Remove(item);
+            return Joints.Remove(item);
         }
 
         IEnumerator IEnumerable.GetEnumerator()
         {
-            return joints.GetEnumerator();
+            return Joints.GetEnumerator();
         }
 
         IEnumerator<Joint> IEnumerable<Joint>.GetEnumerator()

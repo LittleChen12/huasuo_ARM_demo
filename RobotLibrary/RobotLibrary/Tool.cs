@@ -16,7 +16,8 @@ namespace RobotLibrary
         public TranslateTransform3D ToolTd;
         public Matrix4x4 GripToTool ;
 
-        public Tool() { CartesianPosition = new CartesianPosition();
+        public Tool() { 
+            CartesianPosition = new CartesianPosition();
             ToolTd=new TranslateTransform3D();
             GripToTool = new Matrix4x4(
                      1, 0, 0, 0,//

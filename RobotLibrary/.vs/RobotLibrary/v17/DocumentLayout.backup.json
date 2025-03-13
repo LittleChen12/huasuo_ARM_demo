@@ -3,44 +3,28 @@
   "WorkspaceRootPath": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDDD6CA6-0CAA-496C-805C-032528FCFC94}|RobotLibraryMath\\RobotLibraryAlgorithm.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotlibrary\\robotlibrarymath\\kinematicshuashu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDDD6CA6-0CAA-496C-805C-032528FCFC94}|RobotLibraryMath\\RobotLibraryAlgorithm.csproj|solutionrelative:robotlibrarymath\\kinematicshuashu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDDD6CA6-0CAA-496C-805C-032528FCFC94}|RobotLibraryMath\\RobotLibraryAlgorithm.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotlibrary\\robotlibrarymath\\kinematicsfloder\\kinematics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDD6CA6-0CAA-496C-805C-032528FCFC94}|RobotLibraryMath\\RobotLibraryAlgorithm.csproj|solutionrelative:robotlibrarymath\\kinematicsfloder\\kinematics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0581308C-A7C2-49AC-9AF7-730151D5EACD}|RobotWindow\\RobotWindow.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotlibrary\\robotwindow\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0581308C-A7C2-49AC-9AF7-730151D5EACD}|RobotWindow\\RobotWindow.csproj|solutionrelative:robotwindow\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDDD6CA6-0CAA-496C-805C-032528FCFC94}|RobotLibraryMath\\RobotLibraryAlgorithm.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotlibrary\\robotlibrarymath\\moveinterpolation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDD6CA6-0CAA-496C-805C-032528FCFC94}|RobotLibraryMath\\RobotLibraryAlgorithm.csproj|solutionrelative:robotlibrarymath\\moveinterpolation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDDD6CA6-0CAA-496C-805C-032528FCFC94}|RobotLibraryMath\\RobotLibraryAlgorithm.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotlibrary\\robotlibrarymath\\kinematics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDDD6CA6-0CAA-496C-805C-032528FCFC94}|RobotLibraryMath\\RobotLibraryAlgorithm.csproj|solutionrelative:robotlibrarymath\\kinematics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7747584-4EE8-44FA-B3AF-8DC3A530EE43}|Robots\\Robots.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotlibrary\\robots\\robotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7747584-4EE8-44FA-B3AF-8DC3A530EE43}|Robots\\Robots.csproj|solutionrelative:robots\\robotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0581308C-A7C2-49AC-9AF7-730151D5EACD}|RobotWindow\\RobotWindow.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotlibrary\\robotwindow\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0581308C-A7C2-49AC-9AF7-730151D5EACD}|RobotWindow\\RobotWindow.csproj|solutionrelative:robotwindow\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05D8E58F-D8BA-4A76-A8B3-6A87EC1761A5}|RobotLibrary\\RobotLibrary.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotlibrary\\robotlibrary\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05D8E58F-D8BA-4A76-A8B3-6A87EC1761A5}|RobotLibrary\\RobotLibrary.csproj|solutionrelative:robotlibrary\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05D8E58F-D8BA-4A76-A8B3-6A87EC1761A5}|RobotLibrary\\RobotLibrary.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotlibrary\\robotlibrary\\tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05D8E58F-D8BA-4A76-A8B3-6A87EC1761A5}|RobotLibrary\\RobotLibrary.csproj|solutionrelative:robotlibrary\\tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7747584-4EE8-44FA-B3AF-8DC3A530EE43}|Robots\\Robots.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotlibrary\\robots\\kinematicsfctory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7747584-4EE8-44FA-B3AF-8DC3A530EE43}|Robots\\Robots.csproj|solutionrelative:robots\\kinematicsfctory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95E6E4FA-A5A9-40A6-BF89-A3E8D7A25FF8}|xcoresdk_csharp-v0.3.4\\xCoreSDK_CSharp\\xCoreSDK_CSharp.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotlibrary\\xcoresdk_csharp-v0.3.4\\xcoresdk_csharp\\pcb4robotdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E6E4FA-A5A9-40A6-BF89-A3E8D7A25FF8}|xcoresdk_csharp-v0.3.4\\xCoreSDK_CSharp\\xCoreSDK_CSharp.csproj|solutionrelative:xcoresdk_csharp-v0.3.4\\xcoresdk_csharp\\pcb4robotdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7747584-4EE8-44FA-B3AF-8DC3A530EE43}|Robots\\Robots.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotlibrary\\robots\\algorithmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7747584-4EE8-44FA-B3AF-8DC3A530EE43}|Robots\\Robots.csproj|solutionrelative:robots\\algorithmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05D8E58F-D8BA-4A76-A8B3-6A87EC1761A5}|RobotLibrary\\RobotLibrary.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotlibrary\\robotlibrary\\jointcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05D8E58F-D8BA-4A76-A8B3-6A87EC1761A5}|RobotLibrary\\RobotLibrary.csproj|solutionrelative:robotlibrary\\jointcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7747584-4EE8-44FA-B3AF-8DC3A530EE43}|Robots\\Robots.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotlibrary\\robots\\robots.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7747584-4EE8-44FA-B3AF-8DC3A530EE43}|Robots\\Robots.csproj|solutionrelative:robots\\robots.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7747584-4EE8-44FA-B3AF-8DC3A530EE43}|Robots\\Robots.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_arm_demo\\robotlibrary\\robots\\robotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7747584-4EE8-44FA-B3AF-8DC3A530EE43}|Robots\\Robots.csproj|solutionrelative:robots\\robotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -73,136 +57,81 @@
               "Name": "ST:0:0:{a64b6f53-b458-483f-a917-ad44e9f0ee6a}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "KinematicsFctory.cs",
-              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\Robots\\KinematicsFctory.cs",
-              "RelativeDocumentMoniker": "Robots\\KinematicsFctory.cs",
-              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\Robots\\KinematicsFctory.cs",
-              "RelativeToolTip": "Robots\\KinematicsFctory.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Kinematics.cs",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibraryMath\\KinematicsFloder\\Kinematics.cs",
+              "RelativeDocumentMoniker": "RobotLibraryMath\\KinematicsFloder\\Kinematics.cs",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibraryMath\\KinematicsFloder\\Kinematics.cs",
+              "RelativeToolTip": "RobotLibraryMath\\KinematicsFloder\\Kinematics.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T03:09:10.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RobotManager.cs",
-              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\Robots\\RobotManager.cs",
-              "RelativeDocumentMoniker": "Robots\\RobotManager.cs",
-              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\Robots\\RobotManager.cs",
-              "RelativeToolTip": "Robots\\RobotManager.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAcwHAAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T08:55:19.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Robot.cs",
-              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibrary\\Robot.cs",
-              "RelativeDocumentMoniker": "RobotLibrary\\Robot.cs",
-              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibrary\\Robot.cs",
-              "RelativeToolTip": "RobotLibrary\\Robot.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAApwBoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T08:51:38.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Tool.cs",
-              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibrary\\Tool.cs",
-              "RelativeDocumentMoniker": "RobotLibrary\\Tool.cs",
-              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibrary\\Tool.cs",
-              "RelativeToolTip": "RobotLibrary\\Tool.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAIA2wBAAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T09:33:21.305Z",
+              "WhenOpened": "2025-03-13T07:42:41.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotWindow\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "RobotWindow\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotWindow\\MainWindow.xaml.cs",
-              "RelativeToolTip": "RobotWindow\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAIsAAAAAAAAAAAAAAJgAAAARAAAAAAAAAA==",
+              "Title": "MoveInterPolation.cs",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibraryMath\\MoveInterPolation.cs",
+              "RelativeDocumentMoniker": "RobotLibraryMath\\MoveInterPolation.cs",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibraryMath\\MoveInterPolation.cs",
+              "RelativeToolTip": "RobotLibraryMath\\MoveInterPolation.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA0wB4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T09:27:19.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "KinematicsHuaShu.cs",
-              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibraryMath\\KinematicsHuaShu.cs",
-              "RelativeDocumentMoniker": "RobotLibraryMath\\KinematicsHuaShu.cs",
-              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibraryMath\\KinematicsHuaShu.cs*",
-              "RelativeToolTip": "RobotLibraryMath\\KinematicsHuaShu.cs*",
-              "ViewState": "AgIAAAsBAAAAAAAAAAAEwBcBAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T03:09:34.697Z",
+              "WhenOpened": "2025-03-13T07:41:45.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Kinematics.cs",
-              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibraryMath\\Kinematics.cs",
-              "RelativeDocumentMoniker": "RobotLibraryMath\\Kinematics.cs",
-              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibraryMath\\Kinematics.cs",
-              "RelativeToolTip": "RobotLibraryMath\\Kinematics.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAIAwwCgAAAAqAAAAAAAAAA==",
+              "Title": "PCB4RobotDemo.cs",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\xcoresdk_csharp-v0.3.4\\xCoreSDK_CSharp\\PCB4RobotDemo.cs",
+              "RelativeDocumentMoniker": "xcoresdk_csharp-v0.3.4\\xCoreSDK_CSharp\\PCB4RobotDemo.cs",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\xcoresdk_csharp-v0.3.4\\xCoreSDK_CSharp\\PCB4RobotDemo.cs",
+              "RelativeToolTip": "xcoresdk_csharp-v0.3.4\\xCoreSDK_CSharp\\PCB4RobotDemo.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAA+wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T03:09:51.559Z",
+              "WhenOpened": "2025-03-13T07:40:27.841Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotWindow\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "RobotWindow\\MainWindow.xaml",
-              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotWindow\\MainWindow.xaml",
-              "RelativeToolTip": "RobotWindow\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-26T03:28:01.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "AlgorithmManager.cs",
               "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\Robots\\AlgorithmManager.cs",
               "RelativeDocumentMoniker": "Robots\\AlgorithmManager.cs",
               "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\Robots\\AlgorithmManager.cs",
               "RelativeToolTip": "Robots\\AlgorithmManager.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T03:09:41.589Z",
+              "WhenOpened": "2025-03-13T07:39:53.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "JointCollection.cs",
-              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibrary\\JointCollection.cs",
-              "RelativeDocumentMoniker": "RobotLibrary\\JointCollection.cs",
-              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\RobotLibrary\\JointCollection.cs",
-              "RelativeToolTip": "RobotLibrary\\JointCollection.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAApwA4AAAARAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Robots",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\Robots\\Robots.csproj",
+              "RelativeDocumentMoniker": "Robots\\Robots.csproj",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\Robots\\Robots.csproj",
+              "RelativeToolTip": "Robots\\Robots.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T07:39:51.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RobotManager.cs",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\Robots\\RobotManager.cs",
+              "RelativeDocumentMoniker": "Robots\\RobotManager.cs",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u4ED3\u5E93\\huasuo_ARM_demo\\RobotLibrary\\Robots\\RobotManager.cs",
+              "RelativeToolTip": "Robots\\RobotManager.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAQwHAAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T03:28:06.129Z",
+              "WhenOpened": "2025-03-13T07:36:31.057Z",
               "EditorCaption": ""
             }
           ]

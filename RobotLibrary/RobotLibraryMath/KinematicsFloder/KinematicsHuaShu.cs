@@ -144,7 +144,6 @@ namespace RobotLibraryAlgorithm.KinematicsAlgorithm
             points.Rx = Rxyz[0];
             points.Ry = Rxyz[1];
             points.Rz = Rxyz[2];
-
         }
 
 
@@ -167,9 +166,10 @@ namespace RobotLibraryAlgorithm.KinematicsAlgorithm
             ToRotTrans();
         }
 
-        
+
 
         //输入Tool_T 为 Grip2Tool 即以末端坐标系为基描述手坐标系
+        //joints是关节角度：°
         private static void SolveFK_GP7_T(double[] joints, double[] eerot, double[] eetrans, Matrix4x4? Grip2Tool = null)
         {
 
@@ -239,9 +239,6 @@ namespace RobotLibraryAlgorithm.KinematicsAlgorithm
                 Console.WriteLine("逆解报错：" + e.Message);
                 return false;
             }
-
-
-
         }
 
         private void FK(Matrix4x4? Grip2Tool = null)
@@ -249,13 +246,19 @@ namespace RobotLibraryAlgorithm.KinematicsAlgorithm
             SolveFK_GP7_T(joints, eerot, eetrans, Grip2Tool);
             ToPose();
         }
-
+        public override CartesianPosition FkRad(double[] rad)
+        {
+            KinematicsHuaShu kinematics = new KinematicsHuaShu();
+            SolveFK_GP7_T(rad, kinematics.eerot, kinematics.eetrans);
+            kinematics.ToPose();
+            return kinematics.points;
+        }
         // 类外正解
-        public  CartesianPosition FkRad(double[] joints, Matrix4x4? Grip2Tool = null)
+        public  CartesianPosition FkRad(double[] rad, Matrix4x4? Grip2Tool = null)
         {
 
             KinematicsHuaShu kinematics = new KinematicsHuaShu();
-            SolveFK_GP7_T(joints, kinematics.eerot, kinematics.eetrans, Grip2Tool);
+            SolveFK_GP7_T(rad, kinematics.eerot, kinematics.eetrans, Grip2Tool);
              kinematics.ToPose();
             return kinematics.points;
         }
@@ -459,15 +462,7 @@ namespace RobotLibraryAlgorithm.KinematicsAlgorithm
             throw new NotImplementedException();
         }
 
-        //public override CartesianPosition FkAngle(double[] angle)
-        //{
-        //    throw new NotImplementedException();
-        //}
-
-        public override CartesianPosition FkRad(double[] rad)
-        {
-            throw new NotImplementedException();
-        }
+       
 
         public override Position Ik(CartesianPosition position)
         {

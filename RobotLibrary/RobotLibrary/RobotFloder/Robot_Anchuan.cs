@@ -20,6 +20,7 @@ namespace RobotLibrary
             {-1,0 , 0, 94, 0, 808 },
             {0, -1, 0, 480, 0, 808 },
             {-1, 0, 0, 480+80, 0, 808 }};
+            //XYZABC
             RobotLimParams = new double[4, 6]
            {
                {-150,-85,-180,-180,-115,-360 },

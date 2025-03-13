@@ -33,13 +33,13 @@ namespace Robots
         public string RobotType;
         public Robot? robot=null;
         public Position RightNowPosition;
-        public AlgorithmManager algorithmManager;
+        public AlgorithmManager? algorithmManager=null;
         public MovePositionList movepositionlist;
         public CartesianPositionList cartesianpositionlist;
         public RobotManager()
         {
+            RobotType = "HuaShu";
             RightNowPosition = new Position();
-            algorithmManager = new AlgorithmManager(RobotType);
             movepositionlist = new MovePositionList();
             cartesianpositionlist = new CartesianPositionList();
         }
@@ -65,7 +65,6 @@ namespace Robots
         /// <summary>
         /// 初始化工具
         /// 设置工具路径，加载工具模型，设置工具转换坐标系
-        /// 
         /// </summary>
         /// <param name="ToolPath"></param>
         public void ToolInit(string ToolPath)
@@ -74,6 +73,7 @@ namespace Robots
             //加载模型
             tool.SetJointPath(ToolPath);
             var load=new RobotStlLoad();
+            if(tool.jointpath!=null)
             tool.model3D=load.ModelSTLload(tool.jointpath);
             tool.modelvisual3D.Content=tool.model3D;
             //模型默认安放在机械臂末端
@@ -107,7 +107,7 @@ namespace Robots
             //var p=new Matrix4x4();
             //p.M11 = 1;p.M22 = 1;p.M33 = 1;p.M44 = 1;
             CartesianPosition carposition;
-            if (robot.tool != null)
+            if (robot?.tool != null)
              carposition = algorithmManager.kinematicsAlgorithm.FkAngle(angles, robot.tool.GripToTool);
             else
              carposition = algorithmManager.kinematicsAlgorithm.FkAngle(angles);
@@ -238,29 +238,5 @@ namespace Robots
             }
             return PathPoints;
         }
-
-
-        //public double[,] ConvertToRobotMatrix()
-        //{
-        //    double[,] robotparams = new double[joints.Count, 6];
-        //    for (int i = 0; i < joints.Count; i++)
-        //    {
-        //        robotparams[i, 0] = joints[i].Axis.X;
-        //        robotparams[i, 1] = joints[i].Axis.Y;
-        //        robotparams[i, 2] = joints[i].Axis.Z;
-        //        robotparams[i, 3] = joints[i].Center.X;
-        //        robotparams[i, 4] = joints[i].Center.Y;
-        //        robotparams[i, 5] = joints[i].Center.Z;
-        //    }
-        //    return robotparams;
-        //}
-        //public double[,] ConvertToRobotLimitMartix()
-        //{
-        //    double[,] limitmartix = new double[4, joints.Count];
-
-        //    return limitmartix;
-        //}
-
-
-    }
+     }
 }

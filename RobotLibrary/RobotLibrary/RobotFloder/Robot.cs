@@ -5,6 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media.Media3D;
 
@@ -26,9 +27,9 @@ namespace RobotLibrary
         }
         public Tool? tool =null;
         //用于界面模型的运动
-        public double[,] RobotSportsParams = new double[6, 6];
+        public double[,] RobotSportsParams = new double[6,6];
         //机器人软件限制参数
-        public double[,] RobotLimParams = new double[4, 6];
+        public double[,] RobotLimParams = new double[4,6];
         /// <summary>
         /// 机器人初始化
         /// //1.设置模型相对路径
@@ -109,12 +110,20 @@ namespace RobotLibrary
         private  void JointsModel3DSTLLoad()
         {
             RobotStlLoad load = new RobotStlLoad();
-            Joints.RobotModel = load.JointsStlLoad(Joints.BasePath);
-            for (int i=0;i< joints.Count; i++)
+            try
             {
-                joints[i].model3D = joints.RobotModel.Children[i];
+                Joints.RobotModel = load.JointsStlLoad(Joints.BasePath);
+                for (int i = 0; i < joints.Count; i++)
+                {
+                    joints[i].model3D = joints.RobotModel.Children[i];
+                }
+                joints.RobotModelVisual.Content = Joints.RobotModel;
             }
-            joints.RobotModelVisual.Content = Joints.RobotModel;
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+                Console.WriteLine("Model3D STL Load Error: " + ex.Message);
+            }
         }
         /// <summary>
         /// 
@@ -133,16 +142,7 @@ namespace RobotLibrary
             joints.RobotModelVisual.Children.Add(joints[^1].modelvisual3D);
         }
 
-        /// <summary>
-        /// 机器人模型清除
-        /// 清空Joints里的所有关节
-        /// 清空机械臂的RobotModelVisual
-        /// </summary>
-        public virtual void RobotModelClear()
-        {
-            joints.RobotModelVisual.Children.Clear();
-            joints.Clear();
-        }
+        
         /// <summary>
         /// 添加工具到机械臂
         /// </summary>
@@ -158,17 +158,28 @@ namespace RobotLibrary
         }
 
         /// <summary>
+        /// 机器人模型清除
+        /// 清空Joints里的所有关节
+        /// 清空机械臂的RobotModelVisual
+        /// </summary>
+        public virtual void RobotModelClear()
+        {
+            joints.RobotModelVisual.Children.Clear();
+            joints.Clear();
+        }
+
+        /// <summary>
         /// 读取新机器人运动参数（txt）
         /// 加载到参数数组RobotSportsParams
         /// </summary>
-        /// <param name="robotJointsParams"></param>
+        /// <param name="RobotJointsParamstxt"></param>
         /// <returns></returns>
-        public virtual double[,] RobotSportsParamsTxtRead(string robotJointsParams)
+        public virtual double[,] RobotSportsParamsTxtRead(string RobotJointsParamstxt)
         {
             string[]? content = null;
             try
             {
-                content = File.ReadAllLines(robotJointsParams);
+                content = File.ReadAllLines(RobotJointsParamstxt);
             }
             catch (Exception ex)
             {

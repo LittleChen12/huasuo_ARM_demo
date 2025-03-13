@@ -96,12 +96,12 @@ namespace Robot_window.UI_Page
             CartesianPosition t  =   CartesianPosition.TransToPose(Tac);
             oldx=X.JointValue; oldy=Y.JointValue; oldz=Z.JointValue;
             oldrx = A.JointValue; oldry = B.JointValue;oldrz = C.JointValue;
-            Console.WriteLine("x:"+t.X*1000);
-            Console.WriteLine("y:"+t.Y*1000);
-            Console.WriteLine("z:"+t.Z*1000);
-            Console.WriteLine("rx:"+t.RX/Math.PI*180);
-            Console.WriteLine("ry:"+t.RY/Math.PI*180);
-            Console.WriteLine("rz:"+t.RZ / Math.PI * 180);
+            //Console.WriteLine("x:"+t.X*1000);
+            //Console.WriteLine("y:"+t.Y*1000);
+            //Console.WriteLine("z:"+t.Z*1000);
+            //Console.WriteLine("rx:"+t.RX/Math.PI*180);
+            //Console.WriteLine("ry:"+t.RY/Math.PI*180);
+            //Console.WriteLine("rz:"+t.RZ / Math.PI * 180);
             PathClass path = new PathClass(t);
             path.IK(MainWindow.mainwindow.RightNowPosition.Joints, MainWindow.mainwindow.GripToTool);
             if (path.Num == 0)
