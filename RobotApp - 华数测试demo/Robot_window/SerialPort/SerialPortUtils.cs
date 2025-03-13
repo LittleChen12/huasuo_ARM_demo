@@ -8,7 +8,7 @@ using System.Diagnostics;
 using System.Threading;
 using System.Windows;
 
-namespace PA.src
+namespace Robot_window
 {
     internal class SerialPortUtils
     {
@@ -78,36 +78,36 @@ namespace PA.src
         {
             char[] receive_char = new char[9];
             string data;
-            
+
             while (true)
             {
                 try
                 {
-                     data = SerialPort.ReadLine();
+                    data = SerialPort.ReadLine();
                 }
                 catch (Exception ex)
                 {
                     break;
                 }
                 if (data.Length == 9)
-                  {
+                {
                     receive_char = data.ToArray();
                     if (receive_char[0] == 'a')
-                     {
-                         
-                        angle[0] = (Int16)((Int16)(receive_char[1] << 8) + (Int16)receive_char[2]);  //Pitch
-                        angle[1] = (Int16)((Int16)(receive_char[4] << 8) + (Int16)receive_char[5]);  //Roll
-                        angle[2] = (Int16)((Int16)(receive_char[7] << 8) + (Int16)receive_char[8]);  // Yaw 
-                         //myGLView.X = (int)angle[0];   
-                         //myGLView.Y = (int)angle[1];
-                         //myGLView.Z = (int)angle[2];
-                         //SetText(angle[0].ToString(), angle[1].ToString(), angle[2].ToString());  
-                     }
-                 }
+                    {
+
+                        angle[0] = (short)((short)(receive_char[1] << 8) + (short)receive_char[2]);  //Pitch
+                        angle[1] = (short)((short)(receive_char[4] << 8) + (short)receive_char[5]);  //Roll
+                        angle[2] = (short)((short)(receive_char[7] << 8) + (short)receive_char[8]);  // Yaw 
+                                                                                                     //myGLView.X = (int)angle[0];   
+                                                                                                     //myGLView.Y = (int)angle[1];
+                                                                                                     //myGLView.Z = (int)angle[2];
+                                                                                                     //SetText(angle[0].ToString(), angle[1].ToString(), angle[2].ToString());  
+                    }
+                }
             }
         }
 
-        public  SerialPort OpenClosePort(string comName, int baud)
+        public SerialPort OpenClosePort(string comName, int baud)
         {
             //串口未打开
             if (SerialPort == null || !SerialPort.IsOpen)
@@ -128,7 +128,7 @@ namespace PA.src
 
                 //串口数据接收事件实现
                 SerialPort.DataReceived += new SerialDataReceivedEventHandler(ReceiveData);
-                
+
 
                 return SerialPort;
             }
@@ -148,8 +148,8 @@ namespace PA.src
         {
             new Thread(() =>
             {
-              PollDevice(single);
-              Thread.Sleep(PollingInterval);
+                PollDevice(single);
+                Thread.Sleep(PollingInterval);
             }).Start();
         }
 
@@ -157,15 +157,15 @@ namespace PA.src
         {
             if (currentDeviceIndex >= DeviceAddresses.Count)
                 currentDeviceIndex = 0; // 如果需要循环轮询，重置索引         
-           int address = DeviceAddresses[currentDeviceIndex];
-            byte[] requestData = CreateRequest(address,single); // 创建请求数据，这里只是一个示例方法，需要您实现  
+            int address = DeviceAddresses[currentDeviceIndex];
+            byte[] requestData = CreateRequest(address, single); // 创建请求数据，这里只是一个示例方法，需要您实现  
             SendData(requestData); // 发送请求到设备  
             currentDeviceIndex++; // 移动到下一个设备  
         }
 
-        private byte[] CreateRequest(int address,bool single)
+        private byte[] CreateRequest(int address, bool single)
         {
-            byte[] command=new byte[8];
+            byte[] command = new byte[8];
             command[0] = (byte)address;
             command[1] = 0x03;
             command[2] = 0x20;
@@ -178,7 +178,7 @@ namespace PA.src
             ushort crc = CalculateCRC(command, 6); // 计算CRC校验
             command[6] = (byte)(crc & 0xFF); // CRC低字节
             command[7] = (byte)(crc >> 8); // CRC高字节
-            
+
             return command;
         }
         private static ushort CalculateCRC(byte[] data, int length)
@@ -187,7 +187,7 @@ namespace PA.src
             ushort crc = 0xFFFF;
             for (int i = 0; i < length; i++)
             {
-                crc ^= (ushort)data[i];
+                crc ^= data[i];
                 for (int j = 0; j < 8; j++)
                 {
                     if ((crc & 1) != 0)
@@ -206,10 +206,10 @@ namespace PA.src
 
 
 
-        
+
 
         // 接收返回的数据
-        public  void ReceiveData(object sender, SerialDataReceivedEventArgs e)
+        public void ReceiveData(object sender, SerialDataReceivedEventArgs e)
         {
             SerialPort _SerialPort = (SerialPort)sender;
             string sss;
@@ -223,7 +223,7 @@ namespace PA.src
                 byte[] reversedBytes = new byte[] { recvData[6], recvData[5], recvData[4], recvData[3] };
                 // 将调整后的字节数组转换为32位有符号整数
                 uint result = BitConverter.ToUInt32(reversedBytes, 0);
-                double angle = (double)result / (Math.Pow(2, 17)) * 360;
+                double angle = result / Math.Pow(2, 17) * 360;
                 Angle = angle;
                 //Console.WriteLine("joint" + recvData[0]);
                 //Console.WriteLine(angle);

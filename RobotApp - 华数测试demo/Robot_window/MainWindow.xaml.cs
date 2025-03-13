@@ -2,9 +2,10 @@
 using HelixToolkit.Wpf;
 using Microsoft.VisualBasic;
 using Microsoft.Win32;
-using PA.src;
+//using PA.src;
 using Robot_window.Control2183;
 using Robot_window.MenuEvents;
+
 using Robot_window.UI_Page;
 using Robot_window.ViewModels;
 using RobotLibrary;
@@ -84,6 +85,7 @@ namespace Robot_window
     //窗口控制界面
     public partial class MainWindow : Window
     {
+        private PortViewModel _viewModel = new PortViewModel();
         public static MainWindow mainwindow;
         public ModelVisual3D visual = new ModelVisual3D();
         public Model3DGroup RobotModel;
@@ -158,7 +160,7 @@ namespace Robot_window
         {
             get; set;
         }
-        const bool IsConnectdSerialPort = true;
+        const bool IsConnectdSerialPort = false;
 
 
         public MainWindow()
@@ -190,7 +192,7 @@ namespace Robot_window
         private void InitRobot()
         {
             RobotParams robotParams = new RobotParams();
-            robotParams.LinkBasePath = GetCurSourceFileName() + "\\3D_Models";
+            robotParams.LinkBasePath = GetCurSourceFileName() + "\\3D_Models\\HuaShu";
             RobotLoad load = new RobotLoad();
             RobotModel = load.StlLoad(robotParams.LinkBasePath);
 
@@ -320,7 +322,12 @@ namespace Robot_window
 
         private void InitCom()
         {
-            menuevents.serialPortUtils.OpenClosePort("COM6", 115200);
+            string[] ports;
+            if(menuevents.ports.Length>=0)
+                ports=menuevents.ports;
+            else
+                ports = SerialPort.GetPortNames();
+            menuevents.serialPortUtils.OpenClosePort(ports[0], 115200);
         }
         /*@name     InitCoder
         * @brief   上电获取各个关节角度编码器初始值
@@ -1412,6 +1419,10 @@ namespace Robot_window
             viewPort3d.Children.Add(sphere);
             viewPort3d.Children.Add(coordinateSystem);
         }
-      
+
+        private void OnPortSubmenuOpened(object sender, RoutedEventArgs e)
+        {
+            _viewModel.RefreshPorts();
+        }
     }
 }

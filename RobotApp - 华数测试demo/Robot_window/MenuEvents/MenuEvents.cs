@@ -9,7 +9,6 @@ using RobotLibrary;
 using System.Windows.Media.Media3D;
 using HelixToolkit.Wpf;
 using System.Windows.Media;
-using PA.src;
 using System.Threading;
 using Microsoft.Win32;
 using System.Windows.Input;
@@ -76,6 +75,7 @@ namespace Robot_window.MenuEvents
         public Vector3D planeNormal = new Vector3D();
         public int order = 3;//曲线拟合多项式阶数
         public double[] coefficients;
+        public string[] ports;
 
         public MenuEvents()
         {
@@ -769,7 +769,7 @@ namespace Robot_window.MenuEvents
 
         public void SearchCom(object sender, RoutedEventArgs e)
         {
-            string[] ports = System.IO.Ports.SerialPort.GetPortNames();
+             ports = System.IO.Ports.SerialPort.GetPortNames();
         }
 
         public void KeyDownSpace(object sender, KeyEventArgs e)

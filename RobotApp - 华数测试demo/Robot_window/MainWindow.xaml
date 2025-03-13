@@ -6,7 +6,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:RCL="clr-namespace:RobotControlLibrary;assembly=RobotControlLibrary"
         xmlns:local="clr-namespace:Robot_window"
-        d:DataContext="{d:DesignInstance Type=local:MainWindow}"
+       
+        d:DataContext="{d:DesignInstance Type=local:PortViewModel}"
         mc:Ignorable="d"
         Title="MainWindow"
         Height="700"
@@ -493,8 +494,13 @@
                 </MenuItem >
                 <MenuItem  Header="清空"
                            x:Name="worldclear" />
-                <MenuItem  Header="com口查询"
-                           x:Name="comsearch" />
+                <MenuItem  Header="端口查询"
+                           x:Name="comsearch">
+                    <MenuItem Header="选择端口"
+                              ItemsSource="{Binding AvailablePorts}"
+                              SubmenuOpened="OnPortSubmenuOpened" />
+
+                </MenuItem>
                 <MenuItem  Header="开启管道"
                            x:Name="grep" />
                 <MenuItem  Header="开启管道2"
