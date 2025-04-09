@@ -16,5 +16,5 @@ D:\研究生0\机器人\仓库\huasuo_ARM_demo\RobotApp - 华数测试demo\Robot
 225-477703356
 MainWindow.xaml;StyleResources\MenuStyle.xaml;StyleResources\RobotMoveContorlResource.xaml;UI_Page\CartesianMovePage.xaml;UI_Page\FaLanMovepage.xaml;UI_Page\JointMovePage.xaml;ViewModels\Chart.xaml;ViewModels\GridPath.xaml;ViewModels\LinePathWindow.xaml;ViewModels\PointToPathWindow.xaml;ViewModels\RectAngleWindow.xaml;ViewModels\RotundityPathWindow.xaml;ViewModels\SpeedSetWindow.xaml;ViewModels\SphericalPathWindow.xaml;
 
-True
+False
 

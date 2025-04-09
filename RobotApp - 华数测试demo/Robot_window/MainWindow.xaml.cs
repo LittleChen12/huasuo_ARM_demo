@@ -160,7 +160,7 @@ namespace Robot_window
         {
             get; set;
         }
-        const bool IsConnectdSerialPort = false;
+        const bool IsConnectdSerialPort = true;
 
 
         public MainWindow()
@@ -323,7 +323,7 @@ namespace Robot_window
         private void InitCom()
         {
             string[] ports;
-            if(menuevents.ports.Length>=0)
+            if(menuevents.ports!=null&&menuevents.ports.Length>=0)
                 ports=menuevents.ports;
             else
                 ports = SerialPort.GetPortNames();
@@ -653,6 +653,7 @@ namespace Robot_window
                         }
                     
                  }
+                
                 menuevents.ListBoxLidex = listBox.SelectedIndex;
                 // if (menuevents.CpTotalCount != menuevents.CartesianPositions.Count)
                 timer.Start();
