@@ -20,6 +20,16 @@
     <Folder Include="PositionSave\" />
     <Folder Include="RobotModels\NewRobot\" />
     <Folder Include="ToolModels\" />
+    <Folder Include="Constants\" />
+    <Folder Include="Converters\" />
+    <Folder Include="Enums\" />
+    <Folder Include="Extentions\" />
+    <Folder Include="Models\" />
+    <Folder Include="Services\" />
+    <Folder Include="Template\" />
+    <Folder Include="Tools\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="Views\" />
   </ItemGroup>
 
 </Project>

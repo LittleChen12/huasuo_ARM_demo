@@ -5,175 +5,192 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RobotWindow"
+        d:DataContext="{d:DesignInstance Type=local:MainWindow}"
         mc:Ignorable="d"
         Title="MainWindow"
         Height="700"
         Width="1400">
     <Grid>
-        <Menu Height="50" Width="50" HorizontalAlignment="Left">
-            <MenuItem   Header="文件">
-                <MenuItem Header="AnChuan"
-                          x:Name="AnChuan" />
-                <MenuItem Header="HuaShu"
-                          x:Name="HuaShu" />
-                <MenuItem Header="Roke"
-                          x:Name="Roke" />
-            </MenuItem >
-            <MenuItem   Header="工具文件"  Name="toolmenu"/>
-            <MenuItem   Header="清除工具"
-                        Name="toolclear" />
-        </Menu>
-        <Label Content="X"
-               VerticalAlignment="Top"
-               HorizontalAlignment="Left" />
-        <TextBox x:Name="x"
-                 Height="30"
-                 Margin="20,0,0,0"
-                 Width="43"
-                 VerticalAlignment="Top"
-                 HorizontalAlignment="Left"
-                 TextChanged="textChanged"
-                 Text="0" />
-        <Label Content="Y"
-               VerticalAlignment="Top"
-               HorizontalAlignment="Left"
-               
-               Margin="74,1,0,0" />
-        <TextBox x:Name="Y"
-                 Height="30"
-                 Margin="92,0,0,0"
-                 Width="57"
-                 VerticalAlignment="Top"
-                 TextChanged="textChanged"
-                 HorizontalAlignment="Left"
-                 Text="0" />
-        <Label Content="Z"
-               VerticalAlignment="Top"
-               HorizontalAlignment="Left"
-               Margin="160,1,0,0" />
-        <TextBox x:Name="Z"
-                 Height="30"
-                 Margin="181,0,0,0"
-                 Width="76"
-                 VerticalAlignment="Top"
-                 TextChanged="textChanged"
-                 HorizontalAlignment="Left"
-                 Text="0" />
-        <Label Content="J1"
-               VerticalAlignment="Top"
-               HorizontalAlignment="Left"
-               Margin="10,40,0,0" />
-        <TextBox Height="30"
-                 x:Name="LeftUp"
-                 Text="0"
-                 Width="40"  VerticalAlignment="Top" 
-                 HorizontalAlignment="Left"
-                 TextChanged="LiFaceChange"
-                 Margin="60,40,0,0"/>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
         
-        <Label Content="J3"
-               VerticalAlignment="Top"
-               HorizontalAlignment="Left"
-               Margin="10,80,0,0" />
-        <TextBox Height="30"
-                 Width="40"
-                 Text="0"
-                 x:Name="LeftBotm"
-                 VerticalAlignment="Top"
-                 HorizontalAlignment="Left"
-                 Margin="82,80,0,0"
-                 TextChanged="LiFaceChange" />
-        <Label Content="J2"
-               VerticalAlignment="Top"
-               HorizontalAlignment="Left"
-               Margin="130,40,0,0" />
-        <TextBox Height="30"
-                 Width="40"
-                 x:Name="RightUp"
-                 Text="0"
-                 VerticalAlignment="Top"
-                 TextChanged="LiFaceChange"
-                 HorizontalAlignment="Left"
-                 Margin="202,40,0,0" />
-        <Label Content="J4"
-               VerticalAlignment="Top"
-               HorizontalAlignment="Left"
-               Margin="130,80,0,0" />
-        <TextBox Height="30"
-                 Width="40"
-                 Text="0"
-                 x:Name="Rightbotm"
-                 VerticalAlignment="Top"
-                 HorizontalAlignment="Left"
-                 TextChanged="LiFaceChange"
-                 Margin="202,80,0,0" />
-
-        <helix:HelixViewport3D x:Name="viewPort3d"
-                               HorizontalAlignment="Center"
-                               ZoomExtentsWhenLoaded="True"
-                               BorderBrush="Gray"
-                               BorderThickness="3"
-                               ShowCoordinateSystem="True"
-                               Width="554"
-                               Margin="0,2,0,-2">
-            <helix:GridLinesVisual3D Width="1500"
-                                     Length="1500"
-                                     Thickness="0.5"
-                                     MinorDistance="6"
-                                     MajorDistance="7"
-                                     Fill="#FF34998F" />
-            <helix:DefaultLights />
-        </helix:HelixViewport3D>
-        <Label Content="J5"
-               VerticalAlignment="Top"
-               HorizontalAlignment="Left"
-               Margin="10,116,0,0" />
-        <Label Content="J6"
-               VerticalAlignment="Top"
-               HorizontalAlignment="Left"
-               Margin="130,117,0,0" />
-        <TextBox Height="30"
-                 Width="40"
-                 Text="0"
-                 x:Name="J5"
-                 VerticalAlignment="Top"
-                 HorizontalAlignment="Left"
-                 Margin="82,117,0,0"
-                 TextChanged="LiFaceChange" />
-        <TextBox Height="30"
-                 Width="40"
-                 Text="0"
-                 x:Name="J6"
-                 VerticalAlignment="Top"
-                 HorizontalAlignment="Left"
-                 TextChanged="LiFaceChange"
-                 Margin="202,117,0,0" />
-        <Label Content="x"
-               VerticalAlignment="Top"
-               HorizontalAlignment="Left"
-               Margin="10,157,0,0" />
-        <Label Content="y"
-               VerticalAlignment="Top"
-               HorizontalAlignment="Left"
-               Margin="84,157,0,0" />
-        <Label Content="z"
-               VerticalAlignment="Top"
-               HorizontalAlignment="Left"
-               Margin="142,157,0,0" />
-        <Label Content="0"
-               x:Name="x_label"
-               VerticalAlignment="Top"
-               HorizontalAlignment="Left"
-               Margin="30,157,0,0" />
-        <Label Content="0"
-               x:Name="y_label"
-               VerticalAlignment="Top"
-               HorizontalAlignment="Left"
-               Margin="101,157,0,0" />
-        <Label Content="0"
-               x:Name="z_label"
-               VerticalAlignment="Top"
-               HorizontalAlignment="Left"
-               Margin="167,157,0,0" />
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Menu Grid.Column="0"
+                  FontSize="20">
+                <MenuItem  x:Name="Files"
+                           Header="文件">
+                </MenuItem>
+            </Menu>
+        </Grid>
+        
+        
+        <Grid Margin="0,1,0,-1"
+              Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                </Grid.RowDefinitions>
+                <GroupBox Grid.Row="0"
+                          Header="显示">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <Label Grid.Row="0"
+                               Grid.Column="0"
+                               Content="X(mm)"
+                               HorizontalAlignment="Left" />
+                        <Label x:Name="x"
+                               Grid.Row="0"
+                               Grid.Column="1"
+                               Content="0.00"
+                               VerticalAlignment="Center"
+                               HorizontalAlignment="Center" />
+                        <Label Grid.Row="0"
+                               Grid.Column="2"
+                               Content="Y(mm)"
+                               VerticalAlignment="Center"
+                               HorizontalAlignment="Left" />
+                        <Label x:Name="y"
+                               Grid.Row="0"
+                               Grid.Column="3"
+                               Content="0.00"
+                               VerticalAlignment="Top"
+                               HorizontalAlignment="Right" />
+                        <Label Grid.Row="0"
+                               Grid.Column="4"
+                               Content="Z(mm)"
+                               VerticalAlignment="Center"
+                               HorizontalAlignment="Left" />
+                        <Label x:Name="z"
+                               Grid.Row="0"
+                               Grid.Column="5"
+                               Content="0.00"
+                               VerticalAlignment="Top"
+                               HorizontalAlignment="Right" />
+                        <Label Grid.Row="1"
+                               Grid.Column="0"
+                               Content="Rx(rad)"
+                               HorizontalAlignment="Right" />
+                        <Label x:Name="A"
+                               Grid.Row="1"
+                               Grid.Column="1"
+                               Content="0.00"
+                               HorizontalAlignment="Left" />
+                        <Label Grid.Row="1"
+                               Grid.Column="2"
+                               Content="Ry(rad)"
+                               HorizontalAlignment="Right" />
+                        <Label x:Name="B"
+                               Grid.Row="1"
+                               Grid.Column="3"
+                               Content="0.00"
+                               VerticalAlignment="Top"
+                               HorizontalAlignment="Left" />
+                        <Label Grid.Row="1"
+                               Grid.Column="4"
+                               Content="Rz(rad)"
+                               VerticalAlignment="Top"
+                               HorizontalAlignment="Right" />
+                        <Label x:Name="c"
+                               Grid.Row="1"
+                               Grid.Column="5"
+                               Content="0.00"
+                               VerticalAlignment="Top"
+                               HorizontalAlignment="Left" />
+                        <Label Grid.Row="2"
+                               Grid.Column="0"
+                               Content="J1(°)"
+                               VerticalAlignment="Top"
+                               HorizontalAlignment="Right" />
+                        <Label 
+                               Grid.Row="2"
+                               Grid.Column="1"
+                               Content="0.00"
+                               HorizontalAlignment="Left" />
+                        <Label Grid.Row="2"
+                               Grid.Column="2"
+                               Content="J2(°)"
+                               VerticalAlignment="Top"
+                               HorizontalAlignment="Right" />
+                        <Label Grid.Row="2"
+                               Grid.Column="3"
+                               Content="0.00"
+                               HorizontalAlignment="Left" />
+                        <Label Grid.Row="2"
+                               Grid.Column="4"
+                               Content="J3(°)"
+                               VerticalAlignment="Top"
+                               HorizontalAlignment="Right" />
+                        <Label Grid.Row="2"
+                               Grid.Column="5"
+                               Content="0.00"
+                               HorizontalAlignment="Left" />
+                        <Label Grid.Row="3"
+                               Grid.Column="0"
+                               Content="J4(°)"
+                               VerticalAlignment="Top"
+                               HorizontalAlignment="Right" />
+                        <Label Grid.Row="3"
+                               Grid.Column="1"
+                               Content="0.00"
+                               HorizontalAlignment="Left" />
+                        <Label Grid.Row="3"
+                               Grid.Column="2"
+                               Content="J5(°)"
+                               VerticalAlignment="Top"
+                               HorizontalAlignment="Right" />
+                        <Label Grid.Row="3"
+                               Grid.Column="3"
+                               Content="0.00"
+                               HorizontalAlignment="Left" />
+                        <Label Grid.Row="3"
+                               Grid.Column="4"
+                               Content="J6(°)"
+                               VerticalAlignment="Top"
+                               HorizontalAlignment="Right" />
+                        <Label Grid.Row="3"
+                               Grid.Column="5"
+                               Content="0.00"
+                               HorizontalAlignment="Left" />
+                    </Grid>
+                </GroupBox>
+                <GroupBox Grid.Row="1"
+                          Header="手动控制">
+                    <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                    </Grid.RowDefinitions>
+                    <ComboBox Grid.Row="0"
+                                  ItemsSource="{Binding Frames}" />
+                    </Grid>
+                </GroupBox>
+            </Grid>
+        </Grid>
     </Grid>
 </Window>
