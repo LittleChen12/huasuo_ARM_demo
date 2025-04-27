@@ -160,7 +160,7 @@ namespace Robot_window
         {
             get; set;
         }
-        const bool IsConnectdSerialPort = true;
+        const bool IsConnectdSerialPort = false;
 
 
         public MainWindow()
